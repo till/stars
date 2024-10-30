@@ -238,6 +238,7 @@
 
 ## Go 
 
+- [nirmata/kube-static-egress-ip](https://github.com/nirmata/kube-static-egress-ip) - Kubernetes CRD to manage static egress IP addresses for workloads
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [lstoll/local-acmpca](https://github.com/lstoll/local-acmpca) - 
 - [hyperspike/valkey-operator](https://github.com/hyperspike/valkey-operator) - A Kubernetes Operator to deploy and manage Valkey Clusters
