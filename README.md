@@ -438,7 +438,7 @@
 - [go-ap/activitypub](https://github.com/go-ap/activitypub) - ActivityPub vocabulary for Go
 - [gaissmai/extnetip](https://github.com/gaissmai/extnetip) - Package extnetip extends the stdlib with a few missing but important auxiliary functions for converting IP-prefixes to IP-ranges and vice versa.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [fi-ts/postgreslet](https://github.com/fi-ts/postgreslet) - A small controller which act as bridge between zalando-postgres-operator
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
@@ -1507,7 +1507,7 @@
 - [eBay/goose](https://github.com/eBay/goose) - A robot for mapping github events into actionable HTTP payloads
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [yaroslav-gwit/PyVM-Bhyve](https://github.com/yaroslav-gwit/PyVM-Bhyve) - PyVM Bhyve: deploy VMs within seconds on FreeBSD - the most open and awesome OS in the world.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
@@ -1861,6 +1861,7 @@
 
 ## TypeScript 
 
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come!
 - [percona/everest](https://github.com/percona/everest) - Percona Everest is a cloud-native database platform to deploy and manage enterprise-grade PostgreSQL, MongoDB and MySQL database clusters.
