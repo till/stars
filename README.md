@@ -237,6 +237,9 @@
 
 ## Go 
 
+- [lstoll/tinkrotate](https://github.com/lstoll/tinkrotate) - Go library for automated rotation of tink keysets
+- [libdns/autodns](https://github.com/libdns/autodns) - 
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [nirmata/kube-static-egress-ip](https://github.com/nirmata/kube-static-egress-ip) - Kubernetes CRD to manage static egress IP addresses for workloads
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [lstoll/local-acmpca](https://github.com/lstoll/local-acmpca) - 
@@ -366,7 +369,7 @@
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [vmware-tanzu/crash-diagnostics](https://github.com/vmware-tanzu/crash-diagnostics) - Crash-Diagnostics (Crashd) is a tool to help investigate, analyze, and troubleshoot unresponsive or crashed Kubernetes clusters.
-- [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Cloud Metering for AI, Billing and FinOps. Collect and aggregate millions of usage events in real-time.
+- [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [virtual-kubelet/systemk](https://github.com/virtual-kubelet/systemk) - Systemk is a systemd backend for the virtual-kubelet. Instead of starting containers, you start systemd units.
 - [abiosoft/caddy-git](https://github.com/abiosoft/caddy-git) - git middleware for Caddy
 - [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
