@@ -237,6 +237,11 @@
 
 ## Go 
 
+- [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
+- [syself/cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) - Cluster API Provider Hetzner :rocket: The best way to manage Kubernetes clusters on Hetzner, fully declarative, Kubernetes-native and with self-healing capabilities
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
+- [hostwithquantum/ansible-openstack-inventory](https://github.com/hostwithquantum/ansible-openstack-inventory) - An opinionated dynamic inventory tool for Ansible and OpenStack.
+- [till/golangoss-bluesky](https://github.com/till/golangoss-bluesky) - A bot for Bluesky
 - [lstoll/tinkrotate](https://github.com/lstoll/tinkrotate) - Go library for automated rotation of tink keysets
 - [libdns/autodns](https://github.com/libdns/autodns) - 
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
@@ -245,7 +250,7 @@
 - [lstoll/local-acmpca](https://github.com/lstoll/local-acmpca) - 
 - [hyperspike/valkey-operator](https://github.com/hyperspike/valkey-operator) - A Kubernetes Operator to deploy and manage Valkey Clusters
 - [yaroslav-gwit/HosterCore](https://github.com/yaroslav-gwit/HosterCore) - 🚀 Hoster: Empowering FreeBSD Virtualisation with Ease
-- [hsnice16/email-verifier](https://github.com/hsnice16/email-verifier) - Enter an email and verify if it's a valid email or not, written in Go language. Also, exposes the core service to verify an email as a package.
+- [hsnice16/email-verifier](https://github.com/hsnice16/email-verifier) - Enter an email and verify if it's a valid email or not, written in Go language. Also, exposes the core service to verify an email as a package and as an endpoint.
 - [goharbor/acceleration-service](https://github.com/goharbor/acceleration-service) - Provides a general service to support image acceleration based on kinds of accelerator like Nydus and eStargz etc.
 - [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
@@ -387,7 +392,7 @@
 - [xhit/go-str2duration](https://github.com/xhit/go-str2duration) - Convert string to duration in golang
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [coredns/policy](https://github.com/coredns/policy) - CoreDNS external plugin to provide in-process policies as well as external policy services
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) - Sonne tanken ☀️🚘
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - Solar Charging ☀️🚘
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [plunder-app/plunder](https://github.com/plunder-app/plunder) - A Modern automation platform
 - [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library.
@@ -606,7 +611,7 @@
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
-- [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
+- [mholt/archiver](https://github.com/mholt/archiver) - DEPRECATED. Please use mholt/archives instead.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [kradalby/terraform-provider-opnsense](https://github.com/kradalby/terraform-provider-opnsense) - [WIP] Terraform provider for OPNsense
@@ -980,7 +985,7 @@
 - [fusioncharts/svelte-fusioncharts](https://github.com/fusioncharts/svelte-fusioncharts) - Svelte Component for FusionCharts JavaScript Charting Library
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
-- [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Svelte plugin for http://vitejs.dev/
+- [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Svelte plugin for https://vite.dev
 - [d3/d3-scale](https://github.com/d3/d3-scale) - Encodings that map abstract data to visual representation.
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
