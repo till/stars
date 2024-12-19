@@ -197,6 +197,7 @@
 
 ## Dockerfile 
 
+- [hostwithquantum/grafana-stack](https://github.com/hostwithquantum/grafana-stack) - Grafana for Planetary Quantum
 - [edorian/runway-react-php-example](https://github.com/edorian/runway-react-php-example) - 
 - [edorian/runway-framework-x-example](https://github.com/edorian/runway-framework-x-example) - 
 - [hostwithquantum/hugo-docker](https://github.com/hostwithquantum/hugo-docker) - hugo (extended) and Golang, in a Docker image
@@ -844,7 +845,7 @@
 - [berkay-dincer/kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected kubernetes pods.
 - [buildkite/sockguard](https://github.com/buildkite/sockguard) - A proxy for docker.sock that enforces access control and isolated privileges
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [abh/geodns](https://github.com/abh/geodns) - DNS server with per-client targeted responses
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [messagebird/sachet](https://github.com/messagebird/sachet) - SMS alerts for Prometheus' Alertmanager
