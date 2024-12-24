@@ -239,6 +239,8 @@
 
 ## Go 
 
+- [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM.
+- [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 - [zxsdotch/aws-nitro-enclave-foobar-service](https://github.com/zxsdotch/aws-nitro-enclave-foobar-service) - A sample service which runs inside an AWS Nitro enclave.
 - [mennanov/limiters](https://github.com/mennanov/limiters) - Golang rate limiters for distributed applications
@@ -707,7 +709,6 @@
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [briandowns/jail](https://github.com/briandowns/jail) - Package jail provides native FreeBSD Jail syscalls in Go
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [signal18/replication-manager](https://github.com/signal18/replication-manager) - Signal 18 repman - Replication Manager for MySQL / MariaDB / Percona Server
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [danitso/terraform-provider-proxmox](https://github.com/danitso/terraform-provider-proxmox) - Terraform Provider for Proxmox
@@ -766,7 +767,7 @@
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
-- [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
+- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [CiscoDevNet/terraform-provider-aci](https://github.com/CiscoDevNet/terraform-provider-aci) - Terraform Cisco ACI provider
@@ -1494,6 +1495,7 @@
 
 ## Python 
 
+- [joewilliams/1pass2apple](https://github.com/joewilliams/1pass2apple) - Convert 1password 1pif export to Apple Password CSV
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [bundesAPI/klinikatlas-api](https://github.com/bundesAPI/klinikatlas-api) - klinikatlas api
 - [Mirantis/kqueen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager
