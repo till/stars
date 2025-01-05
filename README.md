@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 - [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library of iterators to augment the standard library
 - [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
@@ -1196,6 +1197,7 @@
 
 ## Others 
 
+- [bmizerany/setup-postgres](https://github.com/bmizerany/setup-postgres) - The fastest PostgreSQL setup for GitHub Actions
 - [c3e/grundgesetz](https://github.com/c3e/grundgesetz) - Grundgesetz für die Bundesrepublik Deutschland
 - [hostwithquantum/setup-k8s-action](https://github.com/hostwithquantum/setup-k8s-action) - A composite action to setup the k8s environment for our deployments.
 - [EOSC-synergy/ssh-oidc](https://github.com/EOSC-synergy/ssh-oidc) - Documentation for SSH with OIDC
