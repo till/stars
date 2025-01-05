@@ -1980,6 +1980,8 @@
 
 ## others 
 
+- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language
+- [bmizerany/setup-postgres](https://github.com/bmizerany/setup-postgres) - The fastest PostgreSQL setup for GitHub Actions
 - [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM.
 - [joewilliams/1pass2apple](https://github.com/joewilliams/1pass2apple) - Convert 1password 1pif export to Apple Password CSV
 - [zxsdotch/aws-nitro-enclave-foobar-service](https://github.com/zxsdotch/aws-nitro-enclave-foobar-service) - A sample service which runs inside an AWS Nitro enclave.
