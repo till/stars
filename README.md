@@ -69,6 +69,7 @@
 - [bitkeeper-scm/bitkeeper](https://github.com/bitkeeper-scm/bitkeeper) - This is the master copy of the BitKeeper source
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
@@ -239,6 +240,8 @@
 
 ## Go 
 
+- [hostwithquantum/deno-buildpack](https://github.com/hostwithquantum/deno-buildpack) - A deno buildpack for runway! [Functional, but still WIP!]
+- [zawachte/etcd-k8s-extract](https://github.com/zawachte/etcd-k8s-extract) - etcd-k8s-extract takes in an etcd data directory or db file used in kubernetes, extracts the kubernetes resources and then writes the resources to disk in yaml format.
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 - [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library of iterators to augment the standard library
@@ -250,7 +253,7 @@
 - [zxsdotch/aws-nitro-enclave-foobar-service](https://github.com/zxsdotch/aws-nitro-enclave-foobar-service) - A sample service which runs inside an AWS Nitro enclave.
 - [mennanov/limiters](https://github.com/mennanov/limiters) - Golang rate limiters for distributed applications
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
-- [leptonai/gpud](https://github.com/leptonai/gpud) - 
+- [leptonai/gpud](https://github.com/leptonai/gpud) - GPUd automates monitoring, diagnostics, and issue identification for GPUs
 - [hslatman/caddy-crowdsec-bouncer](https://github.com/hslatman/caddy-crowdsec-bouncer) - A Caddy module that blocks malicious traffic based on decisions made by CrowdSec.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
@@ -368,7 +371,6 @@
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
-- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
@@ -452,9 +454,8 @@
 - [jcmoraisjr/haproxy-ingress](https://github.com/jcmoraisjr/haproxy-ingress) - HAProxy Ingress
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [Luzilla/dnsbl_exporter](https://github.com/Luzilla/dnsbl_exporter) - Prometheus compatible exporter to query DNSBLs/RBLs.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 17, 2025. See you in the new year!
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [kubewharf/kubebrain](https://github.com/kubewharf/kubebrain) - A High Performance Metadata System for Kubernetes
 - [ngrok/firewall_toolkit](https://github.com/ngrok/firewall_toolkit) - golang library and tools for managing nftables
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -577,7 +578,6 @@
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
@@ -996,6 +996,7 @@
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [leffss/gowebssh](https://github.com/leffss/gowebssh) - Webssh implemented by github.com/gorilla/websocket and golang.org/x/crypto/ssh
 - [fusioncharts/svelte-fusioncharts](https://github.com/fusioncharts/svelte-fusioncharts) - Svelte Component for FusionCharts JavaScript Charting Library
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Svelte plugin for https://vite.dev
@@ -1500,6 +1501,8 @@
 
 ## Python 
 
+- [Mirantis/rockoon](https://github.com/Mirantis/rockoon) - OpenStack Orchestration for Kubernetes
+- [annetutil/annet](https://github.com/annetutil/annet) - Configuration generation and deploying utility for network equipment
 - [joewilliams/1pass2apple](https://github.com/joewilliams/1pass2apple) - Convert 1password 1pif export to Apple Password CSV
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [bundesAPI/klinikatlas-api](https://github.com/bundesAPI/klinikatlas-api) - klinikatlas api
@@ -1518,7 +1521,7 @@
 - [Mirantis/CloudFerry](https://github.com/Mirantis/CloudFerry) - Openstack workload migration tool
 - [mayflower/slack_my_documents](https://github.com/mayflower/slack_my_documents) - Einfacher Slackbot zur Dokumentenrecherche auf Deutsch.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [sieve-project/sieve](https://github.com/sieve-project/sieve) - Automatic Reliability Testing for Kubernetes Controllers and Operators
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [bundesAPI/handelsregister](https://github.com/bundesAPI/handelsregister) - 
@@ -1877,6 +1880,7 @@
 
 ## Swift 
 
+- [shapehq/tartelet](https://github.com/shapehq/tartelet) - ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -1912,6 +1916,7 @@
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [knicola/yup-password](https://github.com/knicola/yup-password) - Yup, dead simple password validation.
 - [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [fingerprintjs/blog-nojs-fingerprint-demo](https://github.com/fingerprintjs/blog-nojs-fingerprint-demo) - A demo for the no-JavaScript fingerprinting article
 - [ory/docs](https://github.com/ory/docs) - The Ory documentation
 - [ory/closed-reference-notifier](https://github.com/ory/closed-reference-notifier) - A GitHub action to open an issue when GitHub references in your code are closed.
