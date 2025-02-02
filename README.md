@@ -240,6 +240,8 @@
 
 ## Go 
 
+- [stonith404/pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [hostwithquantum/deno-buildpack](https://github.com/hostwithquantum/deno-buildpack) - A deno buildpack for runway! [Functional, but still WIP!]
 - [zawachte/etcd-k8s-extract](https://github.com/zawachte/etcd-k8s-extract) - etcd-k8s-extract takes in an etcd data directory or db file used in kubernetes, extracts the kubernetes resources and then writes the resources to disk in yaml format.
@@ -463,7 +465,7 @@
 - [go-ap/activitypub](https://github.com/go-ap/activitypub) - ActivityPub vocabulary for Go
 - [gaissmai/extnetip](https://github.com/gaissmai/extnetip) - Package extnetip extends the stdlib with a few missing but important auxiliary functions for converting IP-prefixes to IP-ranges and vice versa.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open source, reactive, scalable, highly-available, unified cache optimized for modern hardware.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory database with query subscriptions.
 - [fi-ts/postgreslet](https://github.com/fi-ts/postgreslet) - A small controller which act as bridge between zalando-postgres-operator
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [integr8ly/cloud-resource-operator](https://github.com/integr8ly/cloud-resource-operator) - Operator for provisioning resources (Postgres, Redis etc) in-cluster or via cloud providers
