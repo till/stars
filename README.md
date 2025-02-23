@@ -124,7 +124,7 @@
 
 ## C# # 
 
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas) - SlimFaas : The slimest and simplest Function As A Service
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas) - SlimFaas : The slimmest and simplest Function As A Service
 - [barncastle/Battle.Net-Installer](https://github.com/barncastle/Battle.Net-Installer) - A tool for installing, updating and repairing Blizzard games through Battle.net.
 - [JabbR/JabbR](https://github.com/JabbR/JabbR) - Collaborative chat done right
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
