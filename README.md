@@ -240,6 +240,7 @@
 
 ## Go 
 
+- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [amanbolat/ft](https://github.com/amanbolat/ft) - Logs, traces and metrics for any function
 - [hostwithquantum/tpl](https://github.com/hostwithquantum/tpl) - A small wrapper around html/template
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
