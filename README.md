@@ -240,6 +240,7 @@
 
 ## Go 
 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [amanbolat/ft](https://github.com/amanbolat/ft) - Logs, traces and metrics for any function
 - [hostwithquantum/tpl](https://github.com/hostwithquantum/tpl) - A small wrapper around html/template
@@ -471,7 +472,7 @@
 - [go-ap/activitypub](https://github.com/go-ap/activitypub) - ActivityPub vocabulary for Go
 - [gaissmai/extnetip](https://github.com/gaissmai/extnetip) - Package extnetip extends the stdlib with a few missing but important auxiliary functions for converting IP-prefixes to IP-ranges and vice versa.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory database with query subscriptions.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory reactive database with query subscriptions.
 - [fi-ts/postgreslet](https://github.com/fi-ts/postgreslet) - A small controller which act as bridge between zalando-postgres-operator
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [integr8ly/cloud-resource-operator](https://github.com/integr8ly/cloud-resource-operator) - Operator for provisioning resources (Postgres, Redis etc) in-cluster or via cloud providers
@@ -1018,7 +1019,6 @@
 - [riatelab/bertin](https://github.com/riatelab/bertin) - A package to draw maps in javascript
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [anthonykawa/artifact-server](https://github.com/anthonykawa/artifact-server) - Github Artifacts server example
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [gethugothemes/andromeda-light-hugo](https://github.com/gethugothemes/andromeda-light-hugo) - Andromeda-light is a clean and modern Hugo SAAS Software theme. It perfectly fits any kind of SAAS Software. It is fully responsive, Superfast and powered by Bootstrap.
@@ -1174,6 +1174,7 @@
 
 ## Makefile 
 
+- [pngmbh/docker-backup-cron](https://github.com/pngmbh/docker-backup-cron) - Container that uses crond to run commands; also includes rsync and rclone.
 - [hostwithquantum/runway-buildpack-stack](https://github.com/hostwithquantum/runway-buildpack-stack) - Runway's buildpack stack (jammy) to easily deploy applications. No devops required!
 - [opencontainers/wg-freebsd-runtime](https://github.com/opencontainers/wg-freebsd-runtime) - A repository for coordinating the work of defining a FreeBSD extension to the OCI runtime
 - [hostwithquantum/setup-mc](https://github.com/hostwithquantum/setup-mc) - A github action to download minio client (mc) in your workflows.
@@ -1511,7 +1512,6 @@
 ## Python 
 
 - [Mirantis/rockoon](https://github.com/Mirantis/rockoon) - OpenStack Orchestration for Kubernetes
-- [annetutil/annet](https://github.com/annetutil/annet) - Configuration generation and deploying utility for network equipment
 - [joewilliams/1pass2apple](https://github.com/joewilliams/1pass2apple) - Convert 1password 1pif export to Apple Password CSV
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [bundesAPI/klinikatlas-api](https://github.com/bundesAPI/klinikatlas-api) - klinikatlas api
@@ -1931,6 +1931,7 @@
 - [ory/closed-reference-notifier](https://github.com/ory/closed-reference-notifier) - A GitHub action to open an issue when GitHub references in your code are closed.
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
