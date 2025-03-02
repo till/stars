@@ -64,6 +64,7 @@
 
 ## C 
 
+- [castai/egressd](https://github.com/castai/egressd) - Kubernetes aware network traffic monitoring
 - [bluedragonsecurity/bds_freebsd](https://github.com/bluedragonsecurity/bds_freebsd) - Freebsd KLD Rootkit for FreeBSD 13. Hides files, hides process, hides port, bind shell backdoor
 - [scovl/checkrc](https://github.com/scovl/checkrc) - A command-line tool designed to validate the configuration settings in the FreeBSD /etc/rc.conf file
 - [bitkeeper-scm/bitkeeper](https://github.com/bitkeeper-scm/bitkeeper) - This is the master copy of the BitKeeper source
@@ -591,7 +592,6 @@
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [openfaas/faasd](https://github.com/openfaas/faasd) - Lightweight and portable version of OpenFaaS
 - [paketo-buildpacks/go](https://github.com/paketo-buildpacks/go) - A Cloud Native Buildpack for Go
 - [omegion/vault-unseal](https://github.com/omegion/vault-unseal) - Free Vault Auto Unseal
 - [itzg/kube-metrics-exporter](https://github.com/itzg/kube-metrics-exporter) - Simple application that accesses the Kubernetes metrics API and exports the pod metrics for Prometheus scraping
