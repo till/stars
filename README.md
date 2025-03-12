@@ -392,6 +392,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [seipan/bulma](https://github.com/seipan/bulma) - :punch: CLI tool to parse OpenAPI and stress test each endpoint.  :punch:
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) - High performance JSON decoder in Go
@@ -1780,7 +1781,6 @@
 - [virtuozzo/vhideploy](https://github.com/virtuozzo/vhideploy) - Automated VHI Deployment
 - [voyagermesh/voyager](https://github.com/voyagermesh/voyager) - 🚀 Secure L7/L4 (HAProxy) Ingress Controller for Kubernetes
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes without the root privileges
 - [davidchisnall/container-vm-scripts](https://github.com/davidchisnall/container-vm-scripts) - Scripts for building FreeBSD VMs for use with podman
 - [brokenpip3/setup-bats-libs](https://github.com/brokenpip3/setup-bats-libs) - Github actions that setup Bats all the bats libs: support, assert, detik, file.
