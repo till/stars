@@ -2017,6 +2017,7 @@
 
 ## others 
 
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock LSM. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [zeenix/zlink](https://github.com/zeenix/zlink) - 
 - [hostwithquantum/hugo-metamonster](https://github.com/hostwithquantum/hugo-metamonster) - Optimize your Hugo site with Metamonster
 - [nabsul/kcert](https://github.com/nabsul/kcert) - KCert: A Simple Let's Encrypt Manager for Kubernetes
