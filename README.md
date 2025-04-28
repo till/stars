@@ -132,6 +132,7 @@
 
 ## C++ 
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [robjinman/richard](https://github.com/robjinman/richard) - Richard is gaining power
@@ -232,7 +233,7 @@
 - [kilaulena/couchdb](https://github.com/kilaulena/couchdb) - Mirror of Apache CouchDB
 - [bdionne/bitstore](https://github.com/bdionne/bitstore) - A document based ontology development environment
 - [ostinelli/misultin](https://github.com/ostinelli/misultin) - Misultin (pronounced mee-sool-téen) is an Erlang library for building fast lightweight HTTP(S) servers, which also supports websockets.
-- [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
+- [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability
 - [jchris/hovercraft](https://github.com/jchris/hovercraft) - An easy direct Erlang CouchDB library.
 
 ## Gherkin 
@@ -241,6 +242,12 @@
 
 ## Go 
 
+- [operasoftware/cnpg-plugin-pgbackrest](https://github.com/operasoftware/cnpg-plugin-pgbackrest) - pgBackRest CNPG-I backup plugin
+- [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
+- [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
+- [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
+- [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
@@ -431,7 +438,6 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [coredns/policy](https://github.com/coredns/policy) - CoreDNS external plugin to provide in-process policies as well as external policy services
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [plunder-app/plunder](https://github.com/plunder-app/plunder) - A Modern automation platform
 - [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library.
 - [sr/tsproxy](https://github.com/sr/tsproxy) - 
@@ -476,7 +482,7 @@
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [Luzilla/dnsbl_exporter](https://github.com/Luzilla/dnsbl_exporter) - Prometheus compatible exporter to query DNSBLs/RBLs.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [kubewharf/kubebrain](https://github.com/kubewharf/kubebrain) - A High Performance Metadata System for Kubernetes
 - [ngrok/firewall_toolkit](https://github.com/ngrok/firewall_toolkit) - golang library and tools for managing nftables
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -528,7 +534,6 @@
 - [fly-apps/postgres-ha](https://github.com/fly-apps/postgres-ha) - Postgres + Stolon for HA clusters as Fly apps.
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
@@ -545,7 +550,6 @@
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [paketo-community/staticfile](https://github.com/paketo-community/staticfile) - A Cloud Native Buildpack to provide default server configurations
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
@@ -612,7 +616,6 @@
 - [hashicorp/terraform-plugin-sdk](https://github.com/hashicorp/terraform-plugin-sdk) - Terraform Plugin SDK enables building plugins (providers) to manage any service providers or custom in-house solutions
 - [hashicorp/terraform-exec](https://github.com/hashicorp/terraform-exec) - Terraform CLI commands via Go.
 - [sawadashota/kratos-frontend-go](https://github.com/sawadashota/kratos-frontend-go) - Sample for ory/kratos frontend in Go: alternative ory/kratos-selfservice-ui-node.
-- [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, clo
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
@@ -645,7 +648,6 @@
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [mholt/archiver](https://github.com/mholt/archiver) - DEPRECATED. Please use mholt/archives instead.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [kradalby/terraform-provider-opnsense](https://github.com/kradalby/terraform-provider-opnsense) - [WIP] Terraform provider for OPNsense
 - [dalet-oss/terraform-provider-opnsense](https://github.com/dalet-oss/terraform-provider-opnsense) - Terraform Provider for OPNSense DHCP Leases
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -661,13 +663,11 @@
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [crossplane/provider-template](https://github.com/crossplane/provider-template) - A template for building @crossplane providers.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks
 - [buildpacks/lifecycle](https://github.com/buildpacks/lifecycle) - Reference implementation of the Cloud Native Buildpacks lifecycle
 - [weaveworks/cluster-api-provider-existinginfra](https://github.com/weaveworks/cluster-api-provider-existinginfra) - Manage existing infrastructure with Cluster API using this provider.
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
-- [hashicorp/terraform-provider-tfe](https://github.com/hashicorp/terraform-provider-tfe) - Official HCP Terraform and Terraform Enterprise provider, maintained by HashiCorp. Provision HCP Terraform or Terraform Enterprise - with Terraform!
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [haproxytech/client-native](https://github.com/haproxytech/client-native) - Go client for HAProxy configuration and runtime API
 - [homeport/havener](https://github.com/homeport/havener) - /ˈheɪvənə/ - Think of it as a swiss army knife for Kubernetes tasks
@@ -788,7 +788,6 @@
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [CiscoDevNet/terraform-provider-aci](https://github.com/CiscoDevNet/terraform-provider-aci) - Terraform Cisco ACI provider
 - [hashicorp/terraform-provider-ad](https://github.com/hashicorp/terraform-provider-ad) - Active Directory provider for HashiCorp Terraform (experimental)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -965,6 +964,7 @@
 
 ## Java 
 
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [videlalvaro/gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated Gifs as a transport™
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [LINBIT/linstor-server](https://github.com/LINBIT/linstor-server) - High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
@@ -1282,6 +1282,7 @@
 
 ## PHP 
 
+- [TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno) - tirreno is an open-source SIEM to monitor and protect your web application from cyber fraud, account takeovers, fake accounts, and abuse. Get started for free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
@@ -1510,6 +1511,7 @@
 
 ## Python 
 
+- [ContainerCraft/Kargo](https://github.com/ContainerCraft/Kargo) - Kargo Private Cloud Platform
 - [Mirantis/rockoon](https://github.com/Mirantis/rockoon) - OpenStack Orchestration for Kubernetes
 - [joewilliams/1pass2apple](https://github.com/joewilliams/1pass2apple) - Convert 1password 1pif export to Apple Password CSV
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
@@ -1545,7 +1547,7 @@
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [yaroslav-gwit/PyVM-Bhyve](https://github.com/yaroslav-gwit/PyVM-Bhyve) - PyVM Bhyve: deploy VMs within seconds on FreeBSD - the most open and awesome OS in the world.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host, or use our SaaS at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [trailofbits/it-depends](https://github.com/trailofbits/it-depends) - A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.
 - [cloudalchemy/ansible-node-exporter](https://github.com/cloudalchemy/ansible-node-exporter) - Provision basic metrics exporter for prometheus monitoring tool
@@ -1705,6 +1707,7 @@
 
 ## Rust 
 
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [zeenix/zlink](https://github.com/zeenix/zlink) - 
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
@@ -1905,6 +1908,8 @@
 
 ## TypeScript 
 
+- [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
+- [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
