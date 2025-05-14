@@ -715,7 +715,7 @@
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [gophercloud/gophercloud](https://github.com/gophercloud/gophercloud) - Gophercloud: an OpenStack SDK for Go
-- [honeycombio/beeline-go](https://github.com/honeycombio/beeline-go) - Legacy instrumentation for golang apps with Honeycomb
+- [honeycombio/beeline-go](https://github.com/honeycombio/beeline-go) - Legacy instrumentation for golang apps with Honeycomb. This repo will be archived on August 12, 2025.
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [joaquimmmagalhaes/terraform-provider-sftpgo](https://github.com/joaquimmmagalhaes/terraform-provider-sftpgo) - 
@@ -1284,7 +1284,7 @@
 
 ## PHP 
 
-- [TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno) - tirreno is an open-source SIEM to monitor and protect your web application from cyber fraud, account takeovers, fake accounts, and abuse. Get started for free.
+- [TirrenoTechnologies/tirreno](https://github.com/TirrenoTechnologies/tirreno) - tirreno is an open-source platform to monitor and protect your web application from cyber fraud, account takeovers, fake accounts, bots, and abuse. Get started for free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
@@ -1527,7 +1527,6 @@
 - [bbelky/vhibot](https://github.com/bbelky/vhibot) - Virtuozzo Hybrid Infrastructure Telegram Bot
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [fmaida/mastodon2hugo](https://github.com/fmaida/mastodon2hugo) - Enables searchability for your Hugo website on Mastodon. Now, anyone can discover you on Mastodon by simply entering your domain.
-- [vexxhost/github-actions-openstack](https://github.com/vexxhost/github-actions-openstack) - Auto-scaling self-hosted GitHub Actions runners on OpenStack
 - [ghostsquad/swarmci](https://github.com/ghostsquad/swarmci) - Swarm CI - Docker Swarm-based CI system or enhancement to existing systems.
 - [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates.
 - [Mirantis/CloudFerry](https://github.com/Mirantis/CloudFerry) - Openstack workload migration tool
@@ -1733,6 +1732,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [G-Core/nginx-rust](https://github.com/G-Core/nginx-rust) - Nginx API bindings for Rust.
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
+- [vexxhost/github-actions-openstack](https://github.com/vexxhost/github-actions-openstack) - Auto-scaling self-hosted GitHub Actions runners on OpenStack
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [flatcar/ue-rs](https://github.com/flatcar/ue-rs) - Prototype Omaha Rust implementation
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
