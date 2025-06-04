@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Arduino](#arduino)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -56,10 +55,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-
-## Arduino 
-
-- [easybiblabs/window-opener](https://github.com/easybiblabs/window-opener) - Opens windows.
 
 ## C 
 
@@ -1325,7 +1320,6 @@
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [johnkary/phpunit-speedtrap](https://github.com/johnkary/phpunit-speedtrap) - Reports on slow-running tests in your PHPUnit test suite
 - [Kagency/couchdb-endpoint](https://github.com/Kagency/couchdb-endpoint) - PHP Endpoint for CouchDB replication with about any backend.
-- [easybiblabs/easybib-codesniffer](https://github.com/easybiblabs/easybib-codesniffer) - Adding some sniffs to PSR2
 - [s9y/Serendipity](https://github.com/s9y/Serendipity) - A PHP blog software
 - [dazz/repo-pr-stats](https://github.com/dazz/repo-pr-stats) - Instantly see health of repositories
 - [QafooLabs/profiler](https://github.com/QafooLabs/profiler) - Moved to tideways/profiler
@@ -1335,7 +1329,6 @@
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
 - [Ocramius/ProxyManager](https://github.com/Ocramius/ProxyManager) - 🎩✨🌈 OOP Proxy wrappers/utilities - generates and manages proxies of your objects
 - [timeinfeldt/csschecker](https://github.com/timeinfeldt/csschecker) - checks yo css
-- [easybiblabs/generator-processes](https://github.com/easybiblabs/generator-processes) - A collection of processes operating on iterators, usually implemented as generators
 - [auraphp/Aura.Di](https://github.com/auraphp/Aura.Di) - Dependency Injection System
 - [clue/phar-composer](https://github.com/clue/phar-composer) - Simple phar creation for every PHP project managed via Composer
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
@@ -1646,7 +1639,6 @@
 - [hipchat/hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
 - [wzin/opsworks_hipchat](https://github.com/wzin/opsworks_hipchat) - Opsworks Hipchat notifications for deployments
 - [atmos/slash-heroku](https://github.com/atmos/slash-heroku) - /heroku commands for slack
-- [easybiblabs/vagrant-logs](https://github.com/easybiblabs/vagrant-logs) - vagrant plugin: debugging helper
 - [mrtazz/katana](https://github.com/mrtazz/katana) - ready to go heroku hosted URL shortener based on guillotine
 - [rwos/fdcli](https://github.com/rwos/fdcli) - 
 - [chef-boneyard/route53](https://github.com/chef-boneyard/route53) - DEPRECATED: Provides resources for adding and removing records from Amazon Route53
@@ -1708,7 +1700,7 @@
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
-- [zeenix/zlink](https://github.com/zeenix/zlink) - 
+- [zeenix/zlink](https://github.com/zeenix/zlink) - An asynchronous no-std-compatible Varlink Rust crate
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [Ramilito/kubediff](https://github.com/Ramilito/kubediff) - Source VS Deployed
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port forward manager, with support for UDP and proxy connections through k8s clusters
@@ -1914,7 +1906,7 @@
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come!
 - [percona/everest](https://github.com/percona/everest) - Percona Everest is a cloud-native database platform to deploy and manage enterprise-grade PostgreSQL, MongoDB and MySQL database clusters.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
