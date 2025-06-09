@@ -236,6 +236,7 @@
 
 ## Go 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters
 - [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
@@ -403,7 +404,6 @@
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [seipan/bulma](https://github.com/seipan/bulma) - :punch: CLI tool to parse OpenAPI and stress test each endpoint.  :punch:
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) - High performance JSON decoder in Go
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
@@ -490,7 +490,7 @@
 - [fi-ts/postgreslet](https://github.com/fi-ts/postgreslet) - A small controller which act as bridge between zalando-postgres-operator
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [integr8ly/cloud-resource-operator](https://github.com/integr8ly/cloud-resource-operator) - Operator for provisioning resources (Postgres, Redis etc) in-cluster or via cloud providers
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [poseidon/matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Fedora CoreOS and Flatcar Linux clusters
 - [krisnova/naml](https://github.com/krisnova/naml) - Convert Kubernetes YAML to Golang
 - [coreos/butane](https://github.com/coreos/butane) - Butane translates human-readable Butane Configs into machine-readable Ignition Configs.
@@ -1276,7 +1276,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Monitor, analyze, and protect your web application from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Monitor, analyze, and protect your web application against cyberfraud, account threats, and abuse. Get started — free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
