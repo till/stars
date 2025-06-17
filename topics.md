@@ -100,6 +100,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jenkins](#jenkins)
 - [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
@@ -202,7 +203,7 @@
 
 ## ai 
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless/diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -220,7 +221,7 @@
 ## analytics 
 
 - [thanos-community/obslytics](https://github.com/thanos-community/obslytics) - Tools and Services allowing seamless usage of Observability data from Prometheus, Thanos, Cortex, M3DB, Loki and more!
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Monitor, analyze, and protect your web application from cyber fraud, account takeovers, fake accounts, bots, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source user intelligence platform. Monitor, analyze, and protect your app from cyber and account threats. Get started — free.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
@@ -338,7 +339,6 @@
 
 ## aws 
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
@@ -364,7 +364,7 @@
 
 ## azure 
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless/diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
@@ -482,7 +482,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [osiegmar/autodns-cli](https://github.com/osiegmar/autodns-cli) - Command line utility for AutoDNS by InternetX
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 
 ## compiler 
@@ -635,6 +635,7 @@
 
 ## docker 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [pngmbh/docker-backup-cron](https://github.com/pngmbh/docker-backup-cron) - Container that uses crond to run commands; also includes rsync and rclone.
@@ -880,6 +881,7 @@
 
 ## go 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [amanbolat/ft](https://github.com/amanbolat/ft) - Logs, traces and metrics for any function
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
@@ -935,7 +937,7 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [go-ap/activitypub](https://github.com/go-ap/activitypub) - ActivityPub vocabulary for Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [krisnova/naml](https://github.com/krisnova/naml) - Convert Kubernetes YAML to Golang
 - [google/nftables](https://github.com/google/nftables) - This repository contains a Go module to interact with Linux nftables (the iptables successor).
 - [authzed/controller-idioms](https://github.com/authzed/controller-idioms) - Generic libraries for building idiomatic Kubernetes controllers
@@ -1066,12 +1068,13 @@
 - [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update
 - [jinzhu/configor](https://github.com/jinzhu/configor) - Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [valyala/fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 
 ## golang 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 - [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
@@ -1113,7 +1116,6 @@
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [summerwind/vault-plugin-auth-openstack](https://github.com/summerwind/vault-plugin-auth-openstack) - Vault authentication plugin for OpenStack instance
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [sugawarayuuta/sonnet](https://github.com/sugawarayuuta/sonnet) - High performance JSON decoder in Go
 - [k0sproject/bootloose](https://github.com/k0sproject/bootloose) - Manage containers that look like virtual machines
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -1233,7 +1235,7 @@
 - [fagongzi/manba](https://github.com/fagongzi/manba) - HTTP API Gateway
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [kayrus/putty](https://github.com/kayrus/putty) - Go package to parse PuTTY private key formats
-- [sapcc/hermes](https://github.com/sapcc/hermes) - Audit Data API for OpenStack deployments.
+- [SAP-cloud-infrastructure/hermez](https://github.com/SAP-cloud-infrastructure/hermez) - Audit Data API for OpenStack deployments.
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
 - [czerwonk/bird_socket](https://github.com/czerwonk/bird_socket) - Golang library to communicate with Bird routing daemon
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -1325,7 +1327,6 @@
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [jjideenschmiede/golexoffice](https://github.com/jjideenschmiede/golexoffice) - An library to use the lexoffice api in go.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
@@ -1537,6 +1538,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [nginx/njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -1568,6 +1570,10 @@
 - [hostwithquantum/runway-example-jekyll](https://github.com/hostwithquantum/runway-example-jekyll) - example jekyll app for runway
 - [inukshuk/jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) - jekyll extensions for the blogging scholar
 
+## jenkins 
+
+- [jenkinsci/pipeline-as-yaml-plugin](https://github.com/jenkinsci/pipeline-as-yaml-plugin) - Jenkins Pipeline As Yaml Plugin
+
 ## js 
 
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
@@ -1581,7 +1587,7 @@
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [valyala/fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [willdurand/Hateoas](https://github.com/willdurand/Hateoas) - A PHP library to support implementing representations for HATEOAS REST web services.
 
 ## kotlin 
@@ -1890,7 +1896,7 @@
 
 ## monitoring 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Monitor, analyze, and protect your web application from cyber fraud, account takeovers, fake accounts, bots, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source user intelligence platform. Monitor, analyze, and protect your app from cyber and account threats. Get started — free.
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code
@@ -1951,7 +1957,6 @@
 ## nextjs 
 
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -1969,7 +1974,6 @@
 ## nodejs 
 
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [knicola/yup-password](https://github.com/knicola/yup-password) - Yup, dead simple password validation.
@@ -2021,6 +2025,8 @@
 
 ## others 
 
+- [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters
+- [flatcar/flatcar-demos](https://github.com/flatcar/flatcar-demos) - A collection of demos shown at conferences, meetups, and the like.
 - [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
@@ -2181,6 +2187,7 @@
 - [tkrajina/typescriptify-golang-structs](https://github.com/tkrajina/typescriptify-golang-structs) - A Golang struct to TypeScript class/interface converter
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [Rhymond/go-money](https://github.com/Rhymond/go-money) - Go implementation of Fowler's Money pattern
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
 - [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - 
@@ -2288,7 +2295,6 @@
 - [tibeer/vscodium](https://github.com/tibeer/vscodium) - binary releases [+Darwin_ARM64] of VS Code without MS branding/telemetry/licensing
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
-- [nginx/njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
 - [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks
 - [fagiani/static-buildpack](https://github.com/fagiani/static-buildpack) - CNB buildpack to serve static content with nginx
@@ -3033,7 +3039,7 @@
 
 ## php 
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
@@ -3174,9 +3180,9 @@
 
 ## react 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
@@ -3273,7 +3279,7 @@
 
 ## security 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Monitor, analyze, and protect your web application from cyber fraud, account takeovers, fake accounts, bots, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source user intelligence platform. Monitor, analyze, and protect your app from cyber and account threats. Get started — free.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -3326,7 +3332,8 @@
 
 ## self-hosted 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Monitor, analyze, and protect your web application from cyber fraud, account takeovers, fake accounts, bots, and abuse. Get started — free.
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source user intelligence platform. Monitor, analyze, and protect your app from cyber and account threats. Get started — free.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
@@ -3360,7 +3367,7 @@
 
 ## serverless 
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless/diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [s8sg/faas-flow](https://github.com/s8sg/faas-flow) - Function Composition for OpenFaaS
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
@@ -3543,6 +3550,7 @@
 
 ## typescript 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port forward manager, with support for UDP and proxy connections through k8s clusters
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
@@ -3582,7 +3590,7 @@
 - [tektoncd/dashboard](https://github.com/tektoncd/dashboard) - A dashboard for Tekton!
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [brigadecore/kashti](https://github.com/brigadecore/kashti) - Kashti is a dashboard for your Brigade v1 pipelines.
-- [sapcc/elektra](https://github.com/sapcc/elektra) - An opinionated openstack Web UI for consumer self service and operations.
+- [SAP-cloud-infrastructure/elektra](https://github.com/SAP-cloud-infrastructure/elektra) - An opinionated openstack Web UI for consumer self service and operations.
 
 ## ui-design 
 
@@ -3603,7 +3611,6 @@
 - [jsiebens/brink](https://github.com/jsiebens/brink) - brink - a lightweight identity aware proxy
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
