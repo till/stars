@@ -751,7 +751,7 @@
 - [sapcc/limes](https://github.com/sapcc/limes) - OpenStack-compatible quota/usage tracking service
 - [gardener/gardener-extension-provider-openstack](https://github.com/gardener/gardener-extension-provider-openstack) - Gardener extension controller for the OpenStack cloud provider (https://openstack.org).
 - [kayrus/putty](https://github.com/kayrus/putty) - Go package to parse PuTTY private key formats
-- [sapcc/hermes](https://github.com/sapcc/hermes) - Audit Data API for OpenStack deployments.
+- [SAP-cloud-infrastructure/hermez](https://github.com/SAP-cloud-infrastructure/hermez) - Audit Data API for OpenStack deployments.
 - [kayrus/ingress-terraform](https://github.com/kayrus/ingress-terraform) - A Kubernetes ingress controller, which allows to manage LBaaS resources using the Terraform
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
@@ -959,7 +959,7 @@
 
 ## Java 
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless/diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [videlalvaro/gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated Gifs as a transport™
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [LINBIT/linstor-server](https://github.com/LINBIT/linstor-server) - High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
@@ -1042,7 +1042,7 @@
 - [alphagov/paas-prometheus-charts](https://github.com/alphagov/paas-prometheus-charts) - generate SVG charts for PromQL queries
 - [LacquerLabs/service-ids](https://github.com/LacquerLabs/service-ids) - 
 - [lukepatrick/minio-brigade](https://github.com/lukepatrick/minio-brigade) - 
-- [sapcc/elektra](https://github.com/sapcc/elektra) - An opinionated openstack Web UI for consumer self service and operations.
+- [SAP-cloud-infrastructure/elektra](https://github.com/SAP-cloud-infrastructure/elektra) - An opinionated openstack Web UI for consumer self service and operations.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [redgeoff/spiegel](https://github.com/redgeoff/spiegel) - Scalable replication and change listening for CouchDB
 - [gionkunz/chartist-plugin-threshold](https://github.com/gionkunz/chartist-plugin-threshold) - Threshold Plugin for Chartist.js
@@ -1276,7 +1276,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open source user intelligence platform. Monitor, analyze, and protect your web application against cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source user intelligence platform. Monitor, analyze, and protect your app from cyber and account threats. Get started — free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
