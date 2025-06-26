@@ -236,6 +236,8 @@
 
 ## Go 
 
+- [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
+- [perses/promql-builder](https://github.com/perses/promql-builder) - A library to build PromQL expression in Golang.
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
@@ -247,7 +249,7 @@
 - [thanos-community/obslytics](https://github.com/thanos-community/obslytics) - Tools and Services allowing seamless usage of Observability data from Prometheus, Thanos, Cortex, M3DB, Loki and more!
 - [operasoftware/cnpg-plugin-pgbackrest](https://github.com/operasoftware/cnpg-plugin-pgbackrest) - pgBackRest CNPG-I backup plugin
 - [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
-- [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
+- [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
@@ -1278,7 +1280,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source user intelligence platform. Monitor, analyze, and protect your app from cyber and account threats. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source user intelligence inside your application. Monitor, analyze, and protect your app from cyber and account threats. Get started — free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
