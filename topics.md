@@ -200,7 +200,6 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
-- [zig](#zig)
 
 ## ai 
 
@@ -298,7 +297,6 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## artificial-intelligence 
 
@@ -578,7 +576,6 @@
 - [hostwithquantum/deno-buildpack](https://github.com/hostwithquantum/deno-buildpack) - A deno buildpack for Runway!
 - [cloudless-hq/atreyu](https://github.com/cloudless-hq/atreyu) - cutting edge web apps
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## deployment 
 
@@ -704,12 +701,11 @@
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [fffaraz/microdns](https://github.com/fffaraz/microdns) - A tiny dockerized DNS server in Go that (almost) always returns the same IP for any query sent to it.
-- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [manusa/actions-publish-docker](https://github.com/manusa/actions-publish-docker) - This GitHub action allows you to create and publish Docker images into a Docker registry.
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [weaveworks/footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines
 - [DomiStyle/docker-idrac6](https://github.com/DomiStyle/docker-idrac6) - iDRAC 6 web interface and VNC proxy
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [brianshumate/vaultron](https://github.com/brianshumate/vaultron) - :robot: Vault clusters Terraformed onto Docker for great fun and learning!
 - [stefan-kolb/paasyard](https://github.com/stefan-kolb/paasyard) - Docker powered (mini) deployment system for PaaS.
@@ -785,7 +781,7 @@
 
 ## flask 
 
-- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 
 ## flutter 
 
@@ -1064,7 +1060,6 @@
 - [fffaraz/microdns](https://github.com/fffaraz/microdns) - A tiny dockerized DNS server in Go that (almost) always returns the same IP for any query sent to it.
 - [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [prometheus/consul_exporter](https://github.com/prometheus/consul_exporter) - Exporter for Consul metrics
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
 - [vmware-archive/octant](https://github.com/vmware-archive/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -1272,7 +1267,6 @@
 - [kingluo/pgcat](https://github.com/kingluo/pgcat) - Enhanced PostgreSQL logical replication
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [meltwater/drone-cache](https://github.com/meltwater/drone-cache) - A Drone plugin for caching current workspace files between builds to reduce your build times
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
 - [heketi/heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS
 - [vmware-archive/octant](https://github.com/vmware-archive/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -1404,7 +1398,7 @@
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [signal-golang/textsecure](https://github.com/signal-golang/textsecure) - TextSecure(signal)  client package for Go
-- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [jenkinsci/pipeline-as-yaml-plugin](https://github.com/jenkinsci/pipeline-as-yaml-plugin) - Jenkins Pipeline As Yaml Plugin
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
@@ -1444,7 +1438,6 @@
 ## homebrew 
 
 - [hostwithquantum/homebrew-runway](https://github.com/hostwithquantum/homebrew-runway) - A homebrew-tap to install the runway CLI!
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [sous-chefs/homebrew](https://github.com/sous-chefs/homebrew) - Development repository for the homebrew cookbook
 
 ## html 
@@ -3169,7 +3162,7 @@
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [ReconInfoSec/ansible-graylog-modules](https://github.com/ReconInfoSec/ansible-graylog-modules) - Ansible modules for the Graylog API
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -3294,7 +3287,6 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [phyber/jail_exporter](https://github.com/phyber/jail_exporter) - A Prometheus exporter for FreeBSD jail metrics
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
 ## sass 
@@ -3662,7 +3654,7 @@
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ## web 
@@ -3710,10 +3702,6 @@
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
-
-## zig 
-
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 
 ## License
