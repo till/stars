@@ -1979,7 +1979,7 @@
 - [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
 - [formularium/formularium](https://github.com/formularium/formularium) - Formularium is a FOSS, privacy-first, and user-friendly toolkit for municipalities to support them in making their public services available online.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 
 
 ## License
