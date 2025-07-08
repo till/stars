@@ -1702,6 +1702,7 @@
 
 ## Rust 
 
+- [travier/sysexts-manager](https://github.com/travier/sysexts-manager) - Work in progress manager for systemd system extensions
 - [agentsea/nebulous](https://github.com/agentsea/nebulous) - A globally distributed container orchestrator
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
