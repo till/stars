@@ -380,7 +380,7 @@
 - [kubesphere/notification-manager](https://github.com/kubesphere/notification-manager) - K8s native notification management with multi-tenancy support
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and 
-- [emersion/go-imap](https://github.com/emersion/go-imap) - 📥 An IMAP library for clients and servers
+- [emersion/go-imap](https://github.com/emersion/go-imap) - 📥 An IMAP library for Go clients and servers
 - [Contextualist/acp](https://github.com/Contextualist/acp) - Make terminal personal file transfers as simple as `cp`
 - [maypok86/otter](https://github.com/maypok86/otter) - A high performance caching library for Go
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
@@ -447,7 +447,7 @@
 - [comnoco/vault-plugin-auth-ory](https://github.com/comnoco/vault-plugin-auth-ory) - A HashiCorp Vault auth plugin for Ory Kratos and Ory Keto.
 - [dchest/uniuri](https://github.com/dchest/uniuri) - Go package uniuri generates random strings good for use in URIs to identify unique objects.
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
-- [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP client & server library written in Go
+- [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP library for Go clients and servers
 - [jjideenschmiede/golexoffice](https://github.com/jjideenschmiede/golexoffice) - An library to use the lexoffice api in go.
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [tkrajina/typescriptify-golang-structs](https://github.com/tkrajina/typescriptify-golang-structs) - A Golang struct to TypeScript class/interface converter
