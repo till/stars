@@ -618,7 +618,7 @@
 - [sawadashota/kratos-frontend-go](https://github.com/sawadashota/kratos-frontend-go) - Sample for ory/kratos frontend in Go: alternative ory/kratos-selfservice-ui-node.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [zenware/dnsanalyzergo](https://github.com/zenware/dnsanalyzergo) - DNS Tester /w `ping` inspired output, written in golang
 - [Optum/cloudig](https://github.com/Optum/cloudig) - Cloud governance reports from native services in a clear and readable digest
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
@@ -858,7 +858,7 @@
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [prometheus-community/PushProx](https://github.com/prometheus-community/PushProx) - Proxy to allow Prometheus to scrape through NAT etc.
-- [meltwater/drone-cache](https://github.com/meltwater/drone-cache) - A Drone plugin for caching current workspace files between builds to reduce your build times
+- [MeltwaterArchive/drone-cache](https://github.com/MeltwaterArchive/drone-cache) - A Drone plugin for caching current workspace files between builds to reduce your build times
 - [berkay-dincer/kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected kubernetes pods.
 - [buildkite/sockguard](https://github.com/buildkite/sockguard) - A proxy for docker.sock that enforces access control and isolated privileges
 - [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
@@ -1279,7 +1279,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-Source Security Analytics. Monitor, analyze, and protect digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - The Open Source Security Analytics. Monitor, analyze, and protect digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
