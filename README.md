@@ -58,6 +58,7 @@
 
 ## C 
 
+- [aws/pgactive](https://github.com/aws/pgactive) - 
 - [castai/egressd](https://github.com/castai/egressd) - Kubernetes aware network traffic monitoring
 - [bluedragonsecurity/bds_freebsd](https://github.com/bluedragonsecurity/bds_freebsd) - Freebsd KLD Rootkit for FreeBSD 13. Hides files, hides process, hides port, bind shell backdoor
 - [scovl/checkrc](https://github.com/scovl/checkrc) - A command-line tool designed to validate the configuration settings in the FreeBSD /etc/rc.conf file
@@ -236,6 +237,9 @@
 
 ## Go 
 
+- [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
+- [superfly/rchab](https://github.com/superfly/rchab) - Fly.io Remote Builder (Remote Controlled Hot Air Balloon)
+- [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [perses/promql-builder](https://github.com/perses/promql-builder) - A library to build PromQL expression in Golang.
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
@@ -423,7 +427,7 @@
 - [virtual-kubelet/systemk](https://github.com/virtual-kubelet/systemk) - Systemk is a systemd backend for the virtual-kubelet. Instead of starting containers, you start systemd units.
 - [abiosoft/caddy-git](https://github.com/abiosoft/caddy-git) - git middleware for Caddy
 - [vmware/pinniped](https://github.com/vmware/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
-- [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
+- [docker-archive-public/docker.compose-on-kubernetes](https://github.com/docker-archive-public/docker.compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [Mirantis/k8s-externalipcontroller](https://github.com/Mirantis/k8s-externalipcontroller) - External IP controller is k8s application which is deployed on top of k8s cluster and which configures External IPs on k8s worker node(s) to provide IP connectivity.
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [sandstorm/caddy-nats-bridge](https://github.com/sandstorm/caddy-nats-bridge) - A caddy module that adds support for nats.io subscriptions, pub/sub and request/reply
@@ -1279,7 +1283,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - The Open Source Security Analytics. Monitor, analyze, and protect digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Cybersecurity Analytics. Monitor, analyze, and protect digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
@@ -1709,7 +1713,7 @@
 - [zeenix/zlink](https://github.com/zeenix/zlink) - An asynchronous no-std-compatible Varlink Rust crate
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [Ramilito/kubediff](https://github.com/Ramilito/kubediff) - Source VS Deployed
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager | enables traffic inspection, udp support, proxy connections through k8s clusters and handles state via local files or git repos
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager with traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
