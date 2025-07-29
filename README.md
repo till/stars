@@ -58,6 +58,7 @@
 
 ## C 
 
+- [multipath-tcp/tcp-in-udp](https://github.com/multipath-tcp/tcp-in-udp) - Lightweight TCP in UDP tunnel 🚇 using eBPF 🐝
 - [aws/pgactive](https://github.com/aws/pgactive) - 
 - [castai/egressd](https://github.com/castai/egressd) - Kubernetes aware network traffic monitoring
 - [bluedragonsecurity/bds_freebsd](https://github.com/bluedragonsecurity/bds_freebsd) - Freebsd KLD Rootkit for FreeBSD 13. Hides files, hides process, hides port, bind shell backdoor
@@ -338,7 +339,7 @@
 - [smartxworks/virtink](https://github.com/smartxworks/virtink) - Lightweight Virtualization Add-on for Kubernetes
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [ecin/go-dtrace](https://github.com/ecin/go-dtrace) - DTrace USDT probes in Go, built on top of libusdt.
-- [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
+- [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [virtuozzo/keystone-auth-hook](https://github.com/virtuozzo/keystone-auth-hook) - Kubernetes keystone authentication webhook.
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
@@ -1283,7 +1284,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Cybersecurity Analytics. Monitor, analyze, and protect digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - The Open Source Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
@@ -1594,7 +1595,6 @@
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [anantdgoel/ProjectFib](https://github.com/anantdgoel/ProjectFib) - Chrome extension to flag fake news on Facebook. Built at HackPrinceton '16
-- [CheggEng/ecs_id_mapper](https://github.com/CheggEng/ecs_id_mapper) - A tool for tracking the relationship between an Amazon Web Serivces ECS task ID and a Docker container ID
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multicloud management platform
 - [fugue/credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
