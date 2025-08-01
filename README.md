@@ -255,7 +255,6 @@
 - [operasoftware/cnpg-plugin-pgbackrest](https://github.com/operasoftware/cnpg-plugin-pgbackrest) - pgBackRest CNPG-I backup plugin
 - [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them 
-- [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -278,12 +277,10 @@
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [hostwithquantum/deno-buildpack](https://github.com/hostwithquantum/deno-buildpack) - A deno buildpack for Runway!
-- [zawachte/etcd-k8s-extract](https://github.com/zawachte/etcd-k8s-extract) - etcd-k8s-extract takes in an etcd data directory or db file used in kubernetes, extracts the kubernetes resources and then writes the resources to disk in yaml format.
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 - [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library of iterators to augment the standard library
 - [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
-- [google/apt-golang-s3](https://github.com/google/apt-golang-s3) - An s3 transport method for the apt package management system
 - [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM.
 - [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
@@ -1284,7 +1281,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - The Open Source Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Platform Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
@@ -1573,7 +1570,6 @@
 - [openstack/kuryr](https://github.com/openstack/kuryr) - Bridge between container framework networking and storage models to OpenStack networking and storage abstractions. Mirror of code maintained at opendev.org.
 - [andywerner/yaml_cli](https://github.com/andywerner/yaml_cli) - A command line interface to read and manipulate YAML files. Based on python, distributed as pip.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [imjoey/pyhaproxy](https://github.com/imjoey/pyhaproxy) - Python library to parse haproxy configurations
 - [byjg/docker-easy-haproxy](https://github.com/byjg/docker-easy-haproxy) - Discover services and create dynamically the haproxy.cfg based on the labels defined in docker containers or from a simple static Yaml
 - [llacroix/prometheus-swarm-discovery](https://github.com/llacroix/prometheus-swarm-discovery) - Prometheus Swarm Discovery based on file_sd
@@ -1761,7 +1757,6 @@
 
 ## SCSS 
 
-- [flatcar/flatcar-website](https://github.com/flatcar/flatcar-website) - 
 - [basho/basho_docs](https://github.com/basho/basho_docs) - Basho Products Documentation
 
 ## Sass 
@@ -1777,7 +1772,6 @@
 
 ## Shell 
 
-- [flatcar/flatcar-demos](https://github.com/flatcar/flatcar-demos) - A collection of demos shown at conferences, meetups, and the like.
 - [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [pngmbh/autodns-cli](https://github.com/pngmbh/autodns-cli) - Bash client for the AutoDNS InternetX API (to add/update records to a zone).
