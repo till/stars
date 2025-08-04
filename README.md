@@ -238,6 +238,7 @@
 
 ## Go 
 
+- [42paris/qseal](https://github.com/42paris/qseal) - qseal is a CLI tool that simplifies the process of sealing and unsealing Kubernetes secrets using kubeseal. It uses a declarative configuration file (qsealrc.yaml) to manage your secrets.
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
 - [superfly/rchab](https://github.com/superfly/rchab) - Fly.io Remote Builder (Remote Controlled Hot Air Balloon)
 - [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
@@ -808,7 +809,7 @@
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
 - [slok/kahoy](https://github.com/slok/kahoy) - Simple Kubernetes raw manifests deployment tool
 - [rochaporto/provider-openstack](https://github.com/rochaporto/provider-openstack) - Crossplane provider for OpenStack resources
-- [pngmbh/boltdb-dump-restore](https://github.com/pngmbh/boltdb-dump-restore) - 
+- [pngmbh/boltdb-dump-restore](https://github.com/pngmbh/boltdb-dump-restore) - dump and restore for boltdb
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
@@ -1058,7 +1059,6 @@
 - [facebookarchive/fixed-data-table](https://github.com/facebookarchive/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data.
 - [socoded/lichterwahn](https://github.com/socoded/lichterwahn) - So Coded baloon lights control library
 - [rlidwka/yapm](https://github.com/rlidwka/yapm) - yapm is a package manager for node.js (npm fork)
-- [brandonwamboldt/varnish-dashboard](https://github.com/brandonwamboldt/varnish-dashboard) - Advanced realtime Varnish dashboard with support for multiple servers and advanced management tasks
 - [luciotato/waitfor](https://github.com/luciotato/waitfor) - Sequential programming for node.js, end of callback hell / pyramid of doom
 - [science-periodicals/web-verse](https://github.com/science-periodicals/web-verse) - Toolbox for deep, resilient, markup-invariant linking into HTML documents without their cooperation
 - [joyent/git-apply-pr](https://github.com/joyent/git-apply-pr) - Validate GitHub PullRequests and add metadata
@@ -1142,7 +1142,6 @@
 
 - [stucchimax/bgplab](https://github.com/stucchimax/bgplab) - Master BGP configuration with this set of virtual labs
 - [cloudalchemy/ansible-grafana](https://github.com/cloudalchemy/ansible-grafana) - Platform for analytics and monitoring
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [cloudalchemy/ansible-alertmanager](https://github.com/cloudalchemy/ansible-alertmanager) - Deploy Prometheus Alertmanager service
 - [cloudalchemy/ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
 - [ansible-collections/ansible-consul](https://github.com/ansible-collections/ansible-consul) - :satellite: Ansible role for Hashicorp Consul clusters
@@ -1547,6 +1546,7 @@
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [trailofbits/it-depends](https://github.com/trailofbits/it-depends) - A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [cloudalchemy/ansible-node-exporter](https://github.com/cloudalchemy/ansible-node-exporter) - Provision basic metrics exporter for prometheus monitoring tool
 - [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules) - NetBox modules for Ansible using Ansible Collections
 - [jwilder/docker-discover](https://github.com/jwilder/docker-discover) - Service discovery for docker container
