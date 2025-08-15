@@ -58,6 +58,7 @@
 
 ## C 
 
+- [kube-vip/kube-gateway](https://github.com/kube-vip/kube-gateway) - A transparent proxy for Kubernetes pods
 - [multipath-tcp/tcp-in-udp](https://github.com/multipath-tcp/tcp-in-udp) - Lightweight TCP in UDP tunnel 🚇 using eBPF 🐝
 - [aws/pgactive](https://github.com/aws/pgactive) - 
 - [castai/egressd](https://github.com/castai/egressd) - Kubernetes aware network traffic monitoring
