@@ -239,6 +239,8 @@
 
 ## Go 
 
+- [wapc/tinygo-msgpack](https://github.com/wapc/tinygo-msgpack) - MessagePack module for TinyGo
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [valyentdev/ravel](https://github.com/valyentdev/ravel) - An open-source containers-as-microVMs orchestrator.
 - [rancher/wrangler](https://github.com/rancher/wrangler) - Write controllers like a boss
 - [42paris/qseal](https://github.com/42paris/qseal) - qseal is a CLI tool that simplifies the process of sealing and unsealing Kubernetes secrets using kubeseal. It uses a declarative configuration file (qsealrc.yaml) to manage your secrets.
@@ -1382,7 +1384,6 @@
 - [till/Services_Mailman](https://github.com/till/Services_Mailman) - Allows the easy integration of Mailman into a dynamic website without using Python or requiring permission to Mailman binaries
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
 - [till/php-statsd](https://github.com/till/php-statsd) - A PHP client for statsd.
-- [weierophinney/zf1-autoloaders](https://github.com/weierophinney/zf1-autoloaders) - Port of ZF2 autoloaders to ZF1
 - [hjr3/gearboot](https://github.com/hjr3/gearboot) - Simple php gearman worker bootstrap
 - [till/amon-php](https://github.com/till/amon-php) - PHP Client for Amon
 - [straup/parallel-flickr](https://github.com/straup/parallel-flickr) - 
@@ -1910,6 +1911,7 @@
 
 ## TypeScript 
 
+- [temich/svintl](https://github.com/temich/svintl) - Internationalization for Svelte
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
