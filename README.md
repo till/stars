@@ -1632,7 +1632,7 @@
 ## Ruby 
 
 - [blockbridge/blockbridge-docker-volume](https://github.com/blockbridge/blockbridge-docker-volume) - Blockbridge volume plugin for Docker
-- [hostwithquantum/runway-example-jekyll](https://github.com/hostwithquantum/runway-example-jekyll) - example jekyll app for runway
+- [hostwithquantum/runway-example-jekyll-docker](https://github.com/hostwithquantum/runway-example-jekyll-docker) - example jekyll app for runway
 - [hostwithquantum/homebrew-runway](https://github.com/hostwithquantum/homebrew-runway) - A homebrew-tap to install the runway CLI!
 - [Email-Dashboard/Email-Dashboard](https://github.com/Email-Dashboard/Email-Dashboard) - 📪 An interactive emailing management service with scheduling, templating, tracking and A/B testing.
 - [grosser/preoomkiller](https://github.com/grosser/preoomkiller) - Softly kills your process with SIGTERM before it runs out of memory.
