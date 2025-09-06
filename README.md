@@ -344,6 +344,7 @@
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [torenware/vite-go](https://github.com/torenware/vite-go) - Go module to integrate Vue 3, React, and Svelte projects with Golang web projects using Vite 2 and 3
 - [smartxworks/virtink](https://github.com/smartxworks/virtink) - Lightweight Virtualization Add-on for Kubernetes
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [ecin/go-dtrace](https://github.com/ecin/go-dtrace) - DTrace USDT probes in Go, built on top of libusdt.
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
@@ -873,7 +874,7 @@
 - [MeltwaterArchive/drone-cache](https://github.com/MeltwaterArchive/drone-cache) - A Drone plugin for caching current workspace files between builds to reduce your build times
 - [berkay-dincer/kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected kubernetes pods.
 - [buildkite/sockguard](https://github.com/buildkite/sockguard) - A proxy for docker.sock that enforces access control and isolated privileges
-- [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
+- [checkmake/checkmake](https://github.com/checkmake/checkmake) - Linter/analyzer for Makefiles
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [abh/geodns](https://github.com/abh/geodns) - DNS server with per-client targeted responses
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
@@ -1522,7 +1523,6 @@
 - [bundesAPI/klinikatlas-api](https://github.com/bundesAPI/klinikatlas-api) - klinikatlas api
 - [Mirantis/kqueen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager
 - [iXsystems/cinder](https://github.com/iXsystems/cinder) - 
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [pngmbh/ansible-traefik-docker](https://github.com/pngmbh/ansible-traefik-docker) - Simple Ansible role to install and configure a Traefik reverse proxy with Dashboard and auto-TLS support.
 - [adamjezek98/ubnt-etherlighting](https://github.com/adamjezek98/ubnt-etherlighting) - 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
