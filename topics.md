@@ -2064,6 +2064,8 @@
 
 ## others 
 
+- [juhovh/tailguard](https://github.com/juhovh/tailguard) - Easy Tailscale to WireGuard bridge in a container
+- [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
 - [wpnpeiris/nats-s3](https://github.com/wpnpeiris/nats-s3) - S3 API compatible NATS Object Store
 - [Azure/AgentBaker](https://github.com/Azure/AgentBaker) - Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries.
 - [wapc/tinygo-msgpack](https://github.com/wapc/tinygo-msgpack) - MessagePack module for TinyGo
