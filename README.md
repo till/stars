@@ -804,7 +804,6 @@
 - [CiscoDevNet/terraform-provider-aci](https://github.com/CiscoDevNet/terraform-provider-aci) - Terraform Cisco ACI provider
 - [hashicorp/terraform-provider-ad](https://github.com/hashicorp/terraform-provider-ad) - Active Directory provider for HashiCorp Terraform (experimental)
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
-- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [kube-vip/kube-vip-cloud-provider](https://github.com/kube-vip/kube-vip-cloud-provider) - A general purpose cloud provider for Kube-Vip
 - [js-ojus/flow](https://github.com/js-ojus/flow) - A tiny open source workflow engine written in Go (golang)
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
@@ -966,6 +965,7 @@
 - [wcm-io-devops/ansible-role-apache](https://github.com/wcm-io-devops/ansible-role-apache) - Ansible Role - Apache 2.x.
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 - [shumbashi/cpanel-ansible](https://github.com/shumbashi/cpanel-ansible) - Ansible Playbook for setting up cPanel  and CoudLinux Servers. Compatible with CentOS 6 and 7
+- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [joshwget/validator](https://github.com/joshwget/validator) - Online validator for RancherOS cloud-config files
 - [dylanegan/mittwoch.beer](https://github.com/dylanegan/mittwoch.beer) - A weekly beer meetup in Berlin.
 - [pear/Services_Mailman](https://github.com/pear/Services_Mailman) - Allows the easy integration of Mailman into a dynamic website without using Python or requiring permission to Mailman binaries
@@ -1059,7 +1059,6 @@
 - [LacquerLabs/service-ids](https://github.com/LacquerLabs/service-ids) - 
 - [lukepatrick/minio-brigade](https://github.com/lukepatrick/minio-brigade) - 
 - [SAP-cloud-infrastructure/elektra](https://github.com/SAP-cloud-infrastructure/elektra) - An opinionated openstack Web UI for consumer self service and operations.
-- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [redgeoff/spiegel](https://github.com/redgeoff/spiegel) - Scalable replication and change listening for CouchDB
 - [gionkunz/chartist-plugin-threshold](https://github.com/gionkunz/chartist-plugin-threshold) - Threshold Plugin for Chartist.js
 - [nkrode/RedisLive](https://github.com/nkrode/RedisLive) - Visualize your redis instances, analyze query patterns and spikes.
@@ -1922,7 +1921,7 @@
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [percona/everest](https://github.com/percona/everest) - Percona Everest is a cloud-native database platform to deploy and manage enterprise-grade PostgreSQL, MongoDB and MySQL database clusters.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [yokawasa/action-setup-kube-tools](https://github.com/yokawasa/action-setup-kube-tools) - Github Action that setup Kubernetes tools (kubectl, kustomize, helm, kubeconform, conftest, yq, rancher, tilt, skaffold) very fast and cache them on the runner. Please [✩Star] if you're using it!
