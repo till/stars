@@ -1566,7 +1566,7 @@
 - [CiscoSystems/avos](https://github.com/CiscoSystems/avos) - New Visualization Tool for Openstack
 - [zyluo/dough](https://github.com/zyluo/dough) - OpenStack billing project
 - [CiscoSystems/openstack-dashboard](https://github.com/CiscoSystems/openstack-dashboard) - The Dashboard for OpenStack is based on a Django module called django-openstack. Both the django-openstack module as well as a reference implementation of a fully functional Django site called opensta
-- [os-migrate/os-migrate](https://github.com/os-migrate/os-migrate) - OpenStack tenant migration tools
+- [os-migrate/os-migrate](https://github.com/os-migrate/os-migrate) - OpenStack Migration Toolkit (OpenStack to OpenStack)
 - [Mirantis/openstack-lbaas](https://github.com/Mirantis/openstack-lbaas) - Load balancing service for OpenStack
 - [openstack/trove](https://github.com/openstack/trove) - OpenStack Database As A Service (Trove). Mirror of code maintained at opendev.org.
 - [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder
