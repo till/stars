@@ -700,7 +700,7 @@
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [honeycombio/refinery](https://github.com/honeycombio/refinery) - Refinery is a trace-aware tail-based sampling proxy. It examines whole traces and intelligently applies sampling decisions (whether to keep or discard) to each trace.
-- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [flatcar/nebraska](https://github.com/flatcar/nebraska) - Update monitor & manager for applications using the Omaha protocol, optimized for Flatcar Container Linux.
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
 - [hypnoglow/terraform-provider-oryhydra](https://github.com/hypnoglow/terraform-provider-oryhydra) - 🔏 Terraform Provider for ORY Hydra
@@ -1716,7 +1716,7 @@
 - [zeenix/zlink](https://github.com/zeenix/zlink) - An asynchronous no-std-compatible Varlink Rust crate
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [Ramilito/kubediff](https://github.com/Ramilito/kubediff) - Source VS Deployed
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager with traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager with TLS port forwards, traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
