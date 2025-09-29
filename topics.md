@@ -33,6 +33,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
 - [compiler](#compiler)
@@ -64,6 +65,7 @@
 - [embedded](#embedded)
 - [es6](#es6)
 - [facebook](#facebook)
+- [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -490,6 +492,32 @@
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 
+## cloud 
+
+- [valyentdev/ravel](https://github.com/valyentdev/ravel) - An open-source containers-as-microVMs orchestrator.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+- [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
+- [sapcc/cyclone](https://github.com/sapcc/cyclone) - Clone OpenStack entities easily
+- [Optum/cloudig](https://github.com/Optum/cloudig) - Cloud governance reports from native services in a clear and readable digest
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [kayrus/ingress-terraform](https://github.com/kayrus/ingress-terraform) - A Kubernetes ingress controller, which allows to manage LBaaS resources using the Terraform
+- [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+- [scaleway/prometheus-scw-sd](https://github.com/scaleway/prometheus-scw-sd) - Prometheus Service Discovery for Scaleway
+- [stefan-kolb/paasyard](https://github.com/stefan-kolb/paasyard) - Docker powered (mini) deployment system for PaaS.
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+- [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multicloud management platform
+- [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
+- [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability
+
 ## cms 
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -668,6 +696,7 @@
 
 ## docker 
 
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
@@ -801,6 +830,10 @@
 
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [anantdgoel/ProjectFib](https://github.com/anantdgoel/ProjectFib) - Chrome extension to flag fake news on Facebook. Built at HackPrinceton '16
+
+## finance 
+
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 
 ## firebase 
 
@@ -1103,6 +1136,7 @@
 
 ## golang 
 
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
@@ -1377,6 +1411,8 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+- [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [flatcar-archive/flatcar-docs](https://github.com/flatcar-archive/flatcar-docs) - Flatcar Container Linux Documentation (https://docs.flatcar-linux.org/)
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -1632,7 +1668,6 @@
 - [42paris/qseal](https://github.com/42paris/qseal) - qseal is a CLI tool that simplifies the process of sealing and unsealing Kubernetes secrets using kubeseal. It uses a declarative configuration file (qsealrc.yaml) to manage your secrets.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [ContainerCraft/Kargo](https://github.com/ContainerCraft/Kargo) - Kargo Private Cloud Platform
-- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [Ramilito/kubediff](https://github.com/Ramilito/kubediff) - Source VS Deployed
 - [leptonai/gpud](https://github.com/leptonai/gpud) - GPUd automates monitoring, diagnostics, and issue identification for GPUs
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager with TLS port forwards, traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos
@@ -1919,6 +1954,7 @@
 
 ## mobile 
 
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview) - A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window.
 - [magma/magma](https://github.com/magma/magma) - Platform for building access networks and modular network services
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1971,7 +2007,6 @@
 
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
@@ -2061,6 +2096,7 @@
 
 ## others 
 
+- [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
 - [juhovh/tailguard](https://github.com/juhovh/tailguard) - Easy Tailscale to WireGuard bridge in a container
 - [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
 - [wpnpeiris/nats-s3](https://github.com/wpnpeiris/nats-s3) - S3 API compatible NATS Object Store
@@ -2292,7 +2328,6 @@
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
 - [blind-oracle/dnstap-bgp](https://github.com/blind-oracle/dnstap-bgp) - Announce domains captured from DNSTap over BGP
-- [sapcc/cyclone](https://github.com/sapcc/cyclone) - Clone OpenStack entities easily
 - [sapcc/kube-detective](https://github.com/sapcc/kube-detective) - A Kubernetes Network Validation Tool
 - [sapcc/kube-parrot](https://github.com/sapcc/kube-parrot) - A Kubernetes Controller that Dynamically Announces Routes with BGP
 - [sapcc/castellum](https://github.com/sapcc/castellum) - Vertical autoscaling service for OpenStack
@@ -3383,6 +3418,7 @@
 
 ## self-hosted 
 
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -3602,6 +3638,7 @@
 
 ## typescript 
 
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
@@ -3680,6 +3717,7 @@
 
 ## vue 
 
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [torenware/vite-go](https://github.com/torenware/vite-go) - Go module to integrate Vue 3, React, and Svelte projects with Golang web projects using Vite 2 and 3
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
