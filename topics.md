@@ -1370,6 +1370,7 @@
 
 ## hacktoberfest 
 
+- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them 
 - [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -1401,6 +1402,7 @@
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [VictorAvelar/mollie-api-go](https://github.com/VictorAvelar/mollie-api-go) - Golang wrapper for Mollie's REST API with full resource coverage.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [ory/x](https://github.com/ory/x) - Libraries used in the Ory ecosystem
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
@@ -2097,6 +2099,7 @@
 
 ## others 
 
+- [mholt/acmez](https://github.com/mholt/acmez) - Premier ACME client library for Go
 - [lstoll/k8soidcpublisher](https://github.com/lstoll/k8soidcpublisher) - Service to publish a Kubernetes cluster's JWK as an OIDC issuer
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
 - [juhovh/tailguard](https://github.com/juhovh/tailguard) - Easy Tailscale to WireGuard bridge in a container
@@ -2577,7 +2580,7 @@
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [jeinwag/swarm-exporter](https://github.com/jeinwag/swarm-exporter) - Prometheus exporter for metrics of a docker swarm cluster.
-- [alphagov/paas-prometheus-charts](https://github.com/alphagov/paas-prometheus-charts) - generate SVG charts for PromQL queries
+- [govuk-paas/paas-prometheus-charts](https://github.com/govuk-paas/paas-prometheus-charts) - generate SVG charts for PromQL queries
 - [monterail/circle-example](https://github.com/monterail/circle-example) - 
 - [tagesspiegel/radmesser](https://github.com/tagesspiegel/radmesser) - 
 - [intel/nemu](https://github.com/intel/nemu) - ARCHIVED: Modern Hypervisor for the Cloud. See https://github.com/cloud-hypervisor/cloud-hypervisor instead
