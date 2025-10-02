@@ -240,6 +240,7 @@
 
 ## Go 
 
+- [mholt/acmez](https://github.com/mholt/acmez) - Premier ACME client library for Go
 - [lstoll/k8soidcpublisher](https://github.com/lstoll/k8soidcpublisher) - Service to publish a Kubernetes cluster's JWK as an OIDC issuer
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
@@ -1056,7 +1057,7 @@
 - [mroderick/plete](https://github.com/mroderick/plete) - Vanilla autocomplete component
 - [microadam/drone-config-plugin-pipeline](https://github.com/microadam/drone-config-plugin-pipeline) - 
 - [hjacobs/kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
-- [alphagov/paas-prometheus-charts](https://github.com/alphagov/paas-prometheus-charts) - generate SVG charts for PromQL queries
+- [govuk-paas/paas-prometheus-charts](https://github.com/govuk-paas/paas-prometheus-charts) - generate SVG charts for PromQL queries
 - [LacquerLabs/service-ids](https://github.com/LacquerLabs/service-ids) - 
 - [lukepatrick/minio-brigade](https://github.com/lukepatrick/minio-brigade) - 
 - [SAP-cloud-infrastructure/elektra](https://github.com/SAP-cloud-infrastructure/elektra) - An opinionated openstack Web UI for consumer self service and operations.
