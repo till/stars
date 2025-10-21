@@ -241,6 +241,7 @@
 
 ## Go 
 
+- [johnfercher/maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
 - [mholt/acmez](https://github.com/mholt/acmez) - Premier ACME client library for Go
 - [lstoll/k8soidcpublisher](https://github.com/lstoll/k8soidcpublisher) - Service to publish a Kubernetes cluster's JWK as an OIDC issuer
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
