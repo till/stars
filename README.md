@@ -341,6 +341,7 @@
 - [percona/everest-operator](https://github.com/percona/everest-operator) - Percona Everest Operator
 - [yzxiu/calico-route-sync](https://github.com/yzxiu/calico-route-sync) - sync calico route
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - Backup and restore Ed25519 SSH keys with seed words 🫠
+- [vexxhost/openstack_database_exporter](https://github.com/vexxhost/openstack_database_exporter) - OpenStack Database Exporter for Prometheus
 - [minio/directpv](https://github.com/minio/directpv) - Kubernetes CSI driver for Direct Attached Storage :minidisc:
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
@@ -799,7 +800,7 @@
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
-- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [CiscoDevNet/terraform-provider-aci](https://github.com/CiscoDevNet/terraform-provider-aci) - Terraform Cisco ACI provider
 - [hashicorp/terraform-provider-ad](https://github.com/hashicorp/terraform-provider-ad) - Active Directory provider for HashiCorp Terraform (experimental)
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -1707,7 +1708,7 @@
 
 ## Rust 
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [travier/sysexts-manager](https://github.com/travier/sysexts-manager) - Work in progress manager for systemd system extensions
 - [agentsea/nebulous](https://github.com/agentsea/nebulous) - A globally distributed container orchestrator
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
@@ -1716,7 +1717,7 @@
 - [z-galaxy/zlink](https://github.com/z-galaxy/zlink) - An asynchronous no-std-compatible Varlink Rust crate
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [Ramilito/kubediff](https://github.com/Ramilito/kubediff) - Source VS Deployed
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager with TLS port forwards, traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
@@ -1724,7 +1725,6 @@
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [Tongsuo-Project/RustyVault](https://github.com/Tongsuo-Project/RustyVault) - A rusted vault that can do many awesome secrets management stuff...
-- [vexxhost/openstack_database_exporter](https://github.com/vexxhost/openstack_database_exporter) - OpenStack Database Exporter for Prometheus
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) - GitHub action for pruning old GHCR container image versions.
 - [oxidecomputer/crucible](https://github.com/oxidecomputer/crucible) - A storage service.
 - [bpfman/bpfman](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes
