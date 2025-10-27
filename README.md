@@ -241,6 +241,8 @@
 
 ## Go 
 
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+- [xataio/cnpg-i-scale-to-zero](https://github.com/xataio/cnpg-i-scale-to-zero) - CNPG plugin to manage scale to zero functionality
 - [johnfercher/maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
 - [mholt/acmez](https://github.com/mholt/acmez) - Premier ACME client library for Go
 - [lstoll/k8soidcpublisher](https://github.com/lstoll/k8soidcpublisher) - Service to publish a Kubernetes cluster's JWK as an OIDC issuer
@@ -258,7 +260,7 @@
 - [42paris/qseal](https://github.com/42paris/qseal) - qseal is a CLI tool that simplifies the process of sealing and unsealing Kubernetes secrets using kubeseal. It uses a declarative configuration file (qsealrc.yaml) to manage your secrets.
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
 - [superfly/rchab](https://github.com/superfly/rchab) - Fly.io Remote Builder (Remote Controlled Hot Air Balloon)
-- [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
+- [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [perses/promql-builder](https://github.com/perses/promql-builder) - A library to build PromQL expression in Golang.
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
@@ -268,7 +270,6 @@
 - [jsiebens/brink](https://github.com/jsiebens/brink) - brink - a lightweight identity aware proxy
 - [thanos-community/obslytics](https://github.com/thanos-community/obslytics) - Tools and Services allowing seamless usage of Observability data from Prometheus, Thanos, Cortex, M3DB, Loki and more!
 - [operasoftware/cnpg-plugin-pgbackrest](https://github.com/operasoftware/cnpg-plugin-pgbackrest) - pgBackRest CNPG-I backup plugin
-- [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them 
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
@@ -1970,7 +1971,7 @@
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [brigadecore/kashti](https://github.com/brigadecore/kashti) - Kashti is a dashboard for your Brigade v1 pipelines.
