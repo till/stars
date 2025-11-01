@@ -1058,7 +1058,6 @@
 - [microadam/drone-config-plugin-pipeline](https://github.com/microadam/drone-config-plugin-pipeline) - 
 - [hjacobs/kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
 - [govuk-paas/paas-prometheus-charts](https://github.com/govuk-paas/paas-prometheus-charts) - generate SVG charts for PromQL queries
-- [LacquerLabs/service-ids](https://github.com/LacquerLabs/service-ids) - 
 - [lukepatrick/minio-brigade](https://github.com/lukepatrick/minio-brigade) - 
 - [SAP-cloud-infrastructure/elektra](https://github.com/SAP-cloud-infrastructure/elektra) - An opinionated openstack Web UI for consumer self service and operations.
 - [redgeoff/spiegel](https://github.com/redgeoff/spiegel) - Scalable replication and change listening for CouchDB
@@ -1291,7 +1290,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open-source Security Analytics. Understand, monitor, and protect your application from cyber threats, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - open-source security analytics. Understand, monitor, and protect your application from cyber threats, account takeovers, and abuse. Get started — free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
