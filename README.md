@@ -356,7 +356,6 @@
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [virtuozzo/keystone-auth-hook](https://github.com/virtuozzo/keystone-auth-hook) - Kubernetes keystone authentication webhook.
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 - [openshift/hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift - clusters with hosted control planes
@@ -980,6 +979,7 @@
 
 ## Java 
 
+- [stumbaumr/kafka-ui](https://github.com/stumbaumr/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [videlalvaro/gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated Gifs as a transport™
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
@@ -1010,6 +1010,7 @@
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [ngxson/portainer-ce-without-annoying](https://github.com/ngxson/portainer-ce-without-annoying) - A drop-in replacement for portainer/portainer-ce, without annoying UI elements or tracking script
 - [khusika/FeelIt](https://github.com/khusika/FeelIt) - A clean, elegant but advanced blog theme for Hugo
@@ -1043,7 +1044,7 @@
 - [amroessam/moldock](https://github.com/amroessam/moldock) - A CLI tool to deconstruct moleculer projects into their own dependant projects, to be able to dockerize them individually
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [ging/fiware-cloud-portal](https://github.com/ging/fiware-cloud-portal) - Self Services Interfaces - Cloud Portal
-- [covid19india/covid19india-react](https://github.com/covid19india/covid19india-react) - Tracking the impact of COVID-19 in India
+- [covid19india/covid19india.github.io](https://github.com/covid19india/covid19india.github.io) - Tracking the impact of COVID-19 in India
 - [tektoncd/dashboard](https://github.com/tektoncd/dashboard) - A dashboard for Tekton!
 - [outsideris/citizen](https://github.com/outsideris/citizen) - A Private Terraform Module/Provider Registry
 - [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
@@ -1292,7 +1293,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno provides open-source security analytics. Understand, monitor, and protect your web application from cyber threats, account takeovers, and abuse. Get started - free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - The open-source security analytics. Understand, monitor, and protect your applications from cyber threats, account takeovers, and abuse. Get started - free.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
@@ -1518,6 +1519,7 @@
 
 ## Python 
 
+- [cloudbase/coriolis](https://github.com/cloudbase/coriolis) - Cloud Migration as a Service
 - [ContainerCraft/Kargo](https://github.com/ContainerCraft/Kargo) - Kargo Private Cloud Platform
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [Mirantis/rockoon](https://github.com/Mirantis/rockoon) - OpenStack Orchestration for Kubernetes
