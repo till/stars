@@ -1920,6 +1920,7 @@
 
 ## TypeScript 
 
+- [nats-nui/nui](https://github.com/nats-nui/nui) - Free and Open Source NATS management GUI.
 - [temich/svintl](https://github.com/temich/svintl) - Internationalization for Svelte
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
