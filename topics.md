@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [analytics](#analytics)
@@ -36,6 +37,7 @@
 - [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [continuous-integration](#continuous-integration)
 - [covid-19](#covid-19)
@@ -208,11 +210,18 @@
 - [web](#web)
 - [web3](#web3)
 - [webapp](#webapp)
+- [webpack](#webpack)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## agent 
+
+- [Azure/AgentBaker](https://github.com/Azure/AgentBaker) - Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
 
 ## ai 
 
@@ -531,6 +540,14 @@
 
 - [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
 
+## command-line 
+
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [bcicen/grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
+
 ## compiler 
 
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
@@ -703,6 +720,7 @@
 
 ## docker 
 
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
@@ -1182,7 +1200,7 @@
 - [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go
 - [kffl/speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable, yet predictable network latency :globe_with_meridians::hourglass_flowing_sand:
 - [hostwithquantum/hugo-docker](https://github.com/hostwithquantum/hugo-docker) - hugo (extended) and Golang, in a Docker image
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
@@ -1392,6 +1410,7 @@
 
 ## hacktoberfest 
 
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, and renewal visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。
 - [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
@@ -1688,6 +1707,7 @@
 
 ## kubernetes 
 
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [aojea/kindnet](https://github.com/aojea/kindnet) - minimalistic Kubernetes network plugin that just works
 - [42paris/qseal](https://github.com/42paris/qseal) - qseal is a CLI tool that simplifies the process of sealing and unsealing Kubernetes secrets using kubeseal. It uses a declarative configuration file (qsealrc.yaml) to manage your secrets.
@@ -1718,7 +1738,7 @@
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) - A set of Kubernetes controllers to manage your OpenStack infrastructure
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop) - Network monitoring & diagnosis suite for Kubernetes
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
@@ -2095,6 +2115,7 @@
 
 ## open-source 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -2126,7 +2147,6 @@
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
 - [juhovh/tailguard](https://github.com/juhovh/tailguard) - Easy Tailscale to WireGuard bridge in a container
 - [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
-- [Azure/AgentBaker](https://github.com/Azure/AgentBaker) - Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries.
 - [wapc/tinygo-msgpack](https://github.com/wapc/tinygo-msgpack) - MessagePack module for TinyGo
 - [kube-vip/kube-gateway](https://github.com/kube-vip/kube-gateway) - A transparent proxy for Kubernetes pods
 - [rancher/wrangler](https://github.com/rancher/wrangler) - Write controllers like a boss
@@ -2142,7 +2162,6 @@
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
 - [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open security analytics for your product. Understand, monitor, and protect your applications from cyber threats, account takeovers, bots and abuse.
 - [operasoftware/cnpg-plugin-pgbackrest](https://github.com/operasoftware/cnpg-plugin-pgbackrest) - pgBackRest CNPG-I backup plugin
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
@@ -3399,7 +3418,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -3445,6 +3464,7 @@
 
 ## self-hosted 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
@@ -3481,6 +3501,7 @@
 
 ## serverless 
 
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [s8sg/faas-flow](https://github.com/s8sg/faas-flow) - Function Composition for OpenFaaS
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
@@ -3585,6 +3606,7 @@
 
 ## tailwindcss 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
 - [MarkusThielker/ory-kit](https://github.com/MarkusThielker/ory-kit) - ☄️ An easy-to-use starting point to self-host Ory Kratos with OAuth2 and OIDC, SvelteKit authentication UI [SvelteKit - development stopped]
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
@@ -3766,6 +3788,7 @@
 
 ## vuejs 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -3794,6 +3817,10 @@
 
 - [fingerprintjs/blog-nojs-fingerprint-demo](https://github.com/fingerprintjs/blog-nojs-fingerprint-demo) - A demo for the no-JavaScript fingerprinting article
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## webpack 
+
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 ## windows 
 
