@@ -450,6 +450,7 @@
 - [Mirantis/k8s-externalipcontroller](https://github.com/Mirantis/k8s-externalipcontroller) - External IP controller is k8s application which is deployed on top of k8s cluster and which configures External IPs on k8s worker node(s) to provide IP connectivity.
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [sandstorm/caddy-nats-bridge](https://github.com/sandstorm/caddy-nats-bridge) - A caddy module that adds support for nats.io subscriptions, pub/sub and request/reply
+- [corestoreio/caddy-esi](https://github.com/corestoreio/caddy-esi) - Middleware for Caddy Server integrating ESI (edge side includes) tags with parallel loading. Able to connect to HTTP/S/2, Memcache, Redis, shell scripts, gRPC and SQL backends 🐜🐜🐜
 - [corazawaf/coraza-caddy](https://github.com/corazawaf/coraza-caddy) - OWASP Coraza middleware for Caddy. It provides Web Application Firewall capabilities
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test
@@ -964,7 +965,6 @@
 - [hostwithquantum/runway-example-hugo](https://github.com/hostwithquantum/runway-example-hugo) - example hugo app for runway
 - [jacksalici/salinger-theme](https://github.com/jacksalici/salinger-theme) - A clean and minimalistic Hugo theme for personal blogs and portfolios. Built with TailwindCSS and DaisyUI.
 - [gsmlg-dev/caddy-admin-ui](https://github.com/gsmlg-dev/caddy-admin-ui) - Caddy Admin UI written by next.js
-- [corestoreio/caddy-esi](https://github.com/corestoreio/caddy-esi) - Middleware for Caddy Server integrating ESI (edge side includes) tags with parallel loading. Able to connect to HTTP/S/2, Memcache, Redis, shell scripts, gRPC and SQL backends 🐜🐜🐜
 - [bundesAPI/deutschland](https://github.com/bundesAPI/deutschland) - Die wichtigsten APIs Deutschlands in einem Python Paket.
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [awslabs/aws-js-s3-explorer](https://github.com/awslabs/aws-js-s3-explorer) - AWS JavaScript S3 Explorer is a JavaScript application that uses AWS's JavaScript SDK and S3 APIs to make the contents of an S3 bucket easy to browse via a web browser.
@@ -1996,6 +1996,7 @@
 
 ## Vue 
 
+- [Improwised/hydra-webui](https://github.com/Improwised/hydra-webui) - Web Management UI for Hydra oAuth Server
 - [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
 - [formularium/formularium](https://github.com/formularium/formularium) - Formularium is a FOSS, privacy-first, and user-friendly toolkit for municipalities to support them in making their public services available online.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
