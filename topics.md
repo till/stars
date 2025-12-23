@@ -2155,6 +2155,7 @@
 
 ## others 
 
+- [jakelmg/tailscale-flatcar-config-tool](https://github.com/jakelmg/tailscale-flatcar-config-tool) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [vexxhost/vault-plugin-secrets-openstack](https://github.com/vexxhost/vault-plugin-secrets-openstack) - OpenStack Secrets Backend using Application Credentials
 - [achtungsoftware/alarik](https://github.com/achtungsoftware/alarik) - High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
