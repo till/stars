@@ -1013,6 +1013,7 @@
 
 ## JavaScript 
 
+- [jakelmg/tailscale-flatcar-config-tool](https://github.com/jakelmg/tailscale-flatcar-config-tool) - 
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
