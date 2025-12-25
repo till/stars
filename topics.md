@@ -2155,6 +2155,7 @@
 
 ## others 
 
+- [terem42/zfs-hetzner-ram-os](https://github.com/terem42/zfs-hetzner-ram-os) - A self-contained RAM-based operating system, working with Ubuntu servers and ZFS filesystems
 - [jakelmg/tailscale-flatcar-config-tool](https://github.com/jakelmg/tailscale-flatcar-config-tool) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [vexxhost/vault-plugin-secrets-openstack](https://github.com/vexxhost/vault-plugin-secrets-openstack) - OpenStack Secrets Backend using Application Credentials
