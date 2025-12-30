@@ -1300,7 +1300,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open security analytics. Understand, monitor, and protect your product from cyber threats, account takeovers, bots, and abuse.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open security analytics. Understand, monitor, and protect your product from account threats, fraud, and abuse.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
@@ -1526,6 +1526,7 @@
 
 ## Python 
 
+- [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [cloudbase/coriolis](https://github.com/cloudbase/coriolis) - Cloud Migration as a Service
 - [ContainerCraft/Kargo](https://github.com/ContainerCraft/Kargo) - Kargo Private Cloud Platform
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
