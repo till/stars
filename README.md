@@ -241,6 +241,10 @@
 
 ## Go 
 
+- [aravindh-murugesan/openstack-snapsentry-go](https://github.com/aravindh-murugesan/openstack-snapsentry-go) - A robust, policy-based snapshot lifecycle manager for OpenStack Cinder volumes. Written in Go, featuring automated snapshots, granular retention policies (Daily/Weekly/Monthly), and local audit loggin
+- [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [vexxhost/vault-plugin-secrets-openstack](https://github.com/vexxhost/vault-plugin-secrets-openstack) - OpenStack Secrets Backend using Application Credentials
