@@ -2173,6 +2173,7 @@
 
 ## others 
 
+- [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [dmathieu/owe](https://github.com/dmathieu/owe) - OpenTelemetry Wide Events for Go
 - [aravindh-murugesan/openstack-snapsentry-go](https://github.com/aravindh-murugesan/openstack-snapsentry-go) - A robust, policy-based snapshot lifecycle manager for OpenStack Cinder volumes. Written in Go, featuring automated snapshots, granular retention policies (Daily/Weekly/Monthly), and local audit loggin
 - [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
