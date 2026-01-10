@@ -241,6 +241,7 @@
 
 ## Go 
 
+- [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations
 - [dmathieu/owe](https://github.com/dmathieu/owe) - OpenTelemetry Wide Events for Go
 - [aravindh-murugesan/openstack-snapsentry-go](https://github.com/aravindh-murugesan/openstack-snapsentry-go) - A robust, policy-based snapshot lifecycle manager for OpenStack Cinder volumes. Written in Go, featuring automated snapshots, granular retention policies (Daily/Weekly/Monthly), and local audit loggin
@@ -392,7 +393,7 @@
 - [firecracker-microvm/firecracker-go-sdk](https://github.com/firecracker-microvm/firecracker-go-sdk) - An SDK in Go for the Firecracker microVM API
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Update Policy Engine
 - [hostwithquantum/ghcr-janitor](https://github.com/hostwithquantum/ghcr-janitor) - ghcr-janitor deletes container images that have a `pr-` prefix.
-- [lstoll/webauthn-oidc-idp](https://github.com/lstoll/webauthn-oidc-idp) - 
+- [lstoll/passidp](https://github.com/lstoll/passidp) - 
 - [apple/pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
 - [mikespook/gearman-go](https://github.com/mikespook/gearman-go) - This package is a Gearman API for Golang. It was implemented a native protocol for both worker and client API.
@@ -1305,7 +1306,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open safety platform. Understand, monitor, and protect your product from account threats, fraud, and abuse.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open safety platform. Event tracking, threat detection, and risk management for any product.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
