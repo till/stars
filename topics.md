@@ -206,6 +206,7 @@
 - [ui-design](#ui-design)
 - [unreal-engine](#unreal-engine)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
 - [vpn](#vpn)
@@ -480,6 +481,7 @@
 
 ## cli 
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -947,6 +949,7 @@
 
 ## git 
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [abiosoft/caddy-git](https://github.com/abiosoft/caddy-git) - git middleware for Caddy
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
@@ -2173,6 +2176,7 @@
 
 ## others 
 
+- [warpstreamlabs/bento](https://github.com/warpstreamlabs/bento) - Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [dmathieu/owe](https://github.com/dmathieu/owe) - OpenTelemetry Wide Events for Go
 - [aravindh-murugesan/openstack-snapsentry-go](https://github.com/aravindh-murugesan/openstack-snapsentry-go) - A robust, policy-based snapshot lifecycle manager for OpenStack Cinder volumes. Written in Go, featuring automated snapshots, granular retention policies (Daily/Weekly/Monthly), and local audit loggin
@@ -2204,7 +2208,7 @@
 - [agentsea/nebulous](https://github.com/agentsea/nebulous) - A globally distributed container orchestrator
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open safety platform. Event tracking, threat detection, and risk management for any product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source security framework. Event tracking, threat detection, and risk management for any product.
 - [operasoftware/cnpg-plugin-pgbackrest](https://github.com/operasoftware/cnpg-plugin-pgbackrest) - pgBackRest CNPG-I backup plugin
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
@@ -3801,6 +3805,12 @@
 - [magma/magma](https://github.com/magma/magma) - Platform for building access networks and modular network services
 - [kaorimatz/packer-templates](https://github.com/kaorimatz/packer-templates) - Packer templates for Vagrant base boxes
 - [vagrant-landrush/landrush](https://github.com/vagrant-landrush/landrush) - A Vagrant plugin that provides a simple DNS server for Vagrant guests
+
+## video 
+
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 
 ## vim 
 
