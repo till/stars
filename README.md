@@ -357,7 +357,7 @@
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [viggy28/pglite](https://github.com/viggy28/pglite) - postgres + sqlite = pglite
 - [sukeesh/k8s-job-notify](https://github.com/sukeesh/k8s-job-notify) - Kuberenets Job/CronJob Notifier
-- [openeverest/everest-operator](https://github.com/openeverest/everest-operator) - Percona Everest Operator
+- [openeverest/openeverest-operator](https://github.com/openeverest/openeverest-operator) - Percona Everest Operator
 - [yzxiu/calico-route-sync](https://github.com/yzxiu/calico-route-sync) - sync calico route
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - Backup and restore Ed25519 SSH keys with seed words 🫠
 - [vexxhost/openstack_database_exporter](https://github.com/vexxhost/openstack_database_exporter) - OpenStack Database Exporter for Prometheus
@@ -761,7 +761,7 @@
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [briandowns/jail](https://github.com/briandowns/jail) - Package jail provides native FreeBSD Jail syscalls in Go
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports multimodal content via embedding
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [danitso/terraform-provider-proxmox](https://github.com/danitso/terraform-provider-proxmox) - Terraform Provider for Proxmox
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
