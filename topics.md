@@ -1127,7 +1127,7 @@
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [mercedes-benz/kosmoo](https://github.com/mercedes-benz/kosmoo) - A prometheus exporter which exposes metrics about PersistentVolumes and OpenStack
 - [briandowns/jail](https://github.com/briandowns/jail) - Package jail provides native FreeBSD Jail syscalls in Go
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports multimodal content via embedding
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
@@ -1959,7 +1959,7 @@
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports multimodal content via embedding
 - [anantdgoel/ProjectFib](https://github.com/anantdgoel/ProjectFib) - Chrome extension to flag fake news on Facebook. Built at HackPrinceton '16
 
 ## macos 
@@ -2268,7 +2268,7 @@
 - [viggy28/pglite](https://github.com/viggy28/pglite) - postgres + sqlite = pglite
 - [iXsystems/cinder](https://github.com/iXsystems/cinder) - 
 - [sukeesh/k8s-job-notify](https://github.com/sukeesh/k8s-job-notify) - Kuberenets Job/CronJob Notifier
-- [openeverest/everest-operator](https://github.com/openeverest/everest-operator) - Percona Everest Operator
+- [openeverest/openeverest-operator](https://github.com/openeverest/openeverest-operator) - Percona Everest Operator
 - [yzxiu/calico-route-sync](https://github.com/yzxiu/calico-route-sync) - sync calico route
 - [Tongsuo-Project/RustyVault](https://github.com/Tongsuo-Project/RustyVault) - A rusted vault that can do many awesome secrets management stuff...
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - Backup and restore Ed25519 SSH keys with seed words 🫠
