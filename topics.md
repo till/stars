@@ -2183,7 +2183,7 @@
 - [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
 - [terem42/zfs-hetzner-ram-os](https://github.com/terem42/zfs-hetzner-ram-os) - A self-contained RAM-based operating system, working with Ubuntu servers and ZFS filesystems
 - [jakelmg/tailscale-flatcar-config-tool](https://github.com/jakelmg/tailscale-flatcar-config-tool) - 
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [vexxhost/vault-plugin-secrets-openstack](https://github.com/vexxhost/vault-plugin-secrets-openstack) - OpenStack Secrets Backend using Application Credentials
 - [achtungsoftware/alarik](https://github.com/achtungsoftware/alarik) - High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
 - [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
@@ -2277,7 +2277,7 @@
 - [opencontainers/wg-freebsd-runtime](https://github.com/opencontainers/wg-freebsd-runtime) - A repository for coordinating the work of defining a FreeBSD extension to the OCI runtime
 - [oxidecomputer/crucible](https://github.com/oxidecomputer/crucible) - A storage service.
 - [ecin/go-dtrace](https://github.com/ecin/go-dtrace) - DTrace USDT probes in Go, built on top of libusdt.
-- [openeverest/openeverest](https://github.com/openeverest/openeverest) - Percona Everest is a cloud-native database platform to deploy and manage enterprise-grade PostgreSQL, MongoDB and MySQL database clusters.
+- [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud o
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [blockbridge/blockbridge-docker-volume](https://github.com/blockbridge/blockbridge-docker-volume) - Blockbridge volume plugin for Docker
 - [openshift/hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift - clusters with hosted control planes
