@@ -1801,7 +1801,7 @@
 ## Shell 
 
 - [terem42/zfs-hetzner-ram-os](https://github.com/terem42/zfs-hetzner-ram-os) - A self-contained RAM-based operating system, working with Ubuntu servers and ZFS filesystems
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [juhovh/tailguard](https://github.com/juhovh/tailguard) - Easy Tailscale to WireGuard bridge in a container
 - [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -1947,7 +1947,7 @@
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-- [openeverest/openeverest](https://github.com/openeverest/openeverest) - Percona Everest is a cloud-native database platform to deploy and manage enterprise-grade PostgreSQL, MongoDB and MySQL database clusters.
+- [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud o
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [yokawasa/action-setup-kube-tools](https://github.com/yokawasa/action-setup-kube-tools) - Github Action that setup Kubernetes tools (kubectl, kustomize, helm, kubeconform, conftest, yq, rancher, tilt, skaffold) very fast and cache them on the runner. Please [✩Star] if you're using it!
 - [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
