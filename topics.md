@@ -2208,7 +2208,7 @@
 - [agentsea/nebulous](https://github.com/agentsea/nebulous) - A globally distributed container orchestrator
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source security framework. Event tracking, threat detection, and risk management for any product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source security framework. Event tracking, threat detection, and risk management for any product.
 - [operasoftware/cnpg-plugin-pgbackrest](https://github.com/operasoftware/cnpg-plugin-pgbackrest) - pgBackRest CNPG-I backup plugin
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
