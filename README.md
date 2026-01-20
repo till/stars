@@ -18,6 +18,7 @@
 - [Erlang](#erlang)
 - [Gherkin](#gherkin)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -957,6 +958,10 @@
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS)
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [amir/gographite](https://github.com/amir/gographite) - An Etsy StatsD (https://github.com/etsy/statsd) implementation in Go
+
+## Go Template 
+
+- [vexxhost/atmosphere](https://github.com/vexxhost/atmosphere) - Simple & easy private cloud platform featuring VMs, Kubernetes & bare-metal
 
 ## Groovy 
 
@@ -1901,7 +1906,6 @@
 
 ## Smarty 
 
-- [vexxhost/atmosphere](https://github.com/vexxhost/atmosphere) - Simple & easy private cloud platform featuring VMs, Kubernetes & bare-metal
 - [containerum/containerum](https://github.com/containerum/containerum) - Web UI for Kubernetes with teamwork and CI/CD support
 
 ## Starlark 
