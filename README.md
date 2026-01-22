@@ -471,7 +471,7 @@
 - [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions) - Go SDK for GitHub Actions - easily author GitHub Actions in Go
 - [umputun/spot](https://github.com/umputun/spot) - A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
 - [xhit/go-str2duration](https://github.com/xhit/go-str2duration) - Convert string to duration in golang
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [coredns/policy](https://github.com/coredns/policy) - CoreDNS external plugin to provide in-process policies as well as external policy services
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [plunder-app/plunder](https://github.com/plunder-app/plunder) - A Modern automation platform
@@ -1675,7 +1675,6 @@
 - [kbsecret/kbsecret](https://github.com/kbsecret/kbsecret) - A secret manager backed by Keybase and KBFS.
 - [hipchat/hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
 - [wzin/opsworks_hipchat](https://github.com/wzin/opsworks_hipchat) - Opsworks Hipchat notifications for deployments
-- [atmos/slash-heroku](https://github.com/atmos/slash-heroku) - /heroku commands for slack
 - [mrtazz/katana](https://github.com/mrtazz/katana) - ready to go heroku hosted URL shortener based on guillotine
 - [rwos/fdcli](https://github.com/rwos/fdcli) - 
 - [chef-boneyard/route53](https://github.com/chef-boneyard/route53) - DEPRECATED: Provides resources for adding and removing records from Amazon Route53
