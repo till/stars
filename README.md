@@ -277,7 +277,6 @@
 - [42paris/qseal](https://github.com/42paris/qseal) - qseal is a CLI tool that simplifies the process of sealing and unsealing Kubernetes secrets using kubeseal. It uses a declarative configuration file (qsealrc.yaml) to manage your secrets.
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
 - [superfly/rchab](https://github.com/superfly/rchab) - Fly.io Remote Builder (Remote Controlled Hot Air Balloon)
-- [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [perses/promql-builder](https://github.com/perses/promql-builder) - A library to build PromQL expression in Golang.
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
@@ -406,7 +405,6 @@
 - [bcmills/more](https://github.com/bcmills/more) - Plausible additions to Go standard library packages
 - [jpbede/go-autodns](https://github.com/jpbede/go-autodns) - Go client package for the InternetX AutoDNS JSON API
 - [jhillyerd/enmime](https://github.com/jhillyerd/enmime) - MIME mail encoding and decoding package for Go
-- [cloudnative-pg/cnpg-i](https://github.com/cloudnative-pg/cnpg-i) - CloudNativePG Interface (CNPG-I)
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
 - [gospider007/fp](https://github.com/gospider007/fp) - 🚀obtain the client's ja3 fingerprint, http2 fingerprint, and ja4 fingerprint
@@ -731,7 +729,6 @@
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [migueleliasweb/go-github-mock](https://github.com/migueleliasweb/go-github-mock) - A library to aid unittesting code that uses Golang's Github SDK
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
@@ -1274,7 +1271,7 @@
 - [vishnoisuresh/netbox-kubernetes](https://github.com/vishnoisuresh/netbox-kubernetes) - Kubernetes manifest resources for Netbox.  All Images are pulled from docker hub.
 - [fluent/fluent-bit-kubernetes-logging](https://github.com/fluent/fluent-bit-kubernetes-logging) - Fluent Bit Kubernetes Daemonset
 - [packagist/private-packagist-docs](https://github.com/packagist/private-packagist-docs) - Private Packagist Documentation
-- [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+- [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types.
 - [blongden/vnd.error](https://github.com/blongden/vnd.error) - application/vnd.error mime type specification
 - [scrutinizer-ci/php-analyzer](https://github.com/scrutinizer-ci/php-analyzer) - Performs advanced static analysis on PHP code
 - [mandylauderdale/2012-JSConfEU-Lyrics](https://github.com/mandylauderdale/2012-JSConfEU-Lyrics) - Here are all of the lyrics that I sang at the party for JSConfEU 2012.
@@ -1737,7 +1734,7 @@
 - [travier/sysexts-manager](https://github.com/travier/sysexts-manager) - Work in progress manager for systemd system extensions
 - [agentsea/nebulous](https://github.com/agentsea/nebulous) - A globally distributed container orchestrator
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
-- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [z-galaxy/zlink](https://github.com/z-galaxy/zlink) - An asynchronous no-std-compatible Varlink Rust crate
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
