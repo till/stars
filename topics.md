@@ -126,6 +126,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -1979,6 +1980,10 @@
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 
+## malware 
+
+- [mattnotmax/cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes) - A list of cyber-chef recipes and curated links
+
 ## markdown 
 
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -2505,7 +2510,6 @@
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [johnspurlock/app-privacy-report-viewer](https://github.com/johnspurlock/app-privacy-report-viewer) - Local viewer for App Privacy Reports in iOS 15
 - [jwilder/docker-discover](https://github.com/jwilder/docker-discover) - Service discovery for docker container
-- [mattnotmax/cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes) - A list of cyber-chef recipes and curated links
 - [ansible/receptor](https://github.com/ansible/receptor) - Project Receptor is a flexible multi-service relayer with remote execution and orchestration capabilities linking controllers with executors across a mesh of nodes.
 - [louy/terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - A terraform provider for UptimeRobot
 - [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
