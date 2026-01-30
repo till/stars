@@ -2173,6 +2173,7 @@
 
 ## others 
 
+- [hostwithquantum/go-evatr](https://github.com/hostwithquantum/go-evatr) - A go library that wraps the new (REST) eVatR API of the BZSt to validate European VAT ID numbers.
 - [danthegoodman1/IAMProxy](https://github.com/danthegoodman1/IAMProxy) - AWS IAM HTTP proxy for your services that makes your services compatible with AWS APIs and packages
 - [danthegoodman1/netfence](https://github.com/danthegoodman1/netfence) - 
 - [warpstreamlabs/bento](https://github.com/warpstreamlabs/bento) - Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.
@@ -2698,7 +2699,7 @@
 - [redgeoff/spiegel](https://github.com/redgeoff/spiegel) - Scalable replication and change listening for CouchDB
 - [cloudant-labs/clouseau](https://github.com/cloudant-labs/clouseau) - Expose Lucene features as an erlang-like node
 - [gionkunz/chartist-plugin-threshold](https://github.com/gionkunz/chartist-plugin-threshold) - Threshold Plugin for Chartist.js
-- [packagist/private-packagist-docs](https://github.com/packagist/private-packagist-docs) - Private Packagist Documentation
+- [packagist/private-packagist-docs](https://github.com/packagist/private-packagist-docs) - Private Packagist Documentation [READ ONLY, PRs welcome]
 - [ddragosd/tsung-docker](https://github.com/ddragosd/tsung-docker) - Docker image to run Tsung distributed load testing tool
 - [phusion/passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
 - [convox/syslog](https://github.com/convox/syslog) - Send CloudWatch Logs Securely to Syslog via a Lambda function
