@@ -242,6 +242,7 @@
 
 ## Go 
 
+- [hostwithquantum/go-evatr](https://github.com/hostwithquantum/go-evatr) - A go library that wraps the new (REST) eVatR API of the BZSt to validate European VAT ID numbers.
 - [hostwithquantum/sqltestutil](https://github.com/hostwithquantum/sqltestutil) - Utilities for testing Golang code that runs SQL
 - [danthegoodman1/IAMProxy](https://github.com/danthegoodman1/IAMProxy) - AWS IAM HTTP proxy for your services that makes your services compatible with AWS APIs and packages
 - [danthegoodman1/netfence](https://github.com/danthegoodman1/netfence) - 
@@ -1272,7 +1273,7 @@
 - [nbigot/ansible-fail2ban](https://github.com/nbigot/ansible-fail2ban) - Ansible role to set up fail2ban in RHEL / Centos and Ubuntu systems.
 - [vishnoisuresh/netbox-kubernetes](https://github.com/vishnoisuresh/netbox-kubernetes) - Kubernetes manifest resources for Netbox.  All Images are pulled from docker hub.
 - [fluent/fluent-bit-kubernetes-logging](https://github.com/fluent/fluent-bit-kubernetes-logging) - Fluent Bit Kubernetes Daemonset
-- [packagist/private-packagist-docs](https://github.com/packagist/private-packagist-docs) - Private Packagist Documentation
+- [packagist/private-packagist-docs](https://github.com/packagist/private-packagist-docs) - Private Packagist Documentation [READ ONLY, PRs welcome]
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types.
 - [blongden/vnd.error](https://github.com/blongden/vnd.error) - application/vnd.error mime type specification
 - [scrutinizer-ci/php-analyzer](https://github.com/scrutinizer-ci/php-analyzer) - Performs advanced static analysis on PHP code
