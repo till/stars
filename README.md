@@ -242,10 +242,11 @@
 
 ## Go 
 
+- [mozilla/crlite](https://github.com/mozilla/crlite) - Compact certificate revocation lists for the WebPKI
 - [hostwithquantum/go-evatr](https://github.com/hostwithquantum/go-evatr) - A go library that wraps the new (REST) eVatR API of the BZSt to validate European VAT ID numbers.
 - [hostwithquantum/sqltestutil](https://github.com/hostwithquantum/sqltestutil) - Utilities for testing Golang code that runs SQL
 - [danthegoodman1/IAMProxy](https://github.com/danthegoodman1/IAMProxy) - AWS IAM HTTP proxy for your services that makes your services compatible with AWS APIs and packages
-- [danthegoodman1/netfence](https://github.com/danthegoodman1/netfence) - 
+- [danthegoodman1/netfence](https://github.com/danthegoodman1/netfence) - Like Envoy xDS, but for eBPF filters
 - [warpstreamlabs/bento](https://github.com/warpstreamlabs/bento) - Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations
