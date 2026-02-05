@@ -2173,6 +2173,7 @@
 
 ## others 
 
+- [89luca89/oci-sysext](https://github.com/89luca89/oci-sysext) - Simple OCI image to systemd-sysext raw image converted
 - [mozilla/crlite](https://github.com/mozilla/crlite) - Compact certificate revocation lists for the WebPKI
 - [hostwithquantum/go-evatr](https://github.com/hostwithquantum/go-evatr) - A go library that wraps the new (REST) eVatR API of the BZSt to validate European VAT ID numbers.
 - [danthegoodman1/IAMProxy](https://github.com/danthegoodman1/IAMProxy) - AWS IAM HTTP proxy for your services that makes your services compatible with AWS APIs and packages
