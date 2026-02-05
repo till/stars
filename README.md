@@ -242,6 +242,7 @@
 
 ## Go 
 
+- [89luca89/oci-sysext](https://github.com/89luca89/oci-sysext) - Simple OCI image to systemd-sysext raw image converted
 - [mozilla/crlite](https://github.com/mozilla/crlite) - Compact certificate revocation lists for the WebPKI
 - [hostwithquantum/go-evatr](https://github.com/hostwithquantum/go-evatr) - A go library that wraps the new (REST) eVatR API of the BZSt to validate European VAT ID numbers.
 - [hostwithquantum/sqltestutil](https://github.com/hostwithquantum/sqltestutil) - Utilities for testing Golang code that runs SQL
