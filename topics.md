@@ -730,6 +730,7 @@
 
 ## django 
 
+- [suitenumerique/drive](https://github.com/suitenumerique/drive) - A collaborative file sharing and document management platform that scales. Built with Django and React.
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 
 ## docker 
@@ -2173,6 +2174,7 @@
 
 ## others 
 
+- [suitenumerique/messages](https://github.com/suitenumerique/messages) - Collaborative inbox for La Suite territoriale
 - [89luca89/oci-sysext](https://github.com/89luca89/oci-sysext) - Simple OCI image to systemd-sysext raw image converted
 - [mozilla/crlite](https://github.com/mozilla/crlite) - Compact certificate revocation lists for the WebPKI
 - [hostwithquantum/go-evatr](https://github.com/hostwithquantum/go-evatr) - A go library that wraps the new (REST) eVatR API of the BZSt to validate European VAT ID numbers.
@@ -3391,6 +3393,7 @@
 
 ## reactjs 
 
+- [suitenumerique/drive](https://github.com/suitenumerique/drive) - A collaborative file sharing and document management platform that scales. Built with Django and React.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [torenware/vite-go](https://github.com/torenware/vite-go) - Go module to integrate Vue 3, React, and Svelte projects with Golang web projects using Vite 2 and 3
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -3515,6 +3518,7 @@
 
 ## self-hosted 
 
+- [suitenumerique/drive](https://github.com/suitenumerique/drive) - A collaborative file sharing and document management platform that scales. Built with Django and React.
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
