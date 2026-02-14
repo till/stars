@@ -2174,6 +2174,8 @@
 
 ## others 
 
+- [lstoll/tailscale-cni](https://github.com/lstoll/tailscale-cni) - CNI driver for traffic over tailscale
+- [softhsm/SoftHSMv2](https://github.com/softhsm/SoftHSMv2) - SoftHSM version 2
 - [jcmoraisjr/openshift-library-go](https://github.com/jcmoraisjr/openshift-library-go) - Helpers for going from apis and clients to useful runtime constructs
 - [rmb938/tailscale-cni](https://github.com/rmb938/tailscale-cni) - Kubernetes CNI over a tailscale mesh network
 - [suitenumerique/messages](https://github.com/suitenumerique/messages) - Collaborative inbox for La Suite territoriale
