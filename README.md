@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [softhsm/SoftHSMv2](https://github.com/softhsm/SoftHSMv2) - SoftHSM version 2
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [robjinman/richard](https://github.com/robjinman/richard) - Richard is gaining power
@@ -243,6 +244,7 @@
 
 ## Go 
 
+- [lstoll/tailscale-cni](https://github.com/lstoll/tailscale-cni) - CNI driver for traffic over tailscale
 - [jcmoraisjr/openshift-library-go](https://github.com/jcmoraisjr/openshift-library-go) - Helpers for going from apis and clients to useful runtime constructs
 - [rmb938/tailscale-cni](https://github.com/rmb938/tailscale-cni) - Kubernetes CNI over a tailscale mesh network
 - [89luca89/oci-sysext](https://github.com/89luca89/oci-sysext) - Simple OCI image to systemd-sysext raw image converted
