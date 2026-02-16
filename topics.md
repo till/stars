@@ -736,6 +736,7 @@
 
 ## docker 
 
+- [erikh/duct](https://github.com/erikh/duct) - docker-compose alike functionality directly from golang, for integration testing.
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
@@ -907,6 +908,7 @@
 
 ## framework 
 
+- [erikh/duct](https://github.com/erikh/duct) - docker-compose alike functionality directly from golang, for integration testing.
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [spotahome/kooper](https://github.com/spotahome/kooper) - Kooper is a simple Go library to create Kubernetes operators and controllers.
@@ -1175,6 +1177,8 @@
 
 ## golang 
 
+- [robert-kisteleki/goat](https://github.com/robert-kisteleki/goat) - Go (RIPE) Atlas Tools
+- [erikh/duct](https://github.com/erikh/duct) - docker-compose alike functionality directly from golang, for integration testing.
 - [hostwithquantum/sqltestutil](https://github.com/hostwithquantum/sqltestutil) - Utilities for testing Golang code that runs SQL
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations
 - [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
@@ -2174,6 +2178,7 @@
 
 ## others 
 
+- [erikh/sterno](https://github.com/erikh/sterno) - A very dumb tool for faking prometheus metrics
 - [lstoll/tailscale-cni](https://github.com/lstoll/tailscale-cni) - CNI driver for traffic over tailscale
 - [softhsm/SoftHSMv2](https://github.com/softhsm/SoftHSMv2) - SoftHSM version 2
 - [jcmoraisjr/openshift-library-go](https://github.com/jcmoraisjr/openshift-library-go) - Helpers for going from apis and clients to useful runtime constructs
