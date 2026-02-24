@@ -994,6 +994,7 @@
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [awslabs/aws-js-s3-explorer](https://github.com/awslabs/aws-js-s3-explorer) - AWS JavaScript S3 Explorer is a JavaScript application that uses AWS's JavaScript SDK and S3 APIs to make the contents of an S3 bucket easy to browse via a web browser.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
+- [byjg/docker-easy-haproxy](https://github.com/byjg/docker-easy-haproxy) - Discover services and create dynamically the haproxy.cfg based on the labels defined in docker containers or from a simple static Yaml
 - [byrnereese/mkdocs-bootstrap4](https://github.com/byrnereese/mkdocs-bootstrap4) - Bootstrap 4.0+ theme for MkDocs
 - [wcm-io-devops/ansible-role-apache](https://github.com/wcm-io-devops/ansible-role-apache) - Ansible Role - Apache 2.x.
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
@@ -1613,7 +1614,6 @@
 - [andywerner/yaml_cli](https://github.com/andywerner/yaml_cli) - A command line interface to read and manipulate YAML files. Based on python, distributed as pip.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [imjoey/pyhaproxy](https://github.com/imjoey/pyhaproxy) - Python library to parse haproxy configurations
-- [byjg/docker-easy-haproxy](https://github.com/byjg/docker-easy-haproxy) - Discover services and create dynamically the haproxy.cfg based on the labels defined in docker containers or from a simple static Yaml
 - [llacroix/prometheus-swarm-discovery](https://github.com/llacroix/prometheus-swarm-discovery) - Prometheus Swarm Discovery based on file_sd
 - [dirkcaumueller/ansible-role-postgresql](https://github.com/dirkcaumueller/ansible-role-postgresql) - Installs and configures PostgreSQL v12
 - [cloudalchemy/ansible-smokeping_prober](https://github.com/cloudalchemy/ansible-smokeping_prober) - Deploy smokeping prober
@@ -1743,6 +1743,7 @@
 
 ## Rust 
 
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [travier/sysexts-manager](https://github.com/travier/sysexts-manager) - Work in progress manager for systemd system extensions
 - [agentsea/nebulous](https://github.com/agentsea/nebulous) - A globally distributed container orchestrator
