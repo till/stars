@@ -1252,6 +1252,7 @@
 - [EOSC-synergy/ssh-oidc](https://github.com/EOSC-synergy/ssh-oidc) - Documentation for SSH with OIDC
 - [ariga/setup-atlas](https://github.com/ariga/setup-atlas) - A GitHub Action to install ariga/atlas in your workflows.
 - [openstack-archive/js-openstack-lib](https://github.com/openstack-archive/js-openstack-lib) - RETIRED, JavaScript API library for OpenStack. Mirror of code maintained at opendev.org.
+- [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [hostwithquantum/setup-runway](https://github.com/hostwithquantum/setup-runway) - A GitHub action to deploy to runway!
 - [hackerschoice/gsocket.io](https://github.com/hackerschoice/gsocket.io) - Web pages for gsocket.io
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
@@ -1775,7 +1776,6 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [flatcar/ue-rs](https://github.com/flatcar/ue-rs) - Prototype Omaha Rust implementation
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
-- [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [bluecatengineering/dora](https://github.com/bluecatengineering/dora) - A Rust DHCP server
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
