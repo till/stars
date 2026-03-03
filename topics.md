@@ -1189,7 +1189,7 @@
 - [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
@@ -2175,6 +2175,7 @@
 
 ## others 
 
+- [espebra/stupid-simple-s3](https://github.com/espebra/stupid-simple-s3) - A minimal S3-compatible object storage service in Go. Designed for single-server, single-drive deployments where simplicity matters more than redundancy.
 - [erikh/sterno](https://github.com/erikh/sterno) - A very dumb tool for faking prometheus metrics
 - [lstoll/tailscale-cni](https://github.com/lstoll/tailscale-cni) - CNI driver for traffic over tailscale
 - [softhsm/SoftHSMv2](https://github.com/softhsm/SoftHSMv2) - SoftHSM version 2
