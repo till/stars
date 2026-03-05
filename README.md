@@ -808,7 +808,6 @@
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [czerwonk/bird_socket](https://github.com/czerwonk/bird_socket) - Golang library to communicate with Bird routing daemon
 - [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Terraform OpenStack provider
-- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [fluxcd/go-git-providers](https://github.com/fluxcd/go-git-providers) - Git provider client for Go
@@ -1080,7 +1079,6 @@
 - [outsideris/citizen](https://github.com/outsideris/citizen) - A Private Terraform Module/Provider Registry
 - [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [aladinyo/WhatsappyApp](https://github.com/aladinyo/WhatsappyApp) - A whatsapp clone progressive web application built with react nodejs and firebase
-- [minio/object-browser](https://github.com/minio/object-browser) - Simple UI for MinIO Object Storage :abacus:
 - [octoherd/cli](https://github.com/octoherd/cli) - CLI to run a octoherd scripts on one or multiple repositories
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [gja/cloudflare-worker-local](https://github.com/gja/cloudflare-worker-local) - Run a Cloudflare Worker Locally
