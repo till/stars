@@ -2184,6 +2184,7 @@
 
 ## others 
 
+- [lstoll/oauth2ext](https://github.com/lstoll/oauth2ext) - 
 - [jepio/sysext-oci-proxy](https://github.com/jepio/sysext-oci-proxy) - Experimental proxy server that lets systemd-sysupdate fetch sysexts from an OCI registry.
 - [siemens/wfx](https://github.com/siemens/wfx) - a lightweight, general-purpose workflow executor
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
