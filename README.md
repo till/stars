@@ -244,6 +244,7 @@
 
 ## Go 
 
+- [lstoll/oauth2ext](https://github.com/lstoll/oauth2ext) - 
 - [tailscale/tsidp](https://github.com/tailscale/tsidp) - A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet.
 - [siemens/wfx](https://github.com/siemens/wfx) - a lightweight, general-purpose workflow executor
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
