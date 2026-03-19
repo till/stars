@@ -1169,7 +1169,7 @@
 - [nko/3-2-1](https://github.com/nko/3-2-1) - 
 - [robrighter/node-boilerplate](https://github.com/robrighter/node-boilerplate) - Everything you need to get started on a Node.js website with express and socket.IO
 - [visionmedia/masteringnode](https://github.com/visionmedia/masteringnode) - Open source eBook for nodejs - written w/ markdown, outputs to various formats (pdf, mobi, epub, html, etc)
-- [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
+- [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
 - [paulca/eyeballs.js](https://github.com/paulca/eyeballs.js) - A lightweight MVC framework for building fast, tidy javascript web apps
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [mikeal/couchcache](https://github.com/mikeal/couchcache) - CouchCache is a finely tuned caching HTTP proxy for CouchDB written in node.js
