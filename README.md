@@ -1961,7 +1961,6 @@
 
 ## TypeScript 
 
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [rh-aiservices-bu/s4](https://github.com/rh-aiservices-bu/s4) - Super Simple Storage Service
 - [nats-nui/nui](https://github.com/nats-nui/nui) - Free and Open Source NATS management GUI.
 - [temich/svintl](https://github.com/temich/svintl) - Internationalization for Svelte
