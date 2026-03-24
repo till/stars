@@ -1047,7 +1047,7 @@
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [ngxson/portainer-ce-without-annoying](https://github.com/ngxson/portainer-ce-without-annoying) - A drop-in replacement for portainer/portainer-ce, without annoying UI elements or tracking script
