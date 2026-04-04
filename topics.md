@@ -69,6 +69,7 @@
 - [elixir](#elixir)
 - [embedded](#embedded)
 - [es6](#es6)
+- [esp32](#esp32)
 - [facebook](#facebook)
 - [finance](#finance)
 - [firebase](#firebase)
@@ -492,7 +493,6 @@
 ## cli 
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -898,6 +898,10 @@
 
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 
+## esp32 
+
+- [iMicknl/LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT) - Learn how to connect your Flexispot (LoctekMotion) desk to the internet. This repository contains a collection of scripts to get your started, combined with research and instructions.
+
 ## facebook 
 
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
@@ -985,7 +989,6 @@
 
 ## git 
 
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [abiosoft/caddy-git](https://github.com/abiosoft/caddy-git) - git middleware for Caddy
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
@@ -2252,6 +2255,7 @@
 - [danthegoodman1/IAMProxy](https://github.com/danthegoodman1/IAMProxy) - AWS IAM HTTP proxy for your services that makes your services compatible with AWS APIs and packages
 - [danthegoodman1/netfence](https://github.com/danthegoodman1/netfence) - Like Envoy xDS, but for eBPF filters
 - [warpstreamlabs/bento](https://github.com/warpstreamlabs/bento) - Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [dmathieu/owe](https://github.com/dmathieu/owe) - OpenTelemetry Wide Events for Go
 - [aravindh-murugesan/openstack-snapsentry-go](https://github.com/aravindh-murugesan/openstack-snapsentry-go) - A robust, policy-based snapshot lifecycle manager for OpenStack Cinder volumes. Written in Go, featuring automated snapshots, granular retention policies (Daily/Weekly/Monthly), and local audit loggin
@@ -2364,7 +2368,7 @@
 - [rajch/weave](https://github.com/rajch/weave) - Simple, resilient multi-host containers networking and more.
 - [Luzilla/acronis-s3-usage](https://github.com/Luzilla/acronis-s3-usage) - Some code to pull S3 storage usage by tenant (ACI) and user (ACI/VHI).
 - [berthubert/simplomon](https://github.com/berthubert/simplomon) - Very simple monitoring system with a single configuration file
-- [SierraSoftworks/tailscale-unifi](https://github.com/SierraSoftworks/tailscale-unifi) - Run Tailscale on your Unifi Dream Machine
+- [SierraSoftworks/tailscale-unifi](https://github.com/SierraSoftworks/tailscale-unifi) - Run Tailscale on your UniFi OS device
 - [zfsnap/zfsnap](https://github.com/zfsnap/zfsnap) - A portable, performant script to make rolling ZFS snapshots easy. (https://github.com/zfsnap/zfsnap/issues/109)
 - [zombiezen/tailscale-lb](https://github.com/zombiezen/tailscale-lb) - Basic load-balancer for forwarding Tailscale TCP traffic
 - [gophercloud/utils](https://github.com/gophercloud/utils) - 
