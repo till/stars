@@ -244,6 +244,7 @@
 
 ## Go 
 
+- [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang), used by InfluxDB, Bleve, DataDog
 - [grafana/nanogit](https://github.com/grafana/nanogit) - A minimal cloud-ready Git implementation.
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
@@ -1758,6 +1759,8 @@
 
 ## Rust 
 
+- [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Find unused code, code duplication, circular dependencies, and complexity hotspots in TypeScript/JavaScript projects
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [glommer/pgmicro](https://github.com/glommer/pgmicro) - An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine
 - [jepio/sysext-oci-proxy](https://github.com/jepio/sysext-oci-proxy) - Experimental proxy server that lets systemd-sysupdate fetch sysexts from an OCI registry.
