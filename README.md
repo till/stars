@@ -243,6 +243,9 @@
 
 ## Go 
 
+- [aalpar/wile](https://github.com/aalpar/wile) - Pure Go R7RS Scheme — embeddable interpreter with hygienic macros, first-class continuations, and sandboxing
+- [AliRizaAynaci/gorl](https://github.com/AliRizaAynaci/gorl) - A high-performance, modular rate limiting library for Go. Supports in-memory and Redis backends. Includes Fixed Window, Sliding Window, Token Bucket, and Leaky Bucket algorithms. Flexible keying (IP, 
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [hostwithquantum/static-buildpack](https://github.com/hostwithquantum/static-buildpack) - A static buildpack for hugo and mdbook
 - [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang), used by InfluxDB, Bleve, DataDog
@@ -1760,6 +1763,7 @@
 
 ## Rust 
 
+- [quinck-io/chimera](https://github.com/quinck-io/chimera) - 100% drop-in replacement for GitHub self-hosted runners, written from scratch
 - [bpbradley/locket](https://github.com/bpbradley/locket) - Inject secrets into config files as a dependency for docker compose
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Find unused code, code duplication, circular dependencies, and complexity hotspots in TypeScript/JavaScript projects
