@@ -2274,6 +2274,7 @@
 
 ## others 
 
+- [hostwithquantum/nur](https://github.com/hostwithquantum/nur) - nix user repository for runway cli :rocket:
 - [apache/skywalking-rover](https://github.com/apache/skywalking-rover) - Monitor and profiler powered by eBPF to monitor network traffic, and diagnose CPU and network performance.
 - [Luzilla/iptablesf](https://github.com/Luzilla/iptablesf) - Tool to manipulate iptable chains (written for DOCKER-USER injection)
 - [quinck-io/chimera](https://github.com/quinck-io/chimera) - 100% drop-in replacement for GitHub self-hosted runners, written from scratch
@@ -2471,7 +2472,7 @@
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron
 - [davidchisnall/container-vm-scripts](https://github.com/davidchisnall/container-vm-scripts) - Scripts for building FreeBSD VMs for use with podman
 - [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates.
-- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
+- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [Mirantis/CloudFerry](https://github.com/Mirantis/CloudFerry) - Openstack workload migration tool
 - [docker-archive-public/docker.compose-on-kubernetes](https://github.com/docker-archive-public/docker.compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [yunyu/parse-prometheus-text-format](https://github.com/yunyu/parse-prometheus-text-format) - JavaScript parser for the Prometheus metrics text format
