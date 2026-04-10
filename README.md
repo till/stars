@@ -487,7 +487,7 @@
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [didil/paperlb](https://github.com/didil/paperlb) - A kubernetes network load balancer implementation
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
-- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
+- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [vmware-tanzu/crash-diagnostics](https://github.com/vmware-tanzu/crash-diagnostics) - Crash-Diagnostics (Crashd) is a tool to help investigate, analyze, and troubleshoot unresponsive or crashed Kubernetes clusters.
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [virtual-kubelet/systemk](https://github.com/virtual-kubelet/systemk) - Systemk is a systemd backend for the virtual-kubelet. Instead of starting containers, you start systemd units.
@@ -1245,6 +1245,7 @@
 
 ## Nix 
 
+- [hostwithquantum/nur](https://github.com/hostwithquantum/nur) - nix user repository for runway cli :rocket:
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 
 ## OCaml 
