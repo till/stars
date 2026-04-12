@@ -1534,7 +1534,7 @@
 - [shupp/openid](https://github.com/shupp/openid) - OpenID library for PEAR
 - [till/integration-api](https://github.com/till/integration-api) - A plugin integration bbpress with a rails application.
 - [beberlei/Zend_Db-Adapter-for-ext-mysql](https://github.com/beberlei/Zend_Db-Adapter-for-ext-mysql) - Legacy applications often work with ext/mysql all over the place. This Zend_Db adapter allows to share the resources and benefit from Zend_Db.
-- [jeffhodsdon/HTTP_OAuth](https://github.com/jeffhodsdon/HTTP_OAuth) - HTTP_OAuth package contains the basics for both OAuth consumers and providers.
+- [vincehodsdon/HTTP_OAuth](https://github.com/vincehodsdon/HTTP_OAuth) - HTTP_OAuth package contains the basics for both OAuth consumers and providers.
 - [hjr3/crimson](https://github.com/hjr3/crimson) - Personal component framework
 - [till/phpstream](https://github.com/till/phpstream) - Stream flv
 - [chregu/planet-php](https://github.com/chregu/planet-php) - 
@@ -1769,6 +1769,7 @@
 
 ## Rust 
 
+- [cyberwitchery/dd](https://github.com/cyberwitchery/dd) - in which do our due diligence
 - [quinck-io/chimera](https://github.com/quinck-io/chimera) - 100% drop-in replacement for GitHub self-hosted runners, written from scratch
 - [bpbradley/locket](https://github.com/bpbradley/locket) - Inject secrets into config files as a dependency for docker compose
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
