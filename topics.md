@@ -2274,6 +2274,7 @@
 
 ## others 
 
+- [cyberwitchery/dd](https://github.com/cyberwitchery/dd) - in which do our due diligence
 - [henrrrik/runway-app-stats-tui](https://github.com/henrrrik/runway-app-stats-tui) - A terminal dashboard for monitoring Runway app resources
 - [hostwithquantum/nur](https://github.com/hostwithquantum/nur) - nix user repository for runway cli :rocket:
 - [apache/skywalking-rover](https://github.com/apache/skywalking-rover) - Monitor and profiler powered by eBPF to monitor network traffic, and diagnose CPU and network performance.
@@ -3271,7 +3272,7 @@
 - [metajack/strophejs](https://github.com/metajack/strophejs) - The Strophe.js repository has moved to https://github.com/strophe/strophejs
 - [till/integration-api](https://github.com/till/integration-api) - A plugin integration bbpress with a rails application.
 - [beberlei/Zend_Db-Adapter-for-ext-mysql](https://github.com/beberlei/Zend_Db-Adapter-for-ext-mysql) - Legacy applications often work with ext/mysql all over the place. This Zend_Db adapter allows to share the resources and benefit from Zend_Db.
-- [jeffhodsdon/HTTP_OAuth](https://github.com/jeffhodsdon/HTTP_OAuth) - HTTP_OAuth package contains the basics for both OAuth consumers and providers.
+- [vincehodsdon/HTTP_OAuth](https://github.com/vincehodsdon/HTTP_OAuth) - HTTP_OAuth package contains the basics for both OAuth consumers and providers.
 - [faye/faye](https://github.com/faye/faye) - Simple pub/sub messaging for the web
 - [langalex/boom_amazing](https://github.com/langalex/boom_amazing) - a couchapp that lets you give a presentation by panning, rotating and zooming in an svg/png/pdf file
 - [till/couchdb-freebsd](https://github.com/till/couchdb-freebsd) - Start script for CouchDB on FreeBSD.
