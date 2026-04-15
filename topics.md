@@ -349,6 +349,7 @@
 
 ## automation 
 
+- [hostwithquantum/setup-gh-token](https://github.com/hostwithquantum/setup-gh-token) - Setup a GitHub token, committer name and email for your bots!
 - [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [umputun/spot](https://github.com/umputun/spot) - A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
@@ -1570,7 +1571,6 @@
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
-- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [trailofbits/it-depends](https://github.com/trailofbits/it-depends) - A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -2274,7 +2274,6 @@
 
 ## others 
 
-- [cyberwitchery/dd](https://github.com/cyberwitchery/dd) - in which do our due diligence
 - [henrrrik/runway-app-stats-tui](https://github.com/henrrrik/runway-app-stats-tui) - A terminal dashboard for monitoring Runway app resources
 - [hostwithquantum/nur](https://github.com/hostwithquantum/nur) - nix user repository for runway cli :rocket:
 - [apache/skywalking-rover](https://github.com/apache/skywalking-rover) - Monitor and profiler powered by eBPF to monitor network traffic, and diagnose CPU and network performance.
