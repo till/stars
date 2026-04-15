@@ -370,7 +370,7 @@
 - [nirmata/kube-static-egress-ip](https://github.com/nirmata/kube-static-egress-ip) - Kubernetes CRD to manage static egress IP addresses for workloads
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [lstoll/local-acmpca](https://github.com/lstoll/local-acmpca) - 
-- [hostwithquantum/runway-buildpack-stack](https://github.com/hostwithquantum/runway-buildpack-stack) - Runway's buildpack stack (jammy) to easily deploy applications. No devops required!
+- [hostwithquantum/runway-buildpack-stack](https://github.com/hostwithquantum/runway-buildpack-stack) - Runway's buildpack stack (jammy/noble) to easily deploy applications. No devops required!
 - [yaroslav-gwit/HosterCore](https://github.com/yaroslav-gwit/HosterCore) - 🚀 Hoster: Empowering FreeBSD Virtualisation with Ease
 - [hsnice16/email-verifier](https://github.com/hsnice16/email-verifier) - Enter an email and verify if it's a valid email or not, written in Go language. Also, exposes the core service to verify an email as a package and as an endpoint.
 - [goharbor/acceleration-service](https://github.com/goharbor/acceleration-service) - Provides a general service to support image acceleration based on kinds of accelerator like Nydus and eStargz etc.
@@ -1269,6 +1269,7 @@
 
 ## Others 
 
+- [hostwithquantum/setup-gh-token](https://github.com/hostwithquantum/setup-gh-token) - Setup a GitHub token, committer name and email for your bots!
 - [bmizerany/setup-postgres](https://github.com/bmizerany/setup-postgres) - The fastest PostgreSQL setup for GitHub Actions
 - [c3e/grundgesetz](https://github.com/c3e/grundgesetz) - Grundgesetz für die Bundesrepublik Deutschland
 - [hostwithquantum/setup-k8s-action](https://github.com/hostwithquantum/setup-k8s-action) - A composite action to setup the k8s environment for our deployments.
@@ -1280,7 +1281,7 @@
 - [hackerschoice/gsocket.io](https://github.com/hackerschoice/gsocket.io) - Web pages for gsocket.io
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
-- [ip2location/ip2location-iata-icao-real](https://github.com/ip2location/ip2location-iata-icao-real) - This list contains the airport codes of IATA airport code and ICAO airport code together with country code and region name supported in IP2Location geolocation database.
+- [ip2location/ip2location-iata-icao](https://github.com/ip2location/ip2location-iata-icao) - This list contains the airport codes of IATA airport code and ICAO airport code together with country code and region name supported in IP2Location geolocation database.
 - [h0ru5/apo](https://github.com/h0ru5/apo) - A.P.O. - "Authorized Personnel Only" is a minimalist OAuth IAM written in Go
 - [TekWizely/bingo](https://github.com/TekWizely/bingo) - The missing package manager for golang binaries (its homebrew for "go install")
 - [telekom/das-schiff](https://github.com/telekom/das-schiff) - This is home of Das Schiff - Deutsche Telekom Technik's engine for Kubernetes Cluster as a Service (CaaS) in on-premise environment on top of bare-metal servers and VMs.
@@ -1769,11 +1770,10 @@
 
 ## Rust 
 
-- [cyberwitchery/dd](https://github.com/cyberwitchery/dd) - in which do our due diligence
 - [quinck-io/chimera](https://github.com/quinck-io/chimera) - 100% drop-in replacement for GitHub self-hosted runners, written from scratch
 - [bpbradley/locket](https://github.com/bpbradley/locket) - Inject secrets into config files as a dependency for docker compose
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Find unused code, code duplication, circular dependencies, and complexity hotspots in TypeScript/JavaScript projects
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - The codebase analyzer for TypeScript and JavaScript. Finds unused code, circular dependencies, code duplication, complexity hotspots, and architecture boundary violations. Rust-native, sub-second, 90 
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [glommer/pgmicro](https://github.com/glommer/pgmicro) - An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine
 - [jepio/sysext-oci-proxy](https://github.com/jepio/sysext-oci-proxy) - Experimental proxy server that lets systemd-sysupdate fetch sysexts from an OCI registry.
