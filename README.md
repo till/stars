@@ -310,7 +310,6 @@
 - [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [wapc/tinygo-msgpack](https://github.com/wapc/tinygo-msgpack) - MessagePack module for TinyGo
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
-- [alexisbouchez/ravel](https://github.com/alexisbouchez/ravel) - An open-source microVMs orchestrator.
 - [rancher/wrangler](https://github.com/rancher/wrangler) - Write controllers like a boss
 - [42paris/qseal](https://github.com/42paris/qseal) - qseal is a CLI tool that simplifies the process of sealing and unsealing Kubernetes secrets using kubeseal. It uses a declarative configuration file (qsealrc.yaml) to manage your secrets.
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
@@ -379,7 +378,7 @@
 - [monperrus/crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - Syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders. pull-request welcome :star:
 - [kubermatic/kubelb](https://github.com/kubermatic/kubelb) - Kubernetes based load balancing
 - [bpfman/bpfman-operator](https://github.com/bpfman/bpfman-operator) - Kubernetes operator for bpfman
-- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway
+- [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
 - [itbasis/go-clock](https://github.com/itbasis/go-clock) - Clock is a small library for mocking time in Go.
 - [dineshgowda24/browser](https://github.com/dineshgowda24/browser) - Browser detection in Go (golang)
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
@@ -1269,6 +1268,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [hostwithquantum/setup-gh-token](https://github.com/hostwithquantum/setup-gh-token) - Setup a GitHub token, committer name and email for your bots!
 - [bmizerany/setup-postgres](https://github.com/bmizerany/setup-postgres) - The fastest PostgreSQL setup for GitHub Actions
 - [c3e/grundgesetz](https://github.com/c3e/grundgesetz) - Grundgesetz für die Bundesrepublik Deutschland
@@ -1907,7 +1907,7 @@
 - [byrnedo/docker-reg-tool](https://github.com/byrnedo/docker-reg-tool) - Docker registry cli tool, primarily for deleting images.
 - [libresh/compose-matomo](https://github.com/libresh/compose-matomo) - Matomo docker-compose application for libre.sh-v1
 - [docker-how-to/portainer-bash-scripts](https://github.com/docker-how-to/portainer-bash-scripts) - Bash scripts to interact with Portainer
-- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🌴
+- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
 - [storageos/charts](https://github.com/storageos/charts) - StorageOS official Helm Charts
 - [avlis/pxe_coreos](https://github.com/avlis/pxe_coreos) - Dockerfile to build a PXE server of coreOSes in a Docker container
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
