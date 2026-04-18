@@ -252,7 +252,7 @@
 - [AliRizaAynaci/gorl](https://github.com/AliRizaAynaci/gorl) - A high-performance, modular rate limiting library for Go. Supports in-memory and Redis backends. Includes Fixed Window, Sliding Window, Token Bucket, and Leaky Bucket algorithms. Flexible keying (IP, 
 - [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [hostwithquantum/static-buildpack](https://github.com/hostwithquantum/static-buildpack) - A static buildpack for hugo and mdbook
-- [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
+- [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang), used by InfluxDB, Bleve, DataDog
 - [grafana/nanogit](https://github.com/grafana/nanogit) - A minimal cloud-ready Git implementation.
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
@@ -1988,6 +1988,7 @@
 
 ## TypeScript 
 
+- [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [rh-aiservices-bu/s4](https://github.com/rh-aiservices-bu/s4) - Super Simple Storage Service
 - [nats-nui/nui](https://github.com/nats-nui/nui) - Free and Open Source NATS management GUI.
 - [temich/svintl](https://github.com/temich/svintl) - Internationalization for Svelte
