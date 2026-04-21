@@ -1777,7 +1777,7 @@
 - [quinck-io/chimera](https://github.com/quinck-io/chimera) - 100% drop-in replacement for GitHub self-hosted runners, written from scratch
 - [bpbradley/locket](https://github.com/bpbradley/locket) - Inject secrets into config files as a dependency for docker compose
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - The codebase analyzer for TypeScript and JavaScript. Finds unused code, circular dependencies, code duplication, complexity hotspots, and architecture boundary violations. Rust-native, sub-second, 90 
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [glommer/pgmicro](https://github.com/glommer/pgmicro) - An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine
 - [jepio/sysext-oci-proxy](https://github.com/jepio/sysext-oci-proxy) - Experimental proxy server that lets systemd-sysupdate fetch sysexts from an OCI registry.
@@ -1976,7 +1976,7 @@
 ## Swift 
 
 - [achtungsoftware/alarik](https://github.com/achtungsoftware/alarik) - High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
-- [shapehq/tartelet](https://github.com/shapehq/tartelet) - ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job
+- [framna-dk/tartelet](https://github.com/framna-dk/tartelet) - ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [tomtaylor/satellite-eyes](https://github.com/tomtaylor/satellite-eyes) - Mac OS X app to automatically set your desktop wallpaper to the satellite view overhead.
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
