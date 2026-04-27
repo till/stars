@@ -243,6 +243,7 @@
 
 ## Go 
 
+- [bradfitz/sessweb](https://github.com/bradfitz/sessweb) - Share Claude Code sessions to peers on your Tailscale tailnet
 - [henrrrik/runway-app-stats-tui](https://github.com/henrrrik/runway-app-stats-tui) - A terminal dashboard for monitoring Runway app resources
 - [apache/skywalking-rover](https://github.com/apache/skywalking-rover) - Monitor and profiler powered by eBPF to monitor network traffic, and diagnose CPU and network performance.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -289,7 +290,6 @@
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
-- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [vexxhost/vault-plugin-secrets-openstack](https://github.com/vexxhost/vault-plugin-secrets-openstack) - OpenStack Secrets Backend using Application Credentials
 - [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native distributed storage
@@ -319,7 +319,7 @@
 - [perses/promql-builder](https://github.com/perses/promql-builder) - A library to build PromQL expression in Golang.
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
+- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [jsiebens/brink](https://github.com/jsiebens/brink) - brink - a lightweight identity aware proxy
 - [thanos-community/obslytics](https://github.com/thanos-community/obslytics) - Tools and Services allowing seamless usage of Observability data from Prometheus, Thanos, Cortex, M3DB, Loki and more!
