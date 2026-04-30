@@ -243,6 +243,8 @@
 
 ## Go 
 
+- [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or s
+- [boratanrikulu/bpfvet](https://github.com/boratanrikulu/bpfvet) - BPF portability analyzer for compiled eBPF object files. Reports minimum kernel version requirements, data flow patterns, and CO-RE coverage.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [grafana/smtprelay](https://github.com/grafana/smtprelay) - Simple Golang SMTP relay/proxy server
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
@@ -1778,6 +1780,7 @@
 
 ## Rust 
 
+- [k06a/macpow](https://github.com/k06a/macpow) - 💻🔋 Real-time power tree TUI for Apple Silicon
 - [aleksgrim/crab-shield](https://github.com/aleksgrim/crab-shield) - 🦀 A high-performance, hybrid L3/L4/L7 anti-DDoS firewall powered by eBPF/XDP and Rust. Zero CPU overhead mitigation.
 - [quinck-io/chimera](https://github.com/quinck-io/chimera) - 100% drop-in replacement for GitHub self-hosted runners, written from scratch
 - [bpbradley/locket](https://github.com/bpbradley/locket) - Inject secrets into config files as a dependency for docker compose
