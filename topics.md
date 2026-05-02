@@ -2310,6 +2310,7 @@
 
 ## others 
 
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes.
 - [k06a/macpow](https://github.com/k06a/macpow) - 💻🔋 Real-time power tree TUI for Apple Silicon
 - [grafana/smtprelay](https://github.com/grafana/smtprelay) - Simple Golang SMTP relay/proxy server
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
