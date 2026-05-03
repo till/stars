@@ -442,7 +442,7 @@
 - [hostwithquantum/ghcr-janitor](https://github.com/hostwithquantum/ghcr-janitor) - ghcr-janitor deletes container images that have a `pr-` prefix.
 - [lstoll/passidp](https://github.com/lstoll/passidp) - 
 - [apple/pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [mikespook/gearman-go](https://github.com/mikespook/gearman-go) - This package is a Gearman API for Golang. It was implemented a native protocol for both worker and client API.
 - [till/s9y-hugo](https://github.com/till/s9y-hugo) - Migrate from Serendipity to hugo
 - [bwagner5/karpenter-k3d](https://github.com/bwagner5/karpenter-k3d) - k3d provider for Karpenter
