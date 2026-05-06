@@ -59,6 +59,7 @@
 
 ## C 
 
+- [pgexperts/pgxbackup](https://github.com/pgexperts/pgxbackup) - Reliable PostgreSQL Backup & Restore
 - [kube-vip/kube-gateway](https://github.com/kube-vip/kube-gateway) - A transparent proxy for Kubernetes pods
 - [multipath-tcp/tcp-in-udp](https://github.com/multipath-tcp/tcp-in-udp) - Lightweight TCP in UDP tunnel 🚇 using eBPF 🐝
 - [aws/pgactive](https://github.com/aws/pgactive) - 
@@ -244,7 +245,7 @@
 ## Go 
 
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes.
-- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+- [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or s
 - [boratanrikulu/bpfvet](https://github.com/boratanrikulu/bpfvet) - BPF portability analyzer for compiled eBPF object files. Reports minimum kernel version requirements, data flow patterns, and CO-RE coverage.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
