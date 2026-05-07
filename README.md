@@ -1986,6 +1986,7 @@
 
 ## Swift 
 
+- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [achtungsoftware/alarik](https://github.com/achtungsoftware/alarik) - High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.
 - [framna-dk/tartelet](https://github.com/framna-dk/tartelet) - ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job
