@@ -815,7 +815,7 @@
 
 - [erikh/duct](https://github.com/erikh/duct) - docker-compose alike functionality directly from golang, for integration testing.
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
@@ -1536,7 +1536,7 @@
 
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 - [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -1837,7 +1837,7 @@
 - [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or s
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native distributed storage
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [aojea/kindnet](https://github.com/aojea/kindnet) - minimalistic Kubernetes network plugin that just works
 - [42paris/qseal](https://github.com/42paris/qseal) - qseal is a CLI tool that simplifies the process of sealing and unsealing Kubernetes secrets using kubeseal. It uses a declarative configuration file (qsealrc.yaml) to manage your secrets.
