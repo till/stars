@@ -1828,7 +1828,7 @@
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [bluecatengineering/dora](https://github.com/bluecatengineering/dora) - A Rust DHCP server
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI coding agents and developers.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush) - Make it safe to serve untrusted SVG files
