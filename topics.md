@@ -2765,7 +2765,7 @@
 - [samuelkarp/runj](https://github.com/samuelkarp/runj) - runj is an experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails.
 - [lightcode/coredns-plugin-openstack](https://github.com/lightcode/coredns-plugin-openstack) - A coredns plugin to resolve OpenStack server names.
 - [phamhongviet/serf-dns](https://github.com/phamhongviet/serf-dns) - DNS service with serf backend
-- [golang-devops/go-exec-streamer](https://github.com/golang-devops/go-exec-streamer) - A golang exec streamer to make streaming exec.Command as simple as possible
+- [francoishill/golang-devops-go-exec-streamer](https://github.com/francoishill/golang-devops-go-exec-streamer) - A golang exec streamer to make streaming exec.Command as simple as possible
 - [openstack/kuryr](https://github.com/openstack/kuryr) - Bridge between container framework networking and storage models to OpenStack networking and storage abstractions. Mirror of code maintained at opendev.org.
 - [libopenstorage/openstorage](https://github.com/libopenstorage/openstorage) - A multi-host clustered implementation of the open storage specification
 - [angrox/ansible-centos-updates](https://github.com/angrox/ansible-centos-updates) - Update configuration for RHEL/CentOS
