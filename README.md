@@ -895,7 +895,7 @@
 - [phamhongviet/serf-dns](https://github.com/phamhongviet/serf-dns) - DNS service with serf backend
 - [fffaraz/microdns](https://github.com/fffaraz/microdns) - A tiny dockerized DNS server in Go that (almost) always returns the same IP for any query sent to it.
 - [gruntwork-io/fetch](https://github.com/gruntwork-io/fetch) - Download files, folders, and release assets from a specific git commit, branch, or tag of public and private GitHub repos.
-- [golang-devops/go-exec-streamer](https://github.com/golang-devops/go-exec-streamer) - A golang exec streamer to make streaming exec.Command as simple as possible
+- [francoishill/golang-devops-go-exec-streamer](https://github.com/francoishill/golang-devops-go-exec-streamer) - A golang exec streamer to make streaming exec.Command as simple as possible
 - [libopenstorage/openstorage](https://github.com/libopenstorage/openstorage) - A multi-host clustered implementation of the open storage specification
 - [signal-golang/textsecure](https://github.com/signal-golang/textsecure) - TextSecure(signal)  client package for Go
 - [genuinetools/1up](https://github.com/genuinetools/1up) - A custom Gmail spam filter bot.
