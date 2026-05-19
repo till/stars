@@ -65,7 +65,7 @@
 - [multipath-tcp/tcp-in-udp](https://github.com/multipath-tcp/tcp-in-udp) - Lightweight TCP in UDP tunnel 🚇 using eBPF 🐝
 - [aws/pgactive](https://github.com/aws/pgactive) - 
 - [castai/egressd](https://github.com/castai/egressd) - Kubernetes aware network traffic monitoring
-- [bluedragonsecurity/bds_freebsd](https://github.com/bluedragonsecurity/bds_freebsd) - Freebsd KLD Rootkit for FreeBSD 13. Hides files, hides process, hides port, bind shell backdoor
+- [bluedragonsecurity/bds_freebsd](https://github.com/bluedragonsecurity/bds_freebsd) - Freebsd KLD Rootkit for FreeBSD 13. Hides files, hides process, hides port, bind shell backdoor - developed by Antonius in 2023 manually
 - [scovl/checkrc](https://github.com/scovl/checkrc) - A command-line tool designed to validate the configuration settings in the FreeBSD /etc/rc.conf file
 - [bitkeeper-scm/bitkeeper](https://github.com/bitkeeper-scm/bitkeeper) - This is the master copy of the BitKeeper source
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms, focusing on flexibility, security and scalability
