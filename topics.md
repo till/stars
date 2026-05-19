@@ -2440,7 +2440,7 @@
 - [itbasis/go-clock](https://github.com/itbasis/go-clock) - Clock is a small library for mocking time in Go.
 - [bootreer/vroom](https://github.com/bootreer/vroom) - userspace nvme driver
 - [bundesAPI/klinikatlas-api](https://github.com/bundesAPI/klinikatlas-api) - klinikatlas api
-- [bluedragonsecurity/bds_freebsd](https://github.com/bluedragonsecurity/bds_freebsd) - Freebsd KLD Rootkit for FreeBSD 13. Hides files, hides process, hides port, bind shell backdoor
+- [bluedragonsecurity/bds_freebsd](https://github.com/bluedragonsecurity/bds_freebsd) - Freebsd KLD Rootkit for FreeBSD 13. Hides files, hides process, hides port, bind shell backdoor - developed by Antonius in 2023 manually
 - [videlalvaro/gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated Gifs as a transport™
 - [bincyber/go-sqlcrypter](https://github.com/bincyber/go-sqlcrypter) - custom Go data type to facilitate column-level encryption
 - [stucchimax/bgplab](https://github.com/stucchimax/bgplab) - Master BGP configuration with this set of virtual labs
