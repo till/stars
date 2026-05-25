@@ -245,6 +245,8 @@
 
 ## Go 
 
+- [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
+- [boratanrikulu/gobee](https://github.com/boratanrikulu/gobee) - Write your BPF programs in Go, not C. gobee transpiles a Go subset to BPF C and generates typed cilium/ebpf bindings.
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes.
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or s
@@ -1102,7 +1104,6 @@
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [riatelab/bertin](https://github.com/riatelab/bertin) - A package to draw maps in javascript
-- [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [anthonykawa/artifact-server](https://github.com/anthonykawa/artifact-server) - Github Artifacts server example
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -1787,6 +1788,7 @@
 
 ## Rust 
 
+- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
 - [k06a/macpow](https://github.com/k06a/macpow) - 💻🔋 Real-time power tree TUI for Apple Silicon
 - [aleksgrim/crab-shield](https://github.com/aleksgrim/crab-shield) - 🦀 A high-performance, hybrid L3/L4/L7 anti-DDoS firewall powered by eBPF/XDP and Rust. Zero CPU overhead mitigation.
@@ -1891,6 +1893,7 @@
 - [virt-lightning/cloud-init-bsd-testing](https://github.com/virt-lightning/cloud-init-bsd-testing) - Collection of scripts used to validate cloud-init with up to date BSD images
 - [flatcar/sysext-bakery](https://github.com/flatcar/sysext-bakery) - Recipes for baking systemd-sysext images
 - [flatcar-archive/flatcar-docs](https://github.com/flatcar-archive/flatcar-docs) - Flatcar Container Linux Documentation (https://docs.flatcar-linux.org/)
+- [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [bsdpot/pot](https://github.com/bsdpot/pot) - pot: another container framework for FreeBSD, based on jails, ZFS and pf
 - [tibeer/vscodium](https://github.com/tibeer/vscodium) - binary releases [+Darwin_ARM64] of VS Code without MS branding/telemetry/licensing
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
