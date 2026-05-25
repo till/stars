@@ -40,6 +40,7 @@
 - [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
+- [code-review](#code-review)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [continuous-integration](#continuous-integration)
@@ -596,6 +597,10 @@
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
 - [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 
+## code-review 
+
+- [ClickHouse/velocity](https://github.com/ClickHouse/velocity) - Velocity: report and compare team activity across GitHub repositories
+
 ## command-line 
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -606,7 +611,6 @@
 
 ## compiler 
 
-- [aalpar/wile](https://github.com/aalpar/wile) - Pure Go R7RS Scheme — embeddable interpreter with hygienic macros, first-class continuations, and sandboxing
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
@@ -880,7 +884,6 @@
 - [pyro/experiment-firecracker-run-docker](https://github.com/pyro/experiment-firecracker-run-docker) - Experimental CLI that takes a Docker image url and runs it in a Firecracker VM
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [CrunchyData/crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
@@ -1058,6 +1061,7 @@
 
 ## github 
 
+- [ClickHouse/velocity](https://github.com/ClickHouse/velocity) - Velocity: report and compare team activity across GitHub repositories
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [till/golangoss-bluesky](https://github.com/till/golangoss-bluesky) - A bot for Bluesky
 - [hostwithquantum/ghcr-janitor](https://github.com/hostwithquantum/ghcr-janitor) - ghcr-janitor deletes container images that have a `pr-` prefix.
@@ -1246,7 +1250,6 @@
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [js-ojus/flow](https://github.com/js-ojus/flow) - A tiny open source workflow engine written in Go (golang)
@@ -1275,6 +1278,7 @@
 
 ## golang 
 
+- [boratanrikulu/gobee](https://github.com/boratanrikulu/gobee) - Write your BPF programs in Go, not C. gobee transpiles a Go subset to BPF C and generates typed cilium/ebpf bindings.
 - [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or s
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -1456,7 +1460,6 @@
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [js-ojus/flow](https://github.com/js-ojus/flow) - A tiny open source workflow engine written in Go (golang)
@@ -2020,6 +2023,7 @@
 
 ## linux 
 
+- [boratanrikulu/gobee](https://github.com/boratanrikulu/gobee) - Write your BPF programs in Go, not C. gobee transpiles a Go subset to BPF C and generates typed cilium/ebpf bindings.
 - [boratanrikulu/bpfvet](https://github.com/boratanrikulu/bpfvet) - BPF portability analyzer for compiled eBPF object files. Reports minimum kernel version requirements, data flow patterns, and CO-RE coverage.
 - [aleksgrim/crab-shield](https://github.com/aleksgrim/crab-shield) - 🦀 A high-performance, hybrid L3/L4/L7 anti-DDoS firewall powered by eBPF/XDP and Rust. Zero CPU overhead mitigation.
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations
@@ -2322,6 +2326,8 @@
 
 ## others 
 
+- [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
+- [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 - [pgexperts/pgxbackup](https://github.com/pgexperts/pgxbackup) - Reliable PostgreSQL Backup & Restore
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes.
@@ -3632,6 +3638,7 @@
 
 ## rust 
 
+- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [aleksgrim/crab-shield](https://github.com/aleksgrim/crab-shield) - 🦀 A high-performance, hybrid L3/L4/L7 anti-DDoS firewall powered by eBPF/XDP and Rust. Zero CPU overhead mitigation.
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
@@ -3667,6 +3674,7 @@
 
 ## security 
 
+- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
