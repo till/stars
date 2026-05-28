@@ -846,7 +846,7 @@
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes without the root privileges
 - [ghostsquad/swarmci](https://github.com/ghostsquad/swarmci) - Swarm CI - Docker Swarm-based CI system or enhancement to existing systems.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
-- [docker/volumes-backup-extension](https://github.com/docker/volumes-backup-extension) - Back up, clone, restore, and share Docker volumes effortlessly.
+- [docker-archive-public/docker.volumes-backup-extension](https://github.com/docker-archive-public/docker.volumes-backup-extension) - Back up, clone, restore, and share Docker volumes effortlessly.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
@@ -1563,7 +1563,7 @@
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
-- [docker/volumes-backup-extension](https://github.com/docker/volumes-backup-extension) - Back up, clone, restore, and share Docker volumes effortlessly.
+- [docker-archive-public/docker.volumes-backup-extension](https://github.com/docker-archive-public/docker.volumes-backup-extension) - Back up, clone, restore, and share Docker volumes effortlessly.
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [jcmoraisjr/haproxy-ingress](https://github.com/jcmoraisjr/haproxy-ingress) - HAProxy Ingress
