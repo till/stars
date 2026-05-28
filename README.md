@@ -1575,7 +1575,7 @@
 
 ## PLpgSQL 
 
-- [docker/volumes-backup-extension](https://github.com/docker/volumes-backup-extension) - Back up, clone, restore, and share Docker volumes effortlessly.
+- [docker-archive-public/docker.volumes-backup-extension](https://github.com/docker-archive-public/docker.volumes-backup-extension) - Back up, clone, restore, and share Docker volumes effortlessly.
 
 ## Perl 
 
