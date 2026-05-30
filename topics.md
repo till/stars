@@ -2325,6 +2325,7 @@
 
 ## others 
 
+- [hostwithquantum/quantum-caddy](https://github.com/hostwithquantum/quantum-caddy) - Caddy (v2) setup for Docker nodes at Planetary Quantum
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
