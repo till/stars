@@ -1252,6 +1252,7 @@
 
 ## Makefile 
 
+- [hostwithquantum/quantum-caddy](https://github.com/hostwithquantum/quantum-caddy) - Caddy (v2) setup for Docker nodes at Planetary Quantum
 - [pngmbh/docker-backup-cron](https://github.com/pngmbh/docker-backup-cron) - Container that uses crond to run commands; also includes rsync and rclone.
 - [opencontainers/wg-freebsd-runtime](https://github.com/opencontainers/wg-freebsd-runtime) - A repository for coordinating the work of defining a FreeBSD extension to the OCI runtime
 - [hostwithquantum/setup-mc](https://github.com/hostwithquantum/setup-mc) - A github action to download minio client (mc) in your workflows.
