@@ -2744,11 +2744,11 @@
 - [redhat-cip/openstack-monitoring](https://github.com/redhat-cip/openstack-monitoring) - A bunch of scripts that you can use to monitor OpenStack Services
 - [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder
 - [globocom/database-as-a-service](https://github.com/globocom/database-as-a-service) - Database as a service (DBaaS) that allows users to quickly and easily deploy and manage database instances using cloud infrastructure
-- [grafana/cortex-jsonnet](https://github.com/grafana/cortex-jsonnet) - Deprecated: see https://github.com/grafana/mimir/tree/main/operations/mimir instead
+- [grafana-cold-storage/cortex-jsonnet](https://github.com/grafana-cold-storage/cortex-jsonnet) - Deprecated: see https://github.com/grafana/mimir/tree/main/operations/mimir instead
 - [fluxcd/go-git-providers](https://github.com/fluxcd/go-git-providers) - Git provider client for Go
 - [robertdebock/docker-github-action-molecule](https://github.com/robertdebock/docker-github-action-molecule) - A container that is used for GitHub actions molecule
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query.
-- [grafana/cortex-tools](https://github.com/grafana/cortex-tools) - If you're using this tool with Grafana Mimir, please switch to "mimirtool" instead: https://github.com/grafana/mimir
+- [grafana-cold-storage/cortex-tools](https://github.com/grafana-cold-storage/cortex-tools) - If you're using this tool with Grafana Mimir, please switch to "mimirtool" instead: https://github.com/grafana/mimir
 - [portworx/torpedo](https://github.com/portworx/torpedo) - A test suite to qualify storage providers for stateful containers running in a cluster.
 - [libopenstorage/stork](https://github.com/libopenstorage/stork) - Stork - Storage Orchestration Runtime for Kubernetes
 - [libopenstorage/operator](https://github.com/libopenstorage/operator) - Storage operator for Kubernetes
@@ -3907,7 +3907,7 @@
 
 ## telegram 
 
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
+- [grafana-cold-storage/oncall](https://github.com/grafana-cold-storage/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [slok/alertgram](https://github.com/slok/alertgram) - Easy and simple prometheus alertmanager alerts on telegram
 - [metalmatze/alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - [deprecated] Bot for Prometheus' Alertmanager
