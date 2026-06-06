@@ -857,7 +857,7 @@
 - [bwplotka/mimic](https://github.com/bwplotka/mimic) - mimic: Define your Deployments, Infrastructure and Configuration as a Go Code 🚀
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
-- [grafana/cortex-tools](https://github.com/grafana/cortex-tools) - If you're using this tool with Grafana Mimir, please switch to "mimirtool" instead: https://github.com/grafana/mimir
+- [grafana-cold-storage/cortex-tools](https://github.com/grafana-cold-storage/cortex-tools) - If you're using this tool with Grafana Mimir, please switch to "mimirtool" instead: https://github.com/grafana/mimir
 - [portworx/torpedo](https://github.com/portworx/torpedo) - A test suite to qualify storage providers for stateful containers running in a cluster.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
@@ -1234,7 +1234,7 @@
 ## Jsonnet 
 
 - [cortexproject/cortex-jsonnet](https://github.com/cortexproject/cortex-jsonnet) - This repo has the jsonnet for deploying and also the mixin for monitoring Cortex
-- [grafana/cortex-jsonnet](https://github.com/grafana/cortex-jsonnet) - Deprecated: see https://github.com/grafana/mimir/tree/main/operations/mimir instead
+- [grafana-cold-storage/cortex-jsonnet](https://github.com/grafana-cold-storage/cortex-jsonnet) - Deprecated: see https://github.com/grafana/mimir/tree/main/operations/mimir instead
 
 ## Jupyter Notebook 
 
@@ -1608,7 +1608,7 @@
 - [adamjezek98/ubnt-etherlighting](https://github.com/adamjezek98/ubnt-etherlighting) - 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [bbelky/vhibot](https://github.com/bbelky/vhibot) - Virtuozzo Hybrid Infrastructure Telegram Bot
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
+- [grafana-cold-storage/oncall](https://github.com/grafana-cold-storage/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [fmaida/mastodon2hugo](https://github.com/fmaida/mastodon2hugo) - Enables searchability for your Hugo website on Mastodon. Now, anyone can discover you on Mastodon by simply entering your domain.
 - [ghostsquad/swarmci](https://github.com/ghostsquad/swarmci) - Swarm CI - Docker Swarm-based CI system or enhancement to existing systems.
 - [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates.
