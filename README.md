@@ -203,6 +203,7 @@
 
 ## Dockerfile 
 
+- [hostwithquantum/quantum-caddy](https://github.com/hostwithquantum/quantum-caddy) - Caddy (v2) setup for Docker nodes at Planetary Quantum
 - [hostwithquantum/grafana-stack](https://github.com/hostwithquantum/grafana-stack) - Grafana for Planetary Quantum
 - [edorian/runway-react-php-example](https://github.com/edorian/runway-react-php-example) - 
 - [edorian/runway-framework-x-example](https://github.com/edorian/runway-framework-x-example) - 
@@ -1254,7 +1255,6 @@
 
 ## Makefile 
 
-- [hostwithquantum/quantum-caddy](https://github.com/hostwithquantum/quantum-caddy) - Caddy (v2) setup for Docker nodes at Planetary Quantum
 - [pngmbh/docker-backup-cron](https://github.com/pngmbh/docker-backup-cron) - Container that uses crond to run commands; also includes rsync and rclone.
 - [opencontainers/wg-freebsd-runtime](https://github.com/opencontainers/wg-freebsd-runtime) - A repository for coordinating the work of defining a FreeBSD extension to the OCI runtime
 - [hostwithquantum/setup-mc](https://github.com/hostwithquantum/setup-mc) - A github action to download minio client (mc) in your workflows.
@@ -1556,7 +1556,7 @@
 - [shupp/openid](https://github.com/shupp/openid) - OpenID library for PEAR
 - [till/integration-api](https://github.com/till/integration-api) - A plugin integration bbpress with a rails application.
 - [beberlei/Zend_Db-Adapter-for-ext-mysql](https://github.com/beberlei/Zend_Db-Adapter-for-ext-mysql) - Legacy applications often work with ext/mysql all over the place. This Zend_Db adapter allows to share the resources and benefit from Zend_Db.
-- [vincehodsdon/HTTP_OAuth](https://github.com/vincehodsdon/HTTP_OAuth) - HTTP_OAuth package contains the basics for both OAuth consumers and providers.
+- [jhodsdon/HTTP_OAuth](https://github.com/jhodsdon/HTTP_OAuth) - HTTP_OAuth package contains the basics for both OAuth consumers and providers.
 - [hjr3/crimson](https://github.com/hjr3/crimson) - Personal component framework
 - [till/phpstream](https://github.com/till/phpstream) - Stream flv
 - [chregu/planet-php](https://github.com/chregu/planet-php) - 
