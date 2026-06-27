@@ -2337,6 +2337,8 @@
 
 ## others 
 
+- [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
+- [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) - Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest.
 - [hostwithquantum/quantum-caddy](https://github.com/hostwithquantum/quantum-caddy) - Caddy (v2) setup for Docker nodes at Planetary Quantum
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
