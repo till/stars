@@ -2452,7 +2452,7 @@
 - [yaroslav-gwit/HosterCore](https://github.com/yaroslav-gwit/HosterCore) - 🚀 Hoster: Empowering FreeBSD Virtualisation with Ease
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
 - [goharbor/acceleration-service](https://github.com/goharbor/acceleration-service) - Provides a general service to support image acceleration based on kinds of accelerator like Nydus and eStargz etc.
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
 - [monperrus/crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - Syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders. pull-request welcome :star:
 - [kubermatic/kubelb](https://github.com/kubermatic/kubelb) - Kubernetes based load balancing
 - [bpfman/bpfman-operator](https://github.com/bpfman/bpfman-operator) - Kubernetes operator for bpfman
@@ -2467,7 +2467,7 @@
 - [videlalvaro/gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated Gifs as a transport™
 - [bincyber/go-sqlcrypter](https://github.com/bincyber/go-sqlcrypter) - custom Go data type to facilitate column-level encryption
 - [stucchimax/bgplab](https://github.com/stucchimax/bgplab) - Master BGP configuration with this set of virtual labs
-- [scovl/checkrc](https://github.com/scovl/checkrc) - A command-line tool designed to validate the configuration settings in the FreeBSD /etc/rc.conf file
+- [lobovit/checkrc](https://github.com/lobovit/checkrc) - A command-line tool designed to validate the configuration settings in the FreeBSD /etc/rc.conf file
 - [c3e/grundgesetz](https://github.com/c3e/grundgesetz) - Grundgesetz für die Bundesrepublik Deutschland
 - [ngrok/muxado-go](https://github.com/ngrok/muxado-go) - Stream multiplexing for Go
 - [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus
@@ -3762,7 +3762,7 @@
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
