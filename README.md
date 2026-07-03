@@ -781,6 +781,7 @@
 - [hypnoglow/terraform-provider-oryhydra](https://github.com/hypnoglow/terraform-provider-oryhydra) - 🔏 Terraform Provider for ORY Hydra
 - [timescale/promscale](https://github.com/timescale/promscale) - [DEPRECATED] Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [cloudflare/sciuro](https://github.com/cloudflare/sciuro) - Alertmanager to Kubernetes Node conditions bridge
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
@@ -1980,7 +1981,6 @@
 ## Starlark 
 
 - [btwiuse/k0s](https://github.com/btwiuse/k0s) - Kubernot is not Kubernetes
-- [cloudflare/sciuro](https://github.com/cloudflare/sciuro) - Alertmanager to Kubernetes Node conditions bridge
 
 ## Svelte 
 
