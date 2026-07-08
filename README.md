@@ -428,6 +428,7 @@
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [ecin/go-dtrace](https://github.com/ecin/go-dtrace) - DTrace USDT probes in Go, built on top of libusdt.
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
+- [bpfman/bpfman](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes
 - [virtuozzo/keystone-auth-hook](https://github.com/virtuozzo/keystone-auth-hook) - Kubernetes keystone authentication webhook.
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
@@ -1825,7 +1826,6 @@
 - [Tongsuo-Project/RustyVault](https://github.com/Tongsuo-Project/RustyVault) - A rusted vault that can do many awesome secrets management stuff...
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) - GitHub action for pruning old GHCR container image versions.
 - [oxidecomputer/crucible](https://github.com/oxidecomputer/crucible) - A storage service.
-- [bpfman/bpfman](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
