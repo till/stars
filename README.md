@@ -1061,7 +1061,7 @@
 - [opennetworkinglab/onos](https://github.com/opennetworkinglab/onos) - Open Network Operating System
 - [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
-- [nzymedefense/nzyme](https://github.com/nzymedefense/nzyme) - CLOSE ACCESS DENIAL.
+- [nzymeorg/nzyme](https://github.com/nzymeorg/nzyme) - CLOSE ACCESS DENIAL.
 - [jenkinsci/pipeline-as-yaml-plugin](https://github.com/jenkinsci/pipeline-as-yaml-plugin) - Jenkins Pipeline As Yaml Plugin
 - [kalessil/phpinspectionsea](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP (a PhpStorm/Idea Plugin)
 - [Netflix/denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash
