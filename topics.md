@@ -3738,7 +3738,7 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
-- [nzymedefense/nzyme](https://github.com/nzymedefense/nzyme) - CLOSE ACCESS DENIAL.
+- [nzymeorg/nzyme](https://github.com/nzymeorg/nzyme) - CLOSE ACCESS DENIAL.
 - [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.
 
 ## security-tools 
