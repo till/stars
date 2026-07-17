@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [CUE](#cue)
 - [Clojure](#clojure)
 - [CodeQL](#codeql)
 - [CoffeeScript](#coffeescript)
@@ -136,6 +137,7 @@
 ## C++ 
 
 - [softhsm/SoftHSMv2](https://github.com/softhsm/SoftHSMv2) - SoftHSM version 2
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [robjinman/richard](https://github.com/robjinman/richard) - Richard is gaining power
@@ -180,6 +182,10 @@
 - [appdotnet/api-spec](https://github.com/appdotnet/api-spec) - App.net API Documentation is on the web at https://developers.app.net. Source for these docs is in the new-docs branch here. Please use the issue tracker and submit pull requests! Help us build the re
 - [beberlei/license-manager](https://github.com/beberlei/license-manager) - License Switch Project - Helping open source projects to switch licenses
 - [Seldaek/slippy](https://github.com/Seldaek/slippy) - HTML Presentations
+
+## CUE 
+
+- [Luzilla/ory-talos-k8s](https://github.com/Luzilla/ory-talos-k8s) - Deploy Ory Talos (OSS) with timoni.
 
 ## Clojure 
 
@@ -1602,7 +1608,6 @@
 - [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [cloudbase/coriolis](https://github.com/cloudbase/coriolis) - Cloud Migration as a Service
 - [ContainerCraft/Kargo](https://github.com/ContainerCraft/Kargo) - Kargo Private Cloud Platform
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [Mirantis/rockoon](https://github.com/Mirantis/rockoon) - OpenStack Orchestration for Kubernetes
 - [joewilliams/1pass2apple](https://github.com/joewilliams/1pass2apple) - Convert 1password 1pif export to Apple Password CSV
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
@@ -1634,7 +1639,7 @@
 - [eBay/goose](https://github.com/eBay/goose) - A robot for mapping github events into actionable HTTP payloads
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [yaroslav-gwit/PyVM-Bhyve](https://github.com/yaroslav-gwit/PyVM-Bhyve) - PyVM Bhyve: deploy VMs within seconds on FreeBSD - the most open and awesome OS in the world.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
