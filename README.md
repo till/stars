@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service
 - [eben-vranken/idempo](https://github.com/eben-vranken/idempo) - 🔑 Go middleware for safe request retries with the IETF idempotency-key draft, pluggable storage, and Stripe-compatible semantics.
 - [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) - Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest.
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
@@ -278,7 +279,7 @@
 - [hostwithquantum/static-buildpack](https://github.com/hostwithquantum/static-buildpack) - A static buildpack for hugo and mdbook
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang), used by InfluxDB, Bleve, DataDog
-- [grafana/nanogit](https://github.com/grafana/nanogit) - A minimal cloud-ready Git implementation.
+- [grafana/nanogit](https://github.com/grafana/nanogit) - Lightweight, HTTPS-only Git client library for Go, built for cloud-native and multitenant services
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
 - [scaxyz/shortcut-signing-server](https://github.com/scaxyz/shortcut-signing-server) - A simple server for signing iOS/macOS shotcuts
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
