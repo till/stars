@@ -1884,6 +1884,7 @@
 
 ## Shell 
 
+- [thilo/private-cloud](https://github.com/thilo/private-cloud) - Private cloud stack with file synch, image hosting and password vault. With tight budget in mind.
 - [terem42/zfs-hetzner-ram-os](https://github.com/terem42/zfs-hetzner-ram-os) - A self-contained RAM-based operating system, working with Ubuntu servers and ZFS filesystems
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [juhovh/tailguard](https://github.com/juhovh/tailguard) - Easy Tailscale to WireGuard bridge in a container
