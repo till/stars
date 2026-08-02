@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [Luzilla/sqlitestream](https://github.com/Luzilla/sqlitestream) - A sqlite-based library for Go, that backs up the database with litestream! (No CGO required!)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service
 - [eben-vranken/idempo](https://github.com/eben-vranken/idempo) - 🔑 Go middleware for safe request retries with the IETF idempotency-key draft, pluggable storage, and Stripe-compatible semantics.
@@ -582,7 +583,7 @@
 - [jcmoraisjr/haproxy-ingress](https://github.com/jcmoraisjr/haproxy-ingress) - HAProxy Ingress
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [Luzilla/dnsbl_exporter](https://github.com/Luzilla/dnsbl_exporter) - Prometheus compatible exporter to query DNSBLs/RBLs.
 - [kubewharf/kubebrain](https://github.com/kubewharf/kubebrain) - A High Performance Metadata System for Kubernetes
 - [ngrok/firewall_toolkit](https://github.com/ngrok/firewall_toolkit) - golang library and tools for managing nftables
@@ -1604,6 +1605,7 @@
 
 ## Python 
 
+- [flatcar/security-triage](https://github.com/flatcar/security-triage) - 
 - [fh/monarchmoney-amexcards-sync](https://github.com/fh/monarchmoney-amexcards-sync) - Tag Monarch Money transactions with credit card used
 - [suitenumerique/messages](https://github.com/suitenumerique/messages) - Collaborative inbox for La Suite territoriale
 - [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
