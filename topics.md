@@ -771,7 +771,7 @@
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [bcicen/grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1172,7 +1172,7 @@
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [leffss/gowebssh](https://github.com/leffss/gowebssh) - Webssh implemented by github.com/gorilla/websocket and golang.org/x/crypto/ssh
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [go-ap/activitypub](https://github.com/go-ap/activitypub) - ActivityPub vocabulary for Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
@@ -1395,7 +1395,7 @@
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [google/nftables](https://github.com/google/nftables) - This repository contains a Go module to interact with Linux nftables (the iptables successor).
 - [doncicuto/glim](https://github.com/doncicuto/glim) - Glim is a simple identity access management system that speaks some LDAP and has a REST API to manage users and groups
@@ -2360,6 +2360,8 @@
 
 ## others 
 
+- [Luzilla/sqlitestream](https://github.com/Luzilla/sqlitestream) - A sqlite-based library for Go, that backs up the database with litestream! (No CGO required!)
+- [flatcar/security-triage](https://github.com/flatcar/security-triage) - 
 - [thilo/private-cloud](https://github.com/thilo/private-cloud) - Private cloud stack with file synch, image hosting and password vault. With tight budget in mind.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) - Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest.
