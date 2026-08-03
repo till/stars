@@ -251,7 +251,7 @@
 
 ## agent 
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thr
 - [Azure/AgentBaker](https://github.com/Azure/AgentBaker) - Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -259,7 +259,7 @@
 
 ## agent-skills 
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thr
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 
@@ -618,7 +618,7 @@
 
 ## code-review 
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thr
 - [ClickHouse/velocity](https://github.com/ClickHouse/velocity) - Velocity: report and compare team activity across GitHub repositories
 
 ## coding 
@@ -1119,6 +1119,7 @@
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang), used by InfluxDB, Bleve, DataDog
 - [grafana/nanogit](https://github.com/grafana/nanogit) - Lightweight, HTTPS-only Git client library for Go, built for cloud-native and multitenant services
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
+- [esnet/acme-proxy](https://github.com/esnet/acme-proxy) - Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.
 - [clyso/chorus](https://github.com/clyso/chorus) - s3 multi provider data lifecycle management
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
@@ -1307,6 +1308,7 @@
 
 ## golang 
 
+- [Luzilla/sqlitestream](https://github.com/Luzilla/sqlitestream) - A sqlite-based library for Go, that backs up the database with litestream! (No CGO required!)
 - [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service
 - [thecodearcher/limen](https://github.com/thecodearcher/limen) - Modern, composable authentication for Go
 - [boratanrikulu/gobee](https://github.com/boratanrikulu/gobee) - Write your BPF programs in Go, not C. gobee transpiles a Go subset to BPF C and generates typed cilium/ebpf bindings.
@@ -1318,7 +1320,6 @@
 - [grafana/nanogit](https://github.com/grafana/nanogit) - Lightweight, HTTPS-only Git client library for Go, built for cloud-native and multitenant services
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
-- [esnet/acme-proxy](https://github.com/esnet/acme-proxy) - Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.
 - [robert-kisteleki/goat](https://github.com/robert-kisteleki/goat) - Go (RIPE) Atlas Tools
 - [erikh/duct](https://github.com/erikh/duct) - docker-compose alike functionality directly from golang, for integration testing.
 - [hostwithquantum/sqltestutil](https://github.com/hostwithquantum/sqltestutil) - Utilities for testing Golang code that runs SQL
@@ -1892,6 +1893,7 @@
 - [smartxworks/virtink](https://github.com/smartxworks/virtink) - Lightweight Virtualization Add-on for Kubernetes
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [bpfman/bpfman](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes
+- [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud o
 - [virtuozzo/keystone-auth-hook](https://github.com/virtuozzo/keystone-auth-hook) - Kubernetes keystone authentication webhook.
 - [hostwithquantum/setup-k8s-action](https://github.com/hostwithquantum/setup-k8s-action) - A composite action to setup the k8s environment for our deployments.
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
@@ -2093,6 +2095,7 @@
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
+- [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud o
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## login 
@@ -2336,6 +2339,7 @@
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
+- [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud o
 - [LINBIT/linstor-server](https://github.com/LINBIT/linstor-server) - High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [omegion/vault-unseal](https://github.com/omegion/vault-unseal) - Free Vault Auto Unseal
@@ -2360,9 +2364,8 @@
 
 ## others 
 
-- [Luzilla/sqlitestream](https://github.com/Luzilla/sqlitestream) - A sqlite-based library for Go, that backs up the database with litestream! (No CGO required!)
 - [flatcar/security-triage](https://github.com/flatcar/security-triage) - 
-- [thilo/private-cloud](https://github.com/thilo/private-cloud) - Private cloud stack with file synch, image hosting and password vault. With tight budget in mind.
+- [thilo/private-cloud](https://github.com/thilo/private-cloud) - Hardend private cloud stack with file synch, image hosting and password vault. With tight budget in mind.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) - Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest.
 - [hostwithquantum/quantum-caddy](https://github.com/hostwithquantum/quantum-caddy) - Caddy (v2) setup for Docker nodes at Planetary Quantum
@@ -2506,7 +2509,6 @@
 - [opencontainers/wg-freebsd-runtime](https://github.com/opencontainers/wg-freebsd-runtime) - A repository for coordinating the work of defining a FreeBSD extension to the OCI runtime
 - [oxidecomputer/crucible](https://github.com/oxidecomputer/crucible) - A storage service.
 - [ecin/go-dtrace](https://github.com/ecin/go-dtrace) - DTrace USDT probes in Go, built on top of libusdt.
-- [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud o
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [blockbridge/blockbridge-docker-volume](https://github.com/blockbridge/blockbridge-docker-volume) - Blockbridge volume plugin for Docker
 - [openshift/hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift - clusters with hosted control planes
@@ -3713,6 +3715,7 @@
 ## security 
 
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
+- [esnet/acme-proxy](https://github.com/esnet/acme-proxy) - Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
@@ -3871,6 +3874,7 @@
 
 ## sqlite 
 
+- [Luzilla/sqlitestream](https://github.com/Luzilla/sqlitestream) - A sqlite-based library for Go, that backs up the database with litestream! (No CGO required!)
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
