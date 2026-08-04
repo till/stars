@@ -253,7 +253,7 @@
 ## Go 
 
 - [Luzilla/sqlitestream](https://github.com/Luzilla/sqlitestream) - A sqlite-based library for Go, that backs up the database with litestream! (No CGO required!)
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thr
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service
 - [eben-vranken/idempo](https://github.com/eben-vranken/idempo) - 🔑 Go middleware for safe request retries with the IETF idempotency-key draft, pluggable storage, and Stripe-compatible semantics.
 - [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) - Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest.
@@ -592,7 +592,7 @@
 - [gaissmai/extnetip](https://github.com/gaissmai/extnetip) - Package extnetip extends the stdlib with a few missing but important auxiliary functions for converting IP-prefixes to IP-ranges and vice versa.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [fi-ts/postgreslet](https://github.com/fi-ts/postgreslet) - A small controller which act as bridge between zalando-postgres-operator
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [integr8ly/cloud-resource-operator](https://github.com/integr8ly/cloud-resource-operator) - Operator for provisioning resources (Postgres, Redis etc) in-cluster or via cloud providers
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [poseidon/matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Fedora CoreOS and Flatcar Linux clusters
@@ -1301,6 +1301,7 @@
 
 ## Others 
 
+- [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [hostwithquantum/setup-gh-token](https://github.com/hostwithquantum/setup-gh-token) - Setup a GitHub token, committer name and email for your bots!
 - [bmizerany/setup-postgres](https://github.com/bmizerany/setup-postgres) - The fastest PostgreSQL setup for GitHub Actions
@@ -1323,6 +1324,7 @@
 - [devcamcar/moniker](https://github.com/devcamcar/moniker) - Moniker - DNS for OpenStack
 - [openstack-archive/trove-integration](https://github.com/openstack-archive/trove-integration) - OpenStack Database As A Service (Trove) Integration
 - [redhat-cip/openstack-monitoring](https://github.com/redhat-cip/openstack-monitoring) - A bunch of scripts that you can use to monitor OpenStack Services
+- [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [octoherd/octoherd](https://github.com/octoherd/octoherd) - Manage multiple repository updates all at once.
 - [octoherd/.github](https://github.com/octoherd/.github) - Common configuration for @octoherd repositories
@@ -1635,7 +1637,7 @@
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [bundesAPI/handelsregister](https://github.com/bundesAPI/handelsregister) - 
 - [aws-samples/aws-transit-gateway-connect-sample](https://github.com/aws-samples/aws-transit-gateway-connect-sample) - moved - https://github.com/f7o/aws-transit-gateway-connect-sample
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security Platform trusted by thousands to automate security and compliance in any cloud environment. With thousands of ready-to-use checks and compliance frameworks, delivers
 - [pierky/bgp-large-communities-playground](https://github.com/pierky/bgp-large-communities-playground) - A docker-based lab to play with BGP Large Communities
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [sensson/python-openstack-backup](https://github.com/sensson/python-openstack-backup) - A simple set of CLI tools to create and restore snapshots/backups on OpenStack
@@ -1667,7 +1669,6 @@
 - [openstack/trove](https://github.com/openstack/trove) - OpenStack Database As A Service (Trove). Mirror of code maintained at opendev.org.
 - [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder
 - [globocom/database-as-a-service](https://github.com/globocom/database-as-a-service) - Database as a service (DBaaS) that allows users to quickly and easily deploy and manage database instances using cloud infrastructure
-- [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
 - [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python modul
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [openstack/kuryr](https://github.com/openstack/kuryr) - Bridge between container framework networking and storage models to OpenStack networking and storage abstractions. Mirror of code maintained at opendev.org.
