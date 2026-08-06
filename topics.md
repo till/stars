@@ -1091,7 +1091,6 @@
 ## github 
 
 - [ClickHouse/velocity](https://github.com/ClickHouse/velocity) - Velocity: report and compare team activity across GitHub repositories
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [till/golangoss-bluesky](https://github.com/till/golangoss-bluesky) - A bot for Bluesky
 - [hostwithquantum/ghcr-janitor](https://github.com/hostwithquantum/ghcr-janitor) - ghcr-janitor deletes container images that have a `pr-` prefix.
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
@@ -1170,7 +1169,6 @@
 - [mattes/vat](https://github.com/mattes/vat) - EU VAT number validation in Go using VIES SOAP service
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
-- [golang/go](https://github.com/golang/go) - The Go programming language
 - [bcicen/grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [leffss/gowebssh](https://github.com/leffss/gowebssh) - Webssh implemented by github.com/gorilla/websocket and golang.org/x/crypto/ssh
@@ -1393,7 +1391,6 @@
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for Kubernetes|Edge|Telco|IoT|XaaS.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [golang/go](https://github.com/golang/go) - The Go programming language
 - [bcicen/grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
@@ -2041,7 +2038,6 @@
 ## language 
 
 - [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
-- [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## laravel 
 
@@ -2190,7 +2186,6 @@
 
 - [tailscale/tsidp](https://github.com/tailscale/tsidp) - A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet.
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -3533,7 +3528,6 @@
 - [aalpar/wile](https://github.com/aalpar/wile) - Pure Go R7RS Scheme — embeddable interpreter with hygienic macros, first-class continuations, and sandboxing
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
-- [golang/go](https://github.com/golang/go) - The Go programming language
 - [krisnova/naml](https://github.com/krisnova/naml) - Convert Kubernetes YAML to Golang
 
 ## project-management 
