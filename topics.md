@@ -1140,7 +1140,6 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [virtuozzo/keystone-auth-hook](https://github.com/virtuozzo/keystone-auth-hook) - Kubernetes keystone authentication webhook.
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 - [jpbede/go-autodns](https://github.com/jpbede/go-autodns) - Go client package for the InternetX AutoDNS JSON API
@@ -2362,6 +2361,7 @@
 
 ## others 
 
+- [atoonk/go-afxdp](https://github.com/atoonk/go-afxdp) - An easy, concurrency safe AF_XDP library for Go
 - [flatcar/security-triage](https://github.com/flatcar/security-triage) - 
 - [thilo/private-cloud](https://github.com/thilo/private-cloud) - Hardend private cloud stack with file synch, image hosting and password vault. With tight budget in mind.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
@@ -3723,7 +3723,6 @@
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
