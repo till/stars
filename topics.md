@@ -753,6 +753,7 @@
 
 ## deployment 
 
+- [hostwithquantum/setup-quantum-cli](https://github.com/hostwithquantum/setup-quantum-cli) - A Github Action to deploy to Planetary Quantum's Docker platform.
 - [hostwithquantum/runway-buildpack-stack](https://github.com/hostwithquantum/runway-buildpack-stack) - Runway's buildpack stack (jammy/noble) to easily deploy applications. No devops required!
 - [actions/deploy-pages](https://github.com/actions/deploy-pages) - GitHub Action to publish artifacts to GitHub Pages for deployments
 - [umputun/spot](https://github.com/umputun/spot) - A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
@@ -847,6 +848,7 @@
 
 ## docker 
 
+- [hostwithquantum/setup-quantum-cli](https://github.com/hostwithquantum/setup-quantum-cli) - A Github Action to deploy to Planetary Quantum's Docker platform.
 - [erikh/duct](https://github.com/erikh/duct) - docker-compose alike functionality directly from golang, for integration testing.
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
@@ -1232,7 +1234,6 @@
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [mholt/archiver](https://github.com/mholt/archiver) - DEPRECATED. Please use mholt/archives instead.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [homeport/havener](https://github.com/homeport/havener) - /ˈheɪvənə/ - Think of it as a swiss army knife for Kubernetes tasks
@@ -2361,6 +2362,8 @@
 
 ## others 
 
+- [bigstack-oss/lachesis](https://github.com/bigstack-oss/lachesis) - eBPF-based network telemetry daemon for OpenStack — classifies N-S/E-W traffic, re-attributes Octavia LB bytes to real tenants, and exposes   Prometheus counters at line-rate via TC clsact hooks.
+- [lstoll/awair-exporter](https://github.com/lstoll/awair-exporter) - 
 - [atoonk/go-afxdp](https://github.com/atoonk/go-afxdp) - An easy, concurrency safe AF_XDP library for Go
 - [flatcar/security-triage](https://github.com/flatcar/security-triage) - 
 - [thilo/private-cloud](https://github.com/thilo/private-cloud) - Hardend private cloud stack with file synch, image hosting and password vault. With tight budget in mind.
@@ -3414,7 +3417,6 @@
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 
 ## package-manager 
