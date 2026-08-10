@@ -753,7 +753,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
 - [ruoshan/autoportforward](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker, podman and kubernetes
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [proferosec/log4jScanner](https://github.com/proferosec/log4jScanner) - log4jScanner provides the ability to scan internal subnets for vulnerable log4j web services
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [bottlerocket-os/hotdog](https://github.com/bottlerocket-os/hotdog) - Hotdog is a set of OCI hooks used to inject the Log4j Hot Patch into containers.
@@ -1608,6 +1608,7 @@
 
 ## Python 
 
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [flatcar/security-triage](https://github.com/flatcar/security-triage) - 
 - [fh/monarchmoney-amexcards-sync](https://github.com/fh/monarchmoney-amexcards-sync) - Tag Monarch Money transactions with credit card used
 - [suitenumerique/messages](https://github.com/suitenumerique/messages) - Collaborative inbox for La Suite territoriale
@@ -1806,6 +1807,7 @@
 
 ## Rust 
 
+- [thewillyhuman/authir](https://github.com/thewillyhuman/authir) - A multi-tenant authentication and authorization gateway for Grafana Mimir.
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
 - [k06a/macpow](https://github.com/k06a/macpow) - 💻🔋 Real-time power tree TUI for Apple Silicon
