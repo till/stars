@@ -273,6 +273,7 @@
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
 - [portainer/d2k](https://github.com/portainer/d2k) - Docker-to-Kubernetes Translator
 - [bradfitz/sessweb](https://github.com/bradfitz/sessweb) - Share Claude Code sessions to peers on your Tailscale tailnet
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [henrrrik/runway-app-stats-tui](https://github.com/henrrrik/runway-app-stats-tui) - A terminal dashboard for monitoring Runway app resources
 - [apache/skywalking-rover](https://github.com/apache/skywalking-rover) - Monitor and profiler powered by eBPF to monitor network traffic, and diagnose CPU and network performance.
 - [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -1089,7 +1090,6 @@
 
 - [codebar/auth](https://github.com/codebar/auth) - Auth for codebar (the project formerly known as auth-auth)
 - [idempot-dev/idempot-js](https://github.com/idempot-dev/idempot-js) - Idempotency middleware for Express, Fastify and Hono
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [suitenumerique/drive](https://github.com/suitenumerique/drive) - A collaborative file sharing and document management platform that scales. Built with Django and React.
 - [jakelmg/tailscale-flatcar-config-tool](https://github.com/jakelmg/tailscale-flatcar-config-tool) - 
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
@@ -1848,7 +1848,7 @@
 - [G-Core/nginx-rust](https://github.com/G-Core/nginx-rust) - Nginx API bindings for Rust.
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [vexxhost/github-actions-openstack](https://github.com/vexxhost/github-actions-openstack) - Auto-scaling self-hosted GitHub Actions runners on OpenStack
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [flatcar/ue-rs](https://github.com/flatcar/ue-rs) - Prototype Omaha Rust implementation
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [bluecatengineering/dora](https://github.com/bluecatengineering/dora) - A Rust DHCP server
