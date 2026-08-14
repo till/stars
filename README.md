@@ -837,7 +837,6 @@
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [ortuman/jackal](https://github.com/ortuman/jackal) - 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
-- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative data automation language and Go runtime for structured extraction workflows.
@@ -1732,6 +1731,7 @@
 
 ## Ruby 
 
+- [hostwithquantum/homebrew-tap](https://github.com/hostwithquantum/homebrew-tap) - 
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [blockbridge/blockbridge-docker-volume](https://github.com/blockbridge/blockbridge-docker-volume) - Blockbridge volume plugin for Docker
 - [hostwithquantum/runway-example-jekyll-docker](https://github.com/hostwithquantum/runway-example-jekyll-docker) - example jekyll app for runway
