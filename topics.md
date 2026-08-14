@@ -2374,6 +2374,7 @@
 
 ## others 
 
+- [hostwithquantum/homebrew-tap](https://github.com/hostwithquantum/homebrew-tap) - 
 - [thewillyhuman/authir](https://github.com/thewillyhuman/authir) - A multi-tenant authentication and authorization gateway for Grafana Mimir.
 - [bigstack-oss/lachesis](https://github.com/bigstack-oss/lachesis) - eBPF-based network telemetry daemon for OpenStack — classifies N-S/E-W traffic, re-attributes Octavia LB bytes to real tenants, and exposes   Prometheus counters at line-rate via TC clsact hooks.
 - [lstoll/awair-exporter](https://github.com/lstoll/awair-exporter) - 
@@ -2755,7 +2756,6 @@
 - [danitso/terraform-provider-proxmox](https://github.com/danitso/terraform-provider-proxmox) - Terraform Provider for Proxmox
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules) - NetBox modules for Ansible using Ansible Collections
-- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [johnspurlock/app-privacy-report-viewer](https://github.com/johnspurlock/app-privacy-report-viewer) - Local viewer for App Privacy Reports in iOS 15
 - [jwilder/docker-discover](https://github.com/jwilder/docker-discover) - Service discovery for docker container
 - [ansible/receptor](https://github.com/ansible/receptor) - Project Receptor is a flexible multi-service relayer with remote execution and orchestration capabilities linking controllers with executors across a mesh of nodes.
