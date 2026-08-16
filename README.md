@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [lstoll/keyset](https://github.com/lstoll/keyset) - Rotating keysets for Go
 - [bigstack-oss/lachesis](https://github.com/bigstack-oss/lachesis) - eBPF-based network telemetry daemon for OpenStack — classifies N-S/E-W traffic, re-attributes Octavia LB bytes to real tenants, and exposes   Prometheus counters at line-rate via TC clsact hooks.
 - [lstoll/awair-exporter](https://github.com/lstoll/awair-exporter) - 
 - [atoonk/go-afxdp](https://github.com/atoonk/go-afxdp) - An easy, concurrency safe AF_XDP library for Go
@@ -1300,7 +1301,6 @@
 ## Others 
 
 - [hostwithquantum/setup-quantum-cli](https://github.com/hostwithquantum/setup-quantum-cli) - A Github Action to deploy to Planetary Quantum's Docker platform.
-- [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [hostwithquantum/setup-gh-token](https://github.com/hostwithquantum/setup-gh-token) - Setup a GitHub token, committer name and email for your bots!
 - [bmizerany/setup-postgres](https://github.com/bmizerany/setup-postgres) - The fastest PostgreSQL setup for GitHub Actions
@@ -1308,6 +1308,7 @@
 - [hostwithquantum/setup-k8s-action](https://github.com/hostwithquantum/setup-k8s-action) - A composite action to setup the k8s environment for our deployments.
 - [EOSC-synergy/ssh-oidc](https://github.com/EOSC-synergy/ssh-oidc) - Documentation for SSH with OIDC
 - [ariga/setup-atlas](https://github.com/ariga/setup-atlas) - A GitHub Action to install ariga/atlas in your workflows.
+- [hostwithquantum/homebrew-runway](https://github.com/hostwithquantum/homebrew-runway) - A homebrew-tap to install the runway CLI!
 - [openstack-archive/js-openstack-lib](https://github.com/openstack-archive/js-openstack-lib) - RETIRED, JavaScript API library for OpenStack. Mirror of code maintained at opendev.org.
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [hostwithquantum/setup-runway](https://github.com/hostwithquantum/setup-runway) - A GitHub action to deploy to runway!
@@ -1608,6 +1609,7 @@
 ## Python 
 
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+- [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
 - [flatcar/security-triage](https://github.com/flatcar/security-triage) - 
 - [fh/monarchmoney-amexcards-sync](https://github.com/fh/monarchmoney-amexcards-sync) - Tag Monarch Money transactions with credit card used
 - [suitenumerique/messages](https://github.com/suitenumerique/messages) - Collaborative inbox for La Suite territoriale
@@ -1735,7 +1737,6 @@
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [blockbridge/blockbridge-docker-volume](https://github.com/blockbridge/blockbridge-docker-volume) - Blockbridge volume plugin for Docker
 - [hostwithquantum/runway-example-jekyll-docker](https://github.com/hostwithquantum/runway-example-jekyll-docker) - example jekyll app for runway
-- [hostwithquantum/homebrew-runway](https://github.com/hostwithquantum/homebrew-runway) - A homebrew-tap to install the runway CLI!
 - [Email-Dashboard/Email-Dashboard](https://github.com/Email-Dashboard/Email-Dashboard) - 📪 An interactive emailing management service with scheduling, templating, tracking and A/B testing.
 - [grosser/preoomkiller](https://github.com/grosser/preoomkiller) - Softly kills your process with SIGTERM before it runs out of memory.
 - [fagiani/static-buildpack](https://github.com/fagiani/static-buildpack) - CNB buildpack to serve static content with nginx
