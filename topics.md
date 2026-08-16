@@ -2374,6 +2374,7 @@
 
 ## others 
 
+- [lstoll/keyset](https://github.com/lstoll/keyset) - Rotating keysets for Go
 - [hostwithquantum/homebrew-tap](https://github.com/hostwithquantum/homebrew-tap) - 
 - [thewillyhuman/authir](https://github.com/thewillyhuman/authir) - A multi-tenant authentication and authorization gateway for Grafana Mimir.
 - [bigstack-oss/lachesis](https://github.com/bigstack-oss/lachesis) - eBPF-based network telemetry daemon for OpenStack — classifies N-S/E-W traffic, re-attributes Octavia LB bytes to real tenants, and exposes   Prometheus counters at line-rate via TC clsact hooks.
