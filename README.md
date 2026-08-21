@@ -284,7 +284,7 @@
 - [AliRizaAynaci/gorl](https://github.com/AliRizaAynaci/gorl) - A high-performance, modular rate limiting library for Go. Supports in-memory and Redis backends. Includes Fixed Window, Sliding Window, Token Bucket, and Leaky Bucket algorithms. Flexible keying (IP, 
 - [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [hostwithquantum/static-buildpack](https://github.com/hostwithquantum/static-buildpack) - A static buildpack for hugo and mdbook
-- [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
+- [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [RoaringBitmap/roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go (golang), used by InfluxDB, Bleve, DataDog
 - [grafana/nanogit](https://github.com/grafana/nanogit) - Lightweight, HTTPS-only Git client library for Go, built for cloud-native and multitenant services
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
@@ -637,7 +637,7 @@
 - [fly-apps/postgres-ha](https://github.com/fly-apps/postgres-ha) - Postgres + Stolon for HA clusters as Fly apps.
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in Go.
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
@@ -1639,7 +1639,7 @@
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [bundesAPI/handelsregister](https://github.com/bundesAPI/handelsregister) - 
 - [aws-samples/aws-transit-gateway-connect-sample](https://github.com/aws-samples/aws-transit-gateway-connect-sample) - moved - https://github.com/f7o/aws-transit-gateway-connect-sample
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. Connect your agents now and build on the Agentic Cloud 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [pierky/bgp-large-communities-playground](https://github.com/pierky/bgp-large-communities-playground) - A docker-based lab to play with BGP Large Communities
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [sensson/python-openstack-backup](https://github.com/sensson/python-openstack-backup) - A simple set of CLI tools to create and restore snapshots/backups on OpenStack
