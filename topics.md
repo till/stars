@@ -2367,6 +2367,7 @@
 
 ## others 
 
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [preloopdev/preloop](https://github.com/preloopdev/preloop) - agent-native, drop-in Github Actions that can run locally or self-hosted in microvms, with debug-on-failure
 - [lstoll/keyset](https://github.com/lstoll/keyset) - Rotating keysets for Go
 - [hostwithquantum/homebrew-tap](https://github.com/hostwithquantum/homebrew-tap) - 
