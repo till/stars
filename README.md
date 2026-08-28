@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [lstoll/keyset](https://github.com/lstoll/keyset) - Rotating keysets for Go
 - [bigstack-oss/lachesis](https://github.com/bigstack-oss/lachesis) - eBPF-based network telemetry daemon for OpenStack — classifies N-S/E-W traffic, re-attributes Octavia LB bytes to real tenants, and exposes   Prometheus counters at line-rate via TC clsact hooks.
