@@ -1332,7 +1332,6 @@
 - [angrox/ansible-centos-updates](https://github.com/angrox/ansible-centos-updates) - Update configuration for RHEL/CentOS
 - [robertdebock/galaxy-action](https://github.com/robertdebock/galaxy-action) - Publish Ansible roles to Galaxy
 - [robertdebock/molecule-action](https://github.com/robertdebock/molecule-action) - Test Ansible roles using Molecule
-- [coilysiren/public-tap-private-s3](https://github.com/coilysiren/public-tap-private-s3) - a homebrew download strategy that uses a public tap backed by a private s3 bucket
 - [iuri-gg/ansible-role-dotnet-core](https://github.com/iuri-gg/ansible-role-dotnet-core) - Ansible Role - .NET Core for Ubuntu/RHEL/CentOS https://galaxy.ansible.com/ocha/dotnet-core
 - [jedelman8/nxos-ansible](https://github.com/jedelman8/nxos-ansible) - Ansible modules to automate Cisco NX-OS switches
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
