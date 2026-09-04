@@ -1462,7 +1462,6 @@
 - [Dynom/Canoma](https://github.com/Dynom/Canoma) - Canoma - Cache Node Manager for Consistent Hashing
 - [till/satis](https://github.com/till/satis) - Simple static Composer repository generator
 - [researchgate/broker](https://github.com/researchgate/broker) - A full proxy for composer repositories
-- [mageplus/mageplus](https://github.com/mageplus/mageplus) - A community owned and driven, enterprise fork of Magento Community Edition 1.7.0
 - [dp-opensource/AmazonS3Bundle](https://github.com/dp-opensource/AmazonS3Bundle) - Symfony2 wrapper for AWS SDK
 - [till/frontend](https://github.com/till/frontend) - The official @github repository of the OpenPhoto frontend software. A photo sharing and photo management web interface for data stored "in the cloud" (i.e. Amazon S3, Rackspace CloudFiles, Google Stor
 - [till/HttpFoundation](https://github.com/till/HttpFoundation) - [READ-ONLY] Subtree split of the Symfony HttpFoundation Component -- clone into Symfony/Component/ (master at symfony/symfony)
