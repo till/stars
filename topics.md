@@ -2841,7 +2841,6 @@
 - [gja/cloudflare-worker-local](https://github.com/gja/cloudflare-worker-local) - Run a Cloudflare Worker Locally
 - [robertdebock/molecule-action](https://github.com/robertdebock/molecule-action) - Test Ansible roles using Molecule
 - [weaveworks/go-checkpoint](https://github.com/weaveworks/go-checkpoint) - Checkpoint is an internal service at Weaveworks to check version information, broadcast security bulletins, etc.
-- [coilysiren/public-tap-private-s3](https://github.com/coilysiren/public-tap-private-s3) - a homebrew download strategy that uses a public tap backed by a private s3 bucket
 - [FriendsOfPHP/pickle](https://github.com/FriendsOfPHP/pickle) - PHP Extension installer
 - [corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
 - [imjoey/pyhaproxy](https://github.com/imjoey/pyhaproxy) - Python library to parse haproxy configurations
@@ -3122,7 +3121,6 @@
 - [till/satis](https://github.com/till/satis) - Simple static Composer repository generator
 - [researchgate/broker](https://github.com/researchgate/broker) - A full proxy for composer repositories
 - [till/pagerank](https://github.com/till/pagerank) - Get Google Pagerank in your language. PageRank lookup scripts.
-- [mageplus/mageplus](https://github.com/mageplus/mageplus) - A community owned and driven, enterprise fork of Magento Community Edition 1.7.0
 - [BerlinVagrant/vagrant-dns](https://github.com/BerlinVagrant/vagrant-dns) - A plugin to manage DNS records for vagrant environments
 - [dp-opensource/AmazonS3Bundle](https://github.com/dp-opensource/AmazonS3Bundle) - Symfony2 wrapper for AWS SDK
 - [till/frontend](https://github.com/till/frontend) - The official @github repository of the OpenPhoto frontend software. A photo sharing and photo management web interface for data stored "in the cloud" (i.e. Amazon S3, Rackspace CloudFiles, Google Stor
