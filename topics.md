@@ -2681,7 +2681,6 @@
 - [haproxytech/config-parser](https://github.com/haproxytech/config-parser) - HAProxy configuration parser
 - [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
-- [andy-v-h/tailscalesd](https://github.com/andy-v-h/tailscalesd) - Prometheus Service Discovery for Tailscale
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [oxidecomputer/propolis](https://github.com/oxidecomputer/propolis) - VMM userspace for illumos bhyve
