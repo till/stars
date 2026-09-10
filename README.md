@@ -571,7 +571,6 @@
 - [s8sg/faas-flow](https://github.com/s8sg/faas-flow) - Function Composition for OpenFaaS
 - [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - 
 - [kubesphere/kube-events](https://github.com/kubesphere/kube-events) - K8s Event Exporting, Filtering and Alerting in Multi-Tenant Environment
-- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [EricHripko/buildkit-fdk](https://github.com/EricHripko/buildkit-fdk) - Frontend Development Kit: makes creating BuildKit frontends easy peasy lemon squeezy 🍋
 - [EricHripko/cnbp](https://github.com/EricHripko/cnbp) - BuildKit frontend for Cloud Native Buildpacks
