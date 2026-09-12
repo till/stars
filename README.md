@@ -33,7 +33,6 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Nix](#nix)
-- [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-J](#objective-j)
 - [Others](#others)
@@ -89,6 +88,7 @@
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a 
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
 - [OpenIDC/mod_auth_openidc](https://github.com/OpenIDC/mod_auth_openidc) - OpenID Certified™ OpenID Connect and FAPI 2 Relying Party module for Apache HTTPd
 - [pganalyze/pg_query_go](https://github.com/pganalyze/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser
@@ -223,7 +223,7 @@
 ## Elixir 
 
 - [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler.
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [operable/greenbar](https://github.com/operable/greenbar) - A flexible templating engine based on Markdown
@@ -333,7 +333,7 @@
 - [johnfercher/maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
 - [mholt/acmez](https://github.com/mholt/acmez) - Premier ACME client library for Go
 - [lstoll/k8soidcpublisher](https://github.com/lstoll/k8soidcpublisher) - Service to publish a Kubernetes cluster's JWK as an OIDC issuer
-- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A powerful, lightweight, self-hosted personal finance app that is easy to use.
 - [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
 - [wpnpeiris/nats-s3](https://github.com/wpnpeiris/nats-s3) - S3 API compatible NATS Object Store
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
@@ -505,7 +505,7 @@
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
+- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is an open-core authorization management platform for authorizing every identity and governing every action across applications, gateways, workloads, and AI agents.
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [summerwind/vault-plugin-auth-openstack](https://github.com/summerwind/vault-plugin-auth-openstack) - Vault authentication plugin for OpenStack instance
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
@@ -1278,10 +1278,6 @@
 - [hostwithquantum/nur](https://github.com/hostwithquantum/nur) - nix user repository for runway cli :rocket:
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 
-## OCaml 
-
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-
 ## Objective-C 
 
 - [MacGapProject/MacGap1](https://github.com/MacGapProject/MacGap1) - Desktop WebKit wrapper for HTML/CSS/JS applications.
@@ -1647,7 +1643,7 @@
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [yaroslav-gwit/PyVM-Bhyve](https://github.com/yaroslav-gwit/PyVM-Bhyve) - PyVM Bhyve: deploy VMs within seconds on FreeBSD - the most open and awesome OS in the world.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [trailofbits/it-depends](https://github.com/trailofbits/it-depends) - A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
