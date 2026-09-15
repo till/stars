@@ -582,7 +582,7 @@
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [jcmoraisjr/haproxy-ingress](https://github.com/jcmoraisjr/haproxy-ingress) - HAProxy Ingress
+- [n42-gateway/n42-gateway](https://github.com/n42-gateway/n42-gateway) - N42 Gateway
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
