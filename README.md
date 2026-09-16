@@ -1376,12 +1376,13 @@
 ## PHP 
 
 - [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) - Free and open-source webshop solution for hostings
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a security framework. Event tracking, threat detection, and risk scoring for any product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a security framework. Event tracking, threat detection, and risk scoring inside your product.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
 - [niieani/napkin](https://github.com/niieani/napkin) - a command line tool, built to help manage nginx's and PHP's configuration files and automating the creation of secure vhosts
 - [ory/hydra-client-php](https://github.com/ory/hydra-client-php) - 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [wp-graphql/wp-graphql-woocommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) - Add WooCommerce support and functionality to your WPGraphQL server
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
@@ -2065,7 +2066,6 @@
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
