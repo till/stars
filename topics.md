@@ -2817,7 +2817,7 @@
 - [pngmbh/boltdb-dump-restore](https://github.com/pngmbh/boltdb-dump-restore) - dump and restore for boltdb
 - [passionsplay/wp-asciinema](https://github.com/passionsplay/wp-asciinema) - A WordPress plugin to allow for self-hosted Asciicasts created with Asciinema.
 - [kumina/postfix_exporter](https://github.com/kumina/postfix_exporter) - A Prometheus exporter for Postfix.
-- [nzymeorg/nzyme](https://github.com/nzymeorg/nzyme) - WiFi, Bluetooth and Ethernet Intrusion Detection.
+- [nzymeorg/nzyme](https://github.com/nzymeorg/nzyme) - WiFi, Bluetooth and Ethernet Threat Detection.
 - [tianon/rawdns](https://github.com/tianon/rawdns) - a direct, raw DNS interface to the Docker API
 - [samuelkarp/runj](https://github.com/samuelkarp/runj) - runj is an experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails.
 - [lightcode/coredns-plugin-openstack](https://github.com/lightcode/coredns-plugin-openstack) - A coredns plugin to resolve OpenStack server names.
