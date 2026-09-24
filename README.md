@@ -772,7 +772,7 @@
 - [flatcar/container-linux-config-transpiler](https://github.com/flatcar/container-linux-config-transpiler) - the `ct` utility for Flatcar Container Linux
 - [steel-load-balancer/slb](https://github.com/steel-load-balancer/slb) - A Load-balancer made from steel
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+- [revive-lint/revive](https://github.com/revive-lint/revive) - 🔥 Fast, strict, configurable, extensible, and beautiful linter for Go
 - [grafana-cold-storage/agent](https://github.com/grafana-cold-storage/agent) - Vendor-neutral programmable observability pipelines.
 - [CryogenicPlanet/depp](https://github.com/CryogenicPlanet/depp) - ⚡ Check your npm modules for unused and duplicate dependencies fast
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
