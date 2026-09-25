@@ -490,7 +490,7 @@
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 - [kffl/speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable, yet predictable network latency :globe_with_meridians::hourglass_flowing_sand:
-- [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) - A set of Kubernetes controllers to manage your OpenStack infrastructure
+- [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) - Declarative management of OpenStack resources from Kubernetes
 - [acorn-io/baaah](https://github.com/acorn-io/baaah) - Controller framework born out of frustration
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [peterbourgon/conntrack](https://github.com/peterbourgon/conntrack) - Track incoming and outgoing connections
