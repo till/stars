@@ -836,7 +836,7 @@
 - [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [maxpoletaev/kivi](https://github.com/maxpoletaev/kivi) - Dynamo-inspired distributed leader-less key-value database that has no unique features and no apparent reason to exist
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [opencurve/curve](https://github.com/opencurve/curve) - Curve is a sandbox project hosted by the CNCF Foundation. It's cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage
 - [nats-io/nats-account-server](https://github.com/nats-io/nats-account-server) - A simple HTTP/NATS server to host JWTs for nats-server 2.0 account authentication.
 - [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
@@ -1091,7 +1091,7 @@
 
 - [grafana/nanogit](https://github.com/grafana/nanogit) - Lightweight, HTTPS-only Git client library for Go, built for cloud-native and multitenant services
 - [abiosoft/caddy-git](https://github.com/abiosoft/caddy-git) - git middleware for Caddy
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
 - [rwos/gti](https://github.com/rwos/gti) - a git launcher :-)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
