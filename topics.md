@@ -2380,7 +2380,7 @@
 
 - [ngerakines/atproto-skills](https://github.com/ngerakines/atproto-skills) - A collection of ATProtocol agent skills
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
-- [preloopdev/preloop](https://github.com/preloopdev/preloop) - agent-native, drop-in Github Actions that can run locally or self-hosted in microvms, with debug-on-failure
+- [preloopdev/preloop](https://github.com/preloopdev/preloop) - agent-native, drop-in Github Actions that run locally or self-hosted in microvms, with debug/pause-on-failur and step-level retries
 - [lstoll/keyset](https://github.com/lstoll/keyset) - Rotating keysets for Go
 - [hostwithquantum/homebrew-tap](https://github.com/hostwithquantum/homebrew-tap) - 
 - [thewillyhuman/authir](https://github.com/thewillyhuman/authir) - A multi-tenant authentication and authorization gateway for Grafana Mimir.
