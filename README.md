@@ -2024,6 +2024,7 @@
 
 ## TypeScript 
 
+- [kj187/jarvis](https://github.com/kj187/jarvis) - Jarvis is an open source web frontend for Prometheus Alertmanager — interactive, realtime, and self-hosted.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [rh-aiservices-bu/s4](https://github.com/rh-aiservices-bu/s4) - Super Simple Storage Service
