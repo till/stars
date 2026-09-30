@@ -1811,7 +1811,7 @@
 - [quinck-io/chimera](https://github.com/quinck-io/chimera) - 100% drop-in replacement for GitHub self-hosted runners, written from scratch
 - [bpbradley/locket](https://github.com/bpbradley/locket) - Inject secrets into config files as a dependency for docker compose
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
 - [glommer/pgmicro](https://github.com/glommer/pgmicro) - An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine
 - [jepio/sysext-oci-proxy](https://github.com/jepio/sysext-oci-proxy) - Experimental proxy server that lets systemd-sysupdate fetch sysexts from an OCI registry.
