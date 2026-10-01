@@ -591,7 +591,6 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [go-ap/activitypub](https://github.com/go-ap/activitypub) - ActivityPub vocabulary for Go
 - [gaissmai/extnetip](https://github.com/gaissmai/extnetip) - Package extnetip extends the stdlib with a few missing but important auxiliary functions for converting IP-prefixes to IP-ranges and vice versa.
-- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [fi-ts/postgreslet](https://github.com/fi-ts/postgreslet) - A small controller which act as bridge between zalando-postgres-operator
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [integr8ly/cloud-resource-operator](https://github.com/integr8ly/cloud-resource-operator) - Operator for provisioning resources (Postgres, Redis etc) in-cluster or via cloud providers
@@ -1375,7 +1374,7 @@
 ## PHP 
 
 - [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) - Free and open-source webshop solution for hostings
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a security framework. Detect cyberfraud, account takeovers, and business logic abuse inside your product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source framework for building sovereign security, compliance and fraud prevention applications. Detect account takeovers, cyberfraud and business logic abuse inside your product.
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
@@ -1802,7 +1801,7 @@
 
 ## Rust 
 
-- [preloopdev/preloop](https://github.com/preloopdev/preloop) - agent-native, drop-in Github Actions that run locally or self-hosted in microvms, with debug/pause-on-failur and step-level retries
+- [preloopdev/preloop](https://github.com/preloopdev/preloop) - agent-native, drop-in Github Actions that run locally or self-hosted in microvms, with debug/pause-on-failure and step-level retries
 - [thewillyhuman/authir](https://github.com/thewillyhuman/authir) - A multi-tenant authentication and authorization gateway for Grafana Mimir.
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
