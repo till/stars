@@ -1911,7 +1911,7 @@
 - [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [kubesphere/notification-manager](https://github.com/kubesphere/notification-manager) - K8s native notification management with multi-tenancy support
-- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - :vertical_traffic_light: Kubernetes-native Job Queueing and Scheduling
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) - Declarative management of OpenStack resources from Kubernetes
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes
