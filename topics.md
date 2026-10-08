@@ -2380,6 +2380,7 @@
 
 ## others 
 
+- [Luzilla/caddyscope](https://github.com/Luzilla/caddyscope) - Caddyscope is a dashboard for Caddy
 - [ngerakines/atproto-skills](https://github.com/ngerakines/atproto-skills) - A collection of ATProtocol agent skills
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [preloopdev/preloop](https://github.com/preloopdev/preloop) - agent-native, drop-in Github Actions that run locally or self-hosted in microvms, with debug/pause-on-failure and step-level retries
@@ -2746,7 +2747,6 @@
 - [ory/hydra-client-php](https://github.com/ory/hydra-client-php) - 
 - [stackhpc/terraform-magnum](https://github.com/stackhpc/terraform-magnum) - Terraform Kubernetes cluster using OpenStack Magnum
 - [sohlich/go-dbscan](https://github.com/sohlich/go-dbscan) - Implementation of DBSCAN clustering algorithm in Go lang
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [crossplane-contrib/provider-terraform](https://github.com/crossplane-contrib/provider-terraform) - A @crossplane provider for Terraform
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [honeycombio/beeline-go](https://github.com/honeycombio/beeline-go) - Legacy instrumentation for golang apps with Honeycomb. This repo will be archived on August 12, 2025.
