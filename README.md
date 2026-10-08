@@ -173,6 +173,7 @@
 
 ## CSS 
 
+- [Luzilla/caddyscope](https://github.com/Luzilla/caddyscope) - Caddyscope is a dashboard for Caddy
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [jumbojett/deis-ui](https://github.com/jumbojett/deis-ui) - full client-side web app that interfaces with deis api
@@ -800,7 +801,6 @@
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
 - [sohlich/go-dbscan](https://github.com/sohlich/go-dbscan) - Implementation of DBSCAN clustering algorithm in Go lang
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [alextanhongpin/go-rate](https://github.com/alextanhongpin/go-rate) - Simple rating algorithm as used by Reddit
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [crossplane-contrib/provider-terraform](https://github.com/crossplane-contrib/provider-terraform) - A @crossplane provider for Terraform
