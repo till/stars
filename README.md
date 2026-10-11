@@ -416,7 +416,7 @@
 - [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
 - [itbasis/go-clock](https://github.com/itbasis/go-clock) - Clock is a small library for mocking time in Go.
 - [dineshgowda24/browser](https://github.com/dineshgowda24/browser) - Browser detection in Go (golang)
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
 - [bincyber/go-sqlcrypter](https://github.com/bincyber/go-sqlcrypter) - custom Go data type to facilitate column-level encryption
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
