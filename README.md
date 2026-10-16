@@ -249,10 +249,12 @@
 
 ## Gherkin 
 
+- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [inukshuk/jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) - jekyll extensions for the blogging scholar
 
 ## Go 
 
+- [runway-templates/schema](https://github.com/runway-templates/schema) - The schema for templates on Runway.
 - [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One b
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
@@ -434,7 +436,7 @@
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - Backup and restore Ed25519 SSH keys with seed words 🫠
 - [vexxhost/openstack_database_exporter](https://github.com/vexxhost/openstack_database_exporter) - OpenStack Database Exporter for Prometheus
 - [minio/directpv](https://github.com/minio/directpv) - Kubernetes CSI driver for Direct Attached Storage :minidisc:
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Supports Prometheus, Tempo, Loki, Pyroscope, and more!
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [torenware/vite-go](https://github.com/torenware/vite-go) - Go module to integrate Vue 3, React, and Svelte projects with Golang web projects using Vite 2 and 3
 - [smartxworks/virtink](https://github.com/smartxworks/virtink) - Lightweight Virtualization Add-on for Kubernetes
@@ -1632,7 +1634,6 @@
 - [aws-samples/aws-transit-gateway-connect-sample](https://github.com/aws-samples/aws-transit-gateway-connect-sample) - moved - https://github.com/f7o/aws-transit-gateway-connect-sample
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [pierky/bgp-large-communities-playground](https://github.com/pierky/bgp-large-communities-playground) - A docker-based lab to play with BGP Large Communities
-- [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [sensson/python-openstack-backup](https://github.com/sensson/python-openstack-backup) - A simple set of CLI tools to create and restore snapshots/backups on OpenStack
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -1827,7 +1828,6 @@
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - A beautiful, native Kubernetes desktop client. Every cluster and cloud account in one place. Free and open source, no account, no telemetry.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [bootreer/vroom](https://github.com/bootreer/vroom) - userspace nvme driver
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
@@ -2034,6 +2034,7 @@
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
 - [MarkusThielker/next-ory](https://github.com/MarkusThielker/next-ory) - ☄️ An easy-to-use starting point to self-host Ory Kratos with Ory Hydra and Ory Keto, Next.js authentication UI and admin dashboard (work in progress) styled with TailwindCSS and shadcn/ui
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
+- [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - A beautiful, native Kubernetes desktop client. Every cluster and cloud account in one place. Free and open source, no account, no telemetry.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database, storage and LLMs provisioning and management. It supports multiple technologies and can be hosted on any Kubernetes infrastructure, in th
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
