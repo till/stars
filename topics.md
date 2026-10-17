@@ -2380,6 +2380,7 @@
 
 ## others 
 
+- [runway-templates/schema](https://github.com/runway-templates/schema) - The schema for templates on Runway.
 - [Luzilla/caddyscope](https://github.com/Luzilla/caddyscope) - Caddyscope is a dashboard for Caddy
 - [ngerakines/atproto-skills](https://github.com/ngerakines/atproto-skills) - A collection of ATProtocol agent skills
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
