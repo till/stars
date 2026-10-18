@@ -591,6 +591,7 @@
 
 ## cloud 
 
+- [akyriako/o7k](https://github.com/akyriako/o7k) - 🦎 OpenStack TUI To Manage Your Clouds In Style!
 - [valyentdev/ravel](https://github.com/valyentdev/ravel) - An open-source microVMs orchestrator.
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
@@ -803,6 +804,7 @@
 
 ## devops 
 
+- [akyriako/o7k](https://github.com/akyriako/o7k) - 🦎 OpenStack TUI To Manage Your Clouds In Style!
 - [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One b
 - [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or s
 - [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -1126,6 +1128,7 @@
 
 ## go 
 
+- [akyriako/o7k](https://github.com/akyriako/o7k) - 🦎 OpenStack TUI To Manage Your Clouds In Style!
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [eben-vranken/idempo](https://github.com/eben-vranken/idempo) - 🔑 Go middleware for safe request retries with the IETF idempotency-key draft, pluggable storage, and Stripe-compatible semantics.
 - [aalpar/wile](https://github.com/aalpar/wile) - Pure Go R7RS Scheme — embeddable interpreter with hygienic macros, first-class continuations, and sandboxing
@@ -1317,6 +1320,7 @@
 
 ## golang 
 
+- [akyriako/o7k](https://github.com/akyriako/o7k) - 🦎 OpenStack TUI To Manage Your Clouds In Style!
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [Luzilla/sqlitestream](https://github.com/Luzilla/sqlitestream) - A sqlite-based library for Go, that backs up the database with litestream! (No CGO required!)
 - [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service
@@ -4040,6 +4044,7 @@
 
 ## tui 
 
+- [akyriako/o7k](https://github.com/akyriako/o7k) - 🦎 OpenStack TUI To Manage Your Clouds In Style!
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
