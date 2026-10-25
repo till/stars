@@ -2396,6 +2396,7 @@
 
 ## others 
 
+- [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) - A full-featured implementation of the Network Time Protocol, including NTS support.
 - [carlosframework/skills](https://github.com/carlosframework/skills) - Claude Code skills for building apps on the CARLOS architecture
 - [awslabs/git-remote-s3](https://github.com/awslabs/git-remote-s3) - 
 - [Labbs/ogit](https://github.com/Labbs/ogit) - It's a very simple git server with s3 backend storage
@@ -2486,7 +2487,7 @@
 - [agentsea/nebulous](https://github.com/agentsea/nebulous) - A globally distributed container orchestrator
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a framework for building sovereign security, compliance and fraud prevention applications. Detect account takeovers, cyberfraud and business logic abuse inside your product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source framework for in-house security. Event tracking, risk scoring and threat detection for your system.
 - [operasoftware/cnpg-plugin-pgbackrest](https://github.com/operasoftware/cnpg-plugin-pgbackrest) - pgBackRest CNPG-I backup plugin
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
