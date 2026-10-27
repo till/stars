@@ -1032,6 +1032,7 @@
 
 ## HCL 
 
+- [rafitox/pgproxy_tailscale](https://github.com/rafitox/pgproxy_tailscale) - This repo implements tailscale's pgproxy on top of chainguard's Golang container image using multi-stage building, providing a minimal attack surface. Pgproxy.go was designed by tailscale's team and r
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 - [stackhpc/terraform-magnum](https://github.com/stackhpc/terraform-magnum) - Terraform Kubernetes cluster using OpenStack Magnum
 - [guitarmanvt/terraform-dependencies-explained](https://github.com/guitarmanvt/terraform-dependencies-explained) - Terraform resource and module dependencies, explained with examples
