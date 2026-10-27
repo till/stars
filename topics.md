@@ -2396,6 +2396,7 @@
 
 ## others 
 
+- [rafitox/pgproxy_tailscale](https://github.com/rafitox/pgproxy_tailscale) - This repo implements tailscale's pgproxy on top of chainguard's Golang container image using multi-stage building, providing a minimal attack surface. Pgproxy.go was designed by tailscale's team and r
 - [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) - A full-featured implementation of the Network Time Protocol, including NTS support.
 - [carlosframework/skills](https://github.com/carlosframework/skills) - Claude Code skills for building apps on the CARLOS architecture
 - [awslabs/git-remote-s3](https://github.com/awslabs/git-remote-s3) - 
