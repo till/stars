@@ -161,9 +161,9 @@
 - [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 - [ideawu/ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
 - [tagesspiegel/radmesser](https://github.com/tagesspiegel/radmesser) - 
-- [facebook/mcrouter](https://github.com/facebook/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
+- [meta/mcrouter](https://github.com/meta/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
 - [box/augmented_types](https://github.com/box/augmented_types) - A PHP extension to enforce parameter and return type annotations
-- [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) - Facebook's branch of the Oracle MySQL database. This includes MyRocks.
+- [meta/mysql-5.6](https://github.com/meta/mysql-5.6) - Facebook's branch of the Oracle MySQL database. This includes MyRocks.
 - [twitter-forks/mysql](https://github.com/twitter-forks/mysql) - MySQL fork maintained and used at Twitter
 - [mkoppanen/php-pdo_cassandra](https://github.com/mkoppanen/php-pdo_cassandra) - PDO Driver for the Cassandra CQL API
 - [DeNA/HandlerSocket-Plugin-for-MySQL](https://github.com/DeNA/HandlerSocket-Plugin-for-MySQL) - HandlerSocket is a NoSQL plugin for MySQL, working as a daemon inside the mysqld process, to accept tcp connections, and execute requests from clients. HandlerSocket does not support SQL queries; inst
@@ -815,7 +815,7 @@
 - [gophercloud/gophercloud](https://github.com/gophercloud/gophercloud) - Gophercloud: an OpenStack SDK for Go
 - [honeycombio/beeline-go](https://github.com/honeycombio/beeline-go) - Legacy instrumentation for golang apps with Honeycomb. This repo will be archived on August 12, 2025.
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
+- [prometheus-community/pyrra](https://github.com/prometheus-community/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [joaquimmmagalhaes/terraform-provider-sftpgo](https://github.com/joaquimmmagalhaes/terraform-provider-sftpgo) - 
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
@@ -1810,7 +1810,6 @@
 
 - [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) - A full-featured implementation of the Network Time Protocol, including NTS support.
 - [hewigovens/jayjay](https://github.com/hewigovens/jayjay) - A native macOS GUI for Jujutsu (jj) — DAG graph, side-by-side diffs, interdiff, conflict resolution. Built with Rust + SwiftUI.
-- [preloopdev/preloop](https://github.com/preloopdev/preloop) - agent-native, drop-in Github Actions that run locally or self-hosted in microvms, with debug/pause-on-failure and step-level retries
 - [thewillyhuman/authir](https://github.com/thewillyhuman/authir) - A multi-tenant authentication and authorization gateway for Grafana Mimir.
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [ExtendDB/extenddb](https://github.com/ExtendDB/extenddb) - ExtendDB
