@@ -1145,6 +1145,7 @@
 
 ## go 
 
+- [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A lightweight caching proxy for package registries.
 - [akyriako/o7k](https://github.com/akyriako/o7k) - 🦎 OpenStack TUI To Manage Your Clouds In Style!
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [eben-vranken/idempo](https://github.com/eben-vranken/idempo) - 🔑 Go middleware for safe request retries with the IETF idempotency-key draft, pluggable storage, and Stripe-compatible semantics.
@@ -1337,6 +1338,7 @@
 
 ## golang 
 
+- [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A lightweight caching proxy for package registries.
 - [akyriako/o7k](https://github.com/akyriako/o7k) - 🦎 OpenStack TUI To Manage Your Clouds In Style!
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [Luzilla/sqlitestream](https://github.com/Luzilla/sqlitestream) - A sqlite-based library for Go, that backs up the database with litestream! (No CGO required!)
@@ -1835,7 +1837,7 @@
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [knicola/yup-password](https://github.com/knicola/yup-password) - Yup, dead simple password validation.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [riatelab/bertin](https://github.com/riatelab/bertin) - A package to draw maps in javascript
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
@@ -2401,6 +2403,7 @@
 
 ## others 
 
+- [mafm/zfs-snapshot-disk-usage-matrix](https://github.com/mafm/zfs-snapshot-disk-usage-matrix) - ZFS snapshot disk space usage accounting (Where did all my disk space go?!)
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [rafitox/pgproxy_tailscale](https://github.com/rafitox/pgproxy_tailscale) - This repo implements tailscale's pgproxy on top of chainguard's Golang container image using multi-stage building, providing a minimal attack surface. Pgproxy.go was designed by tailscale's team and r
 - [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) - A full-featured implementation of the Network Time Protocol, including NTS support.
