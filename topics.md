@@ -1631,7 +1631,6 @@
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [VictorAvelar/mollie-api-go](https://github.com/VictorAvelar/mollie-api-go) - Golang wrapper for Mollie's REST API with full resource coverage.
@@ -2403,6 +2402,7 @@
 
 ## others 
 
+- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 - [mafm/zfs-snapshot-disk-usage-matrix](https://github.com/mafm/zfs-snapshot-disk-usage-matrix) - ZFS snapshot disk space usage accounting (Where did all my disk space go?!)
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [rafitox/pgproxy_tailscale](https://github.com/rafitox/pgproxy_tailscale) - This repo implements tailscale's pgproxy on top of chainguard's Golang container image using multi-stage building, providing a minimal attack surface. Pgproxy.go was designed by tailscale's team and r
