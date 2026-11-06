@@ -254,6 +254,7 @@
 
 ## Go 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A lightweight caching proxy for package registries.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [Labbs/ogit](https://github.com/Labbs/ogit) - It's a very simple git server with s3 backend storage
@@ -511,7 +512,6 @@
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is an open-core authorization management platform for authorizing every identity and governing every action across applications, gateways, workloads, and AI agents.
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [summerwind/vault-plugin-auth-openstack](https://github.com/summerwind/vault-plugin-auth-openstack) - Vault authentication plugin for OpenStack instance
@@ -1615,7 +1615,7 @@
 - [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
 - [flatcar/security-triage](https://github.com/flatcar/security-triage) - 
 - [fh/monarchmoney-amexcards-sync](https://github.com/fh/monarchmoney-amexcards-sync) - Tag Monarch Money transactions with credit card used
-- [suitenumerique/messages](https://github.com/suitenumerique/messages) - Collaborative inbox for La Suite territoriale
+- [suitenumerique/messages](https://github.com/suitenumerique/messages) - Collaborative inbox
 - [suitenumerique/drive](https://github.com/suitenumerique/drive) - A collaborative file sharing and document management platform that scales. Built with Django and React.
 - [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [cloudbase/coriolis](https://github.com/cloudbase/coriolis) - Cloud Migration as a Service
@@ -1864,7 +1864,7 @@
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush) - Make it safe to serve untrusted SVG files
 - [kitten/prosemd-lsp](https://github.com/kitten/prosemd-lsp) - An experimental proofreading and linting language server for markdown files ✍️
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The build system for coding agents.
 - [oxidecomputer/propolis](https://github.com/oxidecomputer/propolis) - VMM userspace for illumos bhyve
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [deislabs/wagi](https://github.com/deislabs/wagi) - Write HTTP handlers in WebAssembly with a minimal amount of work
