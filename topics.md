@@ -238,6 +238,7 @@
 - [vim](#vim)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -2415,7 +2416,7 @@
 - [lstoll/awair-exporter](https://github.com/lstoll/awair-exporter) - 
 - [atoonk/go-afxdp](https://github.com/atoonk/go-afxdp) - An easy, concurrency safe AF_XDP library for Go
 - [flatcar/security-triage](https://github.com/flatcar/security-triage) - 
-- [thilo/private-cloud](https://github.com/thilo/private-cloud) - Hardend private cloud stack with file synch, image hosting and password vault. With tight budget in mind.
+- [thilo/private-cloud](https://github.com/thilo/private-cloud) - Hardend private cloud stack with file synch, image hosting, music streaming and password vault. With tight budget in mind.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3) - Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest.
 - [hostwithquantum/quantum-caddy](https://github.com/hostwithquantum/quantum-caddy) - Caddy (v2) setup for Docker nodes at Planetary Quantum
@@ -4192,6 +4193,10 @@
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
 - [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
+
+## vscode 
+
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 
 ## vue 
 
