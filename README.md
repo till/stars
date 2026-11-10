@@ -174,7 +174,6 @@
 ## CSS 
 
 - [Luzilla/caddyscope](https://github.com/Luzilla/caddyscope) - Caddyscope is a dashboard for Caddy
-- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [jumbojett/deis-ui](https://github.com/jumbojett/deis-ui) - full client-side web app that interfaces with deis api
 - [mkaz/lanyon](https://github.com/mkaz/lanyon) - markdown web server
@@ -845,6 +844,7 @@
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [fagongzi/manba](https://github.com/fagongzi/manba) - HTTP API Gateway
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [ansible/receptor](https://github.com/ansible/receptor) - Project Receptor is a flexible multi-service relayer with remote execution and orchestration capabilities linking controllers with executors across a mesh of nodes.
 - [louy/terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - A terraform provider for UptimeRobot
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
@@ -1056,7 +1056,6 @@
 - [wcm-io-devops/ansible-role-apache](https://github.com/wcm-io-devops/ansible-role-apache) - Ansible Role - Apache 2.x.
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 - [shumbashi/cpanel-ansible](https://github.com/shumbashi/cpanel-ansible) - Ansible Playbook for setting up cPanel  and CoudLinux Servers. Compatible with CentOS 6 and 7
-- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [joshwget/validator](https://github.com/joshwget/validator) - Online validator for RancherOS cloud-config files
 - [dylanegan/mittwoch.beer](https://github.com/dylanegan/mittwoch.beer) - A weekly beer meetup in Berlin.
 - [pear/Services_Mailman](https://github.com/pear/Services_Mailman) - Allows the easy integration of Mailman into a dynamic website without using Python or requiring permission to Mailman binaries
@@ -1388,6 +1387,7 @@
 - [niieani/napkin](https://github.com/niieani/napkin) - a command line tool, built to help manage nginx's and PHP's configuration files and automating the creation of secure vhosts
 - [ory/hydra-client-php](https://github.com/ory/hydra-client-php) - 
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
+- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [wp-graphql/wp-graphql-woocommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) - Add WooCommerce support and functionality to your WPGraphQL server
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
 - [passionsplay/wp-asciinema](https://github.com/passionsplay/wp-asciinema) - A WordPress plugin to allow for self-hosted Asciicasts created with Asciinema.
@@ -1958,6 +1958,7 @@
 - [storageos/charts](https://github.com/storageos/charts) - StorageOS official Helm Charts
 - [avlis/pxe_coreos](https://github.com/avlis/pxe_coreos) - Dockerfile to build a PXE server of coreOSes in a Docker container
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
+- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [ddragosd/tsung-docker](https://github.com/ddragosd/tsung-docker) - Docker image to run Tsung distributed load testing tool
 - [phusion/passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
@@ -2082,7 +2083,6 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [johnspurlock/app-privacy-report-viewer](https://github.com/johnspurlock/app-privacy-report-viewer) - Local viewer for App Privacy Reports in iOS 15
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [bobheadxi/deployments](https://github.com/bobheadxi/deployments) - 🔖 GitHub Action for working painlessly with deployment statuses
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
