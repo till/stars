@@ -844,7 +844,6 @@
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [fagongzi/manba](https://github.com/fagongzi/manba) - HTTP API Gateway
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [ansible/receptor](https://github.com/ansible/receptor) - Project Receptor is a flexible multi-service relayer with remote execution and orchestration capabilities linking controllers with executors across a mesh of nodes.
 - [louy/terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - A terraform provider for UptimeRobot
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
@@ -2083,6 +2082,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [johnspurlock/app-privacy-report-viewer](https://github.com/johnspurlock/app-privacy-report-viewer) - Local viewer for App Privacy Reports in iOS 15
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [bobheadxi/deployments](https://github.com/bobheadxi/deployments) - 🔖 GitHub Action for working painlessly with deployment statuses
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
