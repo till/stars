@@ -1684,7 +1684,6 @@
 - [cloudalchemy/ansible-smokeping_prober](https://github.com/cloudalchemy/ansible-smokeping_prober) - Deploy smokeping prober
 - [ReconInfoSec/ansible-graylog-modules](https://github.com/ReconInfoSec/ansible-graylog-modules) - Ansible modules for the Graylog API
 - [ansible-collections/community.grafana](https://github.com/ansible-collections/community.grafana) - Grafana Collection for Ansible
-- [osiegmar/autodns-cli](https://github.com/osiegmar/autodns-cli) - Command line utility for AutoDNS by InternetX
 - [Donohue/medium-to-jekyll](https://github.com/Donohue/medium-to-jekyll) - Convert Medium exported posts to Jekyll posts
 - [dlundgren/ansible-freebsd-modules](https://github.com/dlundgren/ansible-freebsd-modules) - Ansible Modules for FreeBSD
 - [mwielgoszewski/doorman](https://github.com/mwielgoszewski/doorman) - an osquery fleet manager
