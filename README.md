@@ -214,7 +214,6 @@
 - [edorian/runway-react-php-example](https://github.com/edorian/runway-react-php-example) - 
 - [edorian/runway-framework-x-example](https://github.com/edorian/runway-framework-x-example) - 
 - [hostwithquantum/hugo-docker](https://github.com/hostwithquantum/hugo-docker) - hugo (extended) and Golang, in a Docker image
-- [fclairamb/docker-minio-github-actions](https://github.com/fclairamb/docker-minio-github-actions) - 
 - [jmcvea/docker-openstack-client](https://github.com/jmcvea/docker-openstack-client) - Use a docker image for openstack client tooling!
 - [hashicorp/docker-consul](https://github.com/hashicorp/docker-consul) - Official Docker images for Consul.
 - [jpillora/docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq) - dnsmasq in a docker container, configurable via a simple web UI
@@ -1094,7 +1093,7 @@
 - [jakelmg/tailscale-flatcar-config-tool](https://github.com/jakelmg/tailscale-flatcar-config-tool) - 
 - [public-transport/db-vendo-client](https://github.com/public-transport/db-vendo-client) - JavaScript client for Deutsche Bahn public transport APIs.
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [ngxson/portainer-ce-without-annoying](https://github.com/ngxson/portainer-ce-without-annoying) - A drop-in replacement for portainer/portainer-ce, without annoying UI elements or tracking script
