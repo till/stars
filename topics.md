@@ -940,7 +940,7 @@
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
 - [janmattfeld/DockStack](https://github.com/janmattfeld/DockStack) - :whale: Docker on DevStack on Docker ¯\_(ツ)_/¯
 - [pyro/experiment-firecracker-run-docker](https://github.com/pyro/experiment-firecracker-run-docker) - Experimental CLI that takes a Docker image url and runs it in a Firecracker VM
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) - Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [CrunchyData/crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -1682,7 +1682,7 @@
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [tektoncd/dashboard](https://github.com/tektoncd/dashboard) - A dashboard for Tekton!
 - [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) - Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
@@ -2028,7 +2028,7 @@
 - [kayrus/ingress-terraform](https://github.com/kayrus/ingress-terraform) - A Kubernetes ingress controller, which allows to manage LBaaS resources using the Terraform
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) - Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
 - [CrunchyData/crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
@@ -2412,6 +2412,7 @@
 
 ## others 
 
+- [deutschland-schild/schild](https://github.com/deutschland-schild/schild) - Schild Gateway: Open-Source-Firewall für Websites. Reverse-Proxy mit WAF (Caddy, Coraza, OWASP CRS), Verhaltensregeln, Rate-Limits und Dashboard. Selbst gehostet, MIT.
 - [prometheus/scrape.rs](https://github.com/prometheus/scrape.rs) - [EXPERIMENTAL] Prometheus and OpenMetrics scraping, service discovery, relabeling, and exposition format decoding in Rust.
 - [SystemFuchs/stalwart-apple-profile](https://github.com/SystemFuchs/stalwart-apple-profile) - Self-service Apple configuration profiles (.mobileconfig) for Stalwart mail server
 - [mixxor/eu-cloud-prices](https://github.com/mixxor/eu-cloud-prices) - 
