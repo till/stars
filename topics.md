@@ -618,7 +618,7 @@
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for 
 - [sapcc/cyclone](https://github.com/sapcc/cyclone) - Clone OpenStack entities easily
 - [Optum/cloudig](https://github.com/Optum/cloudig) - Cloud governance reports from native services in a clear and readable digest
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - The AI that answers the phone.
 - [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [kayrus/ingress-terraform](https://github.com/kayrus/ingress-terraform) - A Kubernetes ingress controller, which allows to manage LBaaS resources using the Terraform
@@ -2002,7 +2002,7 @@
 - [blind-oracle/cortex-tenant](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds Cortex/Mimir tenant ID based on metric labels
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [ruoshan/autoportforward](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker, podman and kubernetes
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [telekom/das-schiff](https://github.com/telekom/das-schiff) - This is home of Das Schiff - Deutsche Telekom Technik's engine for Kubernetes Cluster as a Service (CaaS) in on-premise environment on top of bare-metal servers and VMs.
@@ -2412,6 +2412,7 @@
 
 ## others 
 
+- [hostwithquantum/first-deploy](https://github.com/hostwithquantum/first-deploy) - A placeholder for new Runway apps
 - [deutschland-schild/schild](https://github.com/deutschland-schild/schild) - Schild Gateway: Open-Source-Firewall für Websites. Reverse-Proxy mit WAF (Caddy, Coraza, OWASP CRS), Verhaltensregeln, Rate-Limits und Dashboard. Selbst gehostet, MIT.
 - [prometheus/scrape.rs](https://github.com/prometheus/scrape.rs) - [EXPERIMENTAL] Prometheus and OpenMetrics scraping, service discovery, relabeling, and exposition format decoding in Rust.
 - [SystemFuchs/stalwart-apple-profile](https://github.com/SystemFuchs/stalwart-apple-profile) - Self-service Apple configuration profiles (.mobileconfig) for Stalwart mail server
@@ -3109,7 +3110,7 @@
 - [jmhodges/justrun](https://github.com/jmhodges/justrun) - A tool that watches files, and runs possibly long-lived commands when they change.
 - [meta/mysql-5.6](https://github.com/meta/mysql-5.6) - Facebook's branch of the Oracle MySQL database. This includes MyRocks.
 - [keeb-zz/any-saas](https://github.com/keeb-zz/any-saas) - 
-- [adrienbrault/hhvm-vagrant](https://github.com/adrienbrault/hhvm-vagrant) - Ubuntu 13.10 box with HHVM
+- [adrienbrault/hhvm-vagrant](https://github.com/adrienbrault/hhvm-vagrant) - Vagrant box running HHVM on Ubuntu 13.10 (2013)
 - [wdas/reposado](https://github.com/wdas/reposado) - Host Apple Software Updates on the hardware and OS of your choice.
 - [brianhouse/conversnitch](https://github.com/brianhouse/conversnitch) - A monitoring device
 - [basho/basho_docs](https://github.com/basho/basho_docs) - Basho Products Documentation
@@ -3802,7 +3803,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Optum/cloudig](https://github.com/Optum/cloudig) - Cloud governance reports from native services in a clear and readable digest
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
@@ -3854,7 +3855,7 @@
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config and experimentation. Choose from self-hosted or cloud deployment options.
 - [prest/prest](https://github.com/prest/prest) - Instant REST and MCP APIs for PostgreSQL and MySQL, on existing or new databases. CRUD, custom SQL routes, auth and ACL without writing a backend. Low-code, ⚡ realtime, high-performance. Native MySQL 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -4206,7 +4207,7 @@
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
