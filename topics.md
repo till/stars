@@ -2614,7 +2614,7 @@
 - [rtckit/eqivo](https://github.com/rtckit/eqivo) - :telephone_receiver: Open Source Telephony API Platform
 - [fmaida/mastodon2hugo](https://github.com/fmaida/mastodon2hugo) - Enables searchability for your Hugo website on Mastodon. Now, anyone can discover you on Mastodon by simply entering your domain.
 - [hostwithquantum/runway-example-hugo](https://github.com/hostwithquantum/runway-example-hugo) - example hugo app for runway
-- [sveltejs/svelte-devtools](https://github.com/sveltejs/svelte-devtools) - A browser extension to inspect Svelte application by extending your browser devtools capabilities
+- [sveltejs/svelte-devtools](https://github.com/sveltejs/svelte-devtools) - Deprecated in favor of https://github.com/sveltejs/vite-devtools-svelte
 - [khusika/FeelIt](https://github.com/khusika/FeelIt) - A clean, elegant but advanced blog theme for Hugo
 - [jacksalici/salinger-theme](https://github.com/jacksalici/salinger-theme) - A clean and minimalistic Hugo theme for personal blogs and portfolios. Built with TailwindCSS and DaisyUI.
 - [hostwithquantum/setup-mc](https://github.com/hostwithquantum/setup-mc) - A github action to download minio client (mc) in your workflows.
